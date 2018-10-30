@@ -1,14 +1,14 @@
 <template lang="pug">
   nav
-    dl(v-for="item in index_nav" :key="item.index")
-      dt.iconfont(:class="item.iconClass")
-        i(v-if="item.hint.count",v-text="item.hint.count")
-      dd {{item.text}}
+    dl(v-for="item in index_nav", @click="set_menu_active(item.index)")
+      router-link(:to="item.path")
+        dt.iconfont(:class="item.iconClass")
+          i(v-if="item.hint.count", v-text="item.hint.count", :class="'_news-'+item.hint.type")
+        dd(v-text="item.text")
 </template>
 
 <script>
-import { mapGetters } from 'vuex'
-let indexNav = require('../mock/index-nav')
+import { mapGetters, mapActions } from 'vuex'
 
 export default {
   data () {
@@ -16,19 +16,16 @@ export default {
     }
   },
   filters: {
-    get_prompt (hint) {
-      return hint.count
-    }
+
   },
   computed: {
     ...mapGetters(['index_nav'])
   },
   created () {
-    setTimeout(() => {
-      this.$store.commit('SET_MENU', indexNav)
-    }, 2000)
+    this.set_menu()
   },
   methods: {
+    ...mapActions(['set_menu', 'set_menu_active'])
   }
 }
 </script>
@@ -52,8 +49,8 @@ nav dl {
   line-height: 1;
 }
 
-nav dl.v-link-active dl,
-nav dl.v-link-active dt {
+nav dl .router-link-active dt,
+nav dl .router-link-active dd {
   color: #0bb908;
 }
 

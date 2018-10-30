@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'iconfont';
-  src: url('//at.alicdn.com/t/font_1474796923_6082804.eot'); /* IE9*/
-  src: url('//at.alicdn.com/t/font_1474796923_6082804.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('//at.alicdn.com/t/font_1474796923_6082804.woff') format('woff'), /* chrome、firefox */
-  url('//at.alicdn.com/t/font_1474796923_6082804.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
-  url('//at.alicdn.com/t/font_1474796923_6082804.svg#iconfont') format('svg'); /* iOS 4.1- */
+  font-family: 'iconfont';  /* project id 639044 */
+  src: url('//at.alicdn.com/t/font_639044_dl1nek0ebev.eot');
+  src: url('//at.alicdn.com/t/font_639044_dl1nek0ebev.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_639044_dl1nek0ebev.woff') format('woff'),
+  url('//at.alicdn.com/t/font_639044_dl1nek0ebev.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_639044_dl1nek0ebev.svg#iconfont') format('svg');
 }
 
 .iconfont {
@@ -17,8 +17,16 @@
 }
 
 /**/
-.icon-tips-jia::before { content: "\e605"; }
-.icon-return-arrow::before { content: "\e60a"; }
+.icon-recommend::before { content: "\e62a"; }
+.icon-channel::before { content: "\e693"; }
+.icon-seed::before { content: "\e89d"; }
+.icon-live::before { content: "\e64f"; }
+.icon-person::before { content: "\e600"; }
+
+
+
+/* .icon-tips-jia::before { content: "\e605"; } */
+/* .icon-return-arrow::before { content: "\e60a"; }
 .icon-tips-add-friend::before { content: "\e606"; }
 .icon-chat-set::before { content: "\e60e"; }
 .icon-mute::before { content: "\e604"; }
@@ -27,7 +35,7 @@
 .icon-chat-friends::before { content: "\e60c"; }
 .icon-more::before { content: "\e60b"; }
 .icon-tips-saoyisao::before { content: "\e608"; }
-.icon-wechat::before { content: "\e600"; }
+.icon-wechat::before { content: "\e62a"; }
 .icon-me::before { content: "\e601"; }
 .icon-dialogue-jia::before { content: "\e615"; }
 .icon-tips-fukuan::before { content: "\e609"; }
@@ -42,5 +50,5 @@
 .icon-dialogue-bar-jianpan::before{ content: "\e602"; }
 .icon-dialogue-bar-menu::before{ content: "\e613"; }
 .icon-search::before{ content: "\e614"; }
-.icon-iphone-address::before{ content: "\e617"; }
+.icon-iphone-address::before{ content: "\e617"; } */
 

@@ -1,17 +1,25 @@
 <template lang="pug">
   ._cover-top
     .other
-      span.iconfont.icon-tips-jia
-      span.iconfont.icon-tips-add-friend
-      ul.tips-menu
-        li(v-for="item in [1,2,3]" :key="item")
-    .center 标题
+      //- span.iconfont.icon-tips-jia
+      //- span.iconfont.icon-tips-add-friend
+      span(style="display:none;", v-show="menu_active.index != 3 && menu_active.index != 4", @click="go_download") 下载
+      ul.tips-menu(:class="tips_isOpen?'tips-open':'tips-close'")
+        li(v-for="item in menuArr")
+          span.iconfont(:class="item.iconClass")
+          div(v-text="item.text")
+    .center
+      | {{menu_active.text}}
+      //- span.parentheses
 </template>
 
 <script>
+import {mapGetters} from 'vuex'
+
 export default {
   data () {
     return {
+      tips_isOpen: false,
       menuArr: [
         {
           _link: {
@@ -46,6 +54,15 @@ export default {
           iconClass: 'icon-tips-fukuan'
         }
       ]
+    }
+  },
+  computed: {
+    ...mapGetters(['menu_active'])
+  },
+  methods: {
+    go_download () {
+      event.stopPropagation()
+      this.$router.push({path: 'download', append: true})
     }
   }
 }

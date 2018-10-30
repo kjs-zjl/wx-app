@@ -1,7 +1,5 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import getters from './getters'
-import actions from './actions'
 
 // 基本通用
 import base from './modules/base'
@@ -21,7 +19,5 @@ export default new Vuex.Store({
     contacts,
     find
   },
-  getters,
-  actions,
   strict: true
 })

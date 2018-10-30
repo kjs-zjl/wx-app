@@ -2,50 +2,62 @@
 module.exports = [{
   index: 0,
   path: {
-    path: '/chat'
+    path: '/recommend'
   },
   hint: {
-    type: 'count',
-    count: 0
-  }, // count,dot
-  iconClass: 'icon-wechat',
-  text: '微信'
+    type: 'count', // count,dot
+    count: 12
+  },
+  iconClass: 'icon-recommend',
+  text: '推荐'
 },
 {
   index: 1,
   path: {
-    path: '/contact'
+    path: '/channel'
   },
 
   hint: {
     type: 'count',
     count: 0
   },
-  iconClass: 'icon-contact',
-  text: '通讯录'
+  iconClass: 'icon-channel',
+  text: '频道'
 },
 {
   index: 2,
   path: {
-    path: '/find'
+    path: '/seed'
   },
   hint: {
     type: 'dot',
     count: 99
   },
-  iconClass: 'icon-find',
-  text: '发现'
+  iconClass: 'icon-seed',
+  text: '种子'
 },
 {
   index: 3,
   path: {
-    path: '/me'
+    path: '/live'
   },
   hint: {
     type: null,
     count: ''
   },
-  iconClass: 'icon-me',
-  text: '我'
+  iconClass: 'icon-live',
+  text: '直播'
+},
+{
+  index: 4,
+  path: {
+    path: '/person'
+  },
+  hint: {
+    type: null,
+    count: ''
+  },
+  iconClass: 'icon-person',
+  text: '个人'
 }
 ]

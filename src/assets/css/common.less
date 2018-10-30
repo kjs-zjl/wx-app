@@ -394,3 +394,74 @@ body,
 ._cover-top .top-other .iconfont {
     font-size: 24px;
 }
+
+
+// 路由转场效果
+// 滑动效果(左右)
+  .hor-enter-active {
+    animation-name: hor-fold-in;
+    animation-duration: 0.3s;
+  }
+  .hor-leave-active {
+    animation-name: hor-fold-out;
+    animation-duration: 0.3s;
+  }
+  @keyframes hor-fold-in {
+    0% {
+      // opacity: 0;
+      // transform: translate3d(100%, 0, 0);
+      transform: translateX(100%);
+    }
+    100% {
+      // opacity: 1;
+      // transform: translate3d(0, 0, 0);
+      transform: translateX(0);
+    }
+  }
+  @keyframes hor-fold-out {
+    0% {
+      // opacity: 1;
+      // transform: translate3d(0, 0, 0);
+      transform: translateX(0);
+    }
+    100% {
+      // opacity: 0;
+      // transform: translate3d(100%, 0, 0);
+      transform: translateX(100%);
+    }
+  }
+  
+  // 滑动效果(上下)
+  .ver-enter-active {
+    animation-name: ver-fold-in;
+    animation-duration: 0.3s;
+  }
+  .ver-leave-active {
+    animation-name: ver-fold-out;
+    animation-duration: 0.3s;
+  }
+  @keyframes ver-fold-in {
+    0% {
+      opacity: 0;
+      // transform: translate3d(100%, 0, 0);
+      transform: translateY(20%);
+    }
+    100% {
+      opacity: 1;
+      // transform: translate3d(0, 0, 0);
+      transform: translateY(0);
+    }
+  }
+  @keyframes ver-fold-out {
+    0% {
+      opacity: 1;
+      // transform: translate3d(0, 0, 0);
+      transform: translateY(0);
+    }
+    100% {
+      opacity: 0;
+      // transform: translate3d(100%, 0, 0);
+      transform: translateY(20%);
+    }
+  }
+  
