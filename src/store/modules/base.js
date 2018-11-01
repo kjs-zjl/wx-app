@@ -4,6 +4,8 @@ import {
   SET_MENU_ACTIVE
 } from '../mutation-types'
 
+const menu = require('../../mock/index-nav')
+
 let state = {
   backPath: '',
   index_nav: [{
@@ -56,7 +58,6 @@ const actions = {
   set_menu ({
     commit
   }) {
-    let menu = require('../../mock/index-nav')
     commit(SET_MENU, menu)
   },
   set_menu_active ({

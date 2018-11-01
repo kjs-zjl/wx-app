@@ -4,22 +4,36 @@
       //- span.iconfont.icon-tips-jia
       //- span.iconfont.icon-tips-add-friend
       span(style="display:none;", v-show="menu_active.index != 3 && menu_active.index != 4", @click="go_download") 下载
-      ul.tips-menu(:class="tips_isOpen?'tips-open':'tips-close'")
+      //- ul.tips-menu(:class="tips_isOpen?'tips-open':'tips-close'")
         li(v-for="item in menuArr")
           span.iconfont(:class="item.iconClass")
           div(v-text="item.text")
     .center
-      | {{menu_active.text}}
-      //- span.parentheses
+      //- 推荐
+      mt-navbar(v-if='menu_active.index == 0', v-model="selected")
+        mt-tab-item(v-for="item in recTabs", :key="item.id", :id="item.id") {{item.text}}
+      //- 种子
+      .seed-search(v-else-if='menu_active.index == 2')
+        span 种子
+        input(placeholder="勇闯天涯")
+
+      span(v-else) {{menu_active.text}}
 </template>
 
 <script>
-import {mapGetters} from 'vuex'
+import { mapGetters } from 'vuex'
+import { Navbar, TabItem, Search } from 'mint-ui'
+
+let components = {}
+components[Search.name] = Search
+components[Navbar.name] = Navbar
+components[TabItem.name] = TabItem
 
 export default {
+  components,
   data () {
     return {
-      tips_isOpen: false,
+      // tips_isOpen: false,
       menuArr: [
         {
           _link: {
@@ -57,13 +71,23 @@ export default {
     }
   },
   computed: {
-    ...mapGetters(['menu_active'])
+    ...mapGetters(['menu_active', 'recSelect', 'recTabs']),
+    selected: {
+      get () {
+        return this.recSelect
+      },
+      set (val) {
+        this.$store.commit('NAV_SELECTED', val)
+      }
+    }
   },
   methods: {
     go_download () {
       event.stopPropagation()
-      this.$router.push({path: 'download', append: true})
+      this.$router.push({ path: 'download', append: true })
     }
+  },
+  created () {
   }
 }
 </script>
@@ -72,6 +96,29 @@ export default {
 .center {
   margin: 0 auto;
   text-align: center;
+  .mint-navbar {
+    width: 80%;
+    background-color: inherit;
+    .mint-tab-item {
+      &.is-selected{
+        border-bottom: none;
+        margin-bottom: 0;
+      }
+      // margin-right: 10px;
+    }
+  }
+  .seed-search {
+    display: flex;
+    align-items: center;
+    input {
+      margin-left: 10px;
+      margin-right: 42px;
+      height: 30px;
+      padding: 0 10px;
+      border-radius: 4px;
+      flex: 1;
+    }
+  }
 }
 
 .other {

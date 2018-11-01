@@ -3,8 +3,8 @@ import Vuex from 'vuex'
 
 // 基本通用
 import base from './modules/base'
-// 聊天
-import chat from './modules/chat'
+// 推荐
+import chat from './modules/recommend'
 // 联系人
 import contacts from './modules/contacts'
 // 发现
