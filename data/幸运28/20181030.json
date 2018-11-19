@@ -1,0 +1,5286 @@
+{
+  "data": [
+    {
+      "lotteryId": "22",
+      "issueNo": "3079787",
+      "prizeNumber": "9,7,2,18",
+      "prizeTime": "2018-10-30 23:59:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079786",
+      "prizeNumber": "7,5,9,21",
+      "prizeTime": "2018-10-30 23:57:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079785",
+      "prizeNumber": "5,9,4,18",
+      "prizeTime": "2018-10-30 23:55:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079784",
+      "prizeNumber": "6,3,1,10",
+      "prizeTime": "2018-10-30 23:53:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079783",
+      "prizeNumber": "5,9,0,14",
+      "prizeTime": "2018-10-30 23:51:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079782",
+      "prizeNumber": "9,8,4,21",
+      "prizeTime": "2018-10-30 23:49:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079781",
+      "prizeNumber": "9,2,1,12",
+      "prizeTime": "2018-10-30 23:47:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079780",
+      "prizeNumber": "2,5,1,8",
+      "prizeTime": "2018-10-30 23:45:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079779",
+      "prizeNumber": "3,2,3,8",
+      "prizeTime": "2018-10-30 23:43:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079778",
+      "prizeNumber": "9,5,6,20",
+      "prizeTime": "2018-10-30 23:41:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079777",
+      "prizeNumber": "5,3,0,8",
+      "prizeTime": "2018-10-30 23:39:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079776",
+      "prizeNumber": "0,2,0,2",
+      "prizeTime": "2018-10-30 23:37:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079775",
+      "prizeNumber": "9,8,7,24",
+      "prizeTime": "2018-10-30 23:35:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079774",
+      "prizeNumber": "2,6,0,8",
+      "prizeTime": "2018-10-30 23:33:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079773",
+      "prizeNumber": "7,3,9,19",
+      "prizeTime": "2018-10-30 23:31:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079772",
+      "prizeNumber": "0,0,1,1",
+      "prizeTime": "2018-10-30 23:29:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079771",
+      "prizeNumber": "4,2,0,6",
+      "prizeTime": "2018-10-30 23:27:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079770",
+      "prizeNumber": "5,6,5,16",
+      "prizeTime": "2018-10-30 23:25:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079769",
+      "prizeNumber": "3,4,6,13",
+      "prizeTime": "2018-10-30 23:23:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079768",
+      "prizeNumber": "4,5,6,15",
+      "prizeTime": "2018-10-30 23:21:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079767",
+      "prizeNumber": "0,9,5,14",
+      "prizeTime": "2018-10-30 23:19:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079766",
+      "prizeNumber": "0,7,6,13",
+      "prizeTime": "2018-10-30 23:17:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079765",
+      "prizeNumber": "1,2,6,9",
+      "prizeTime": "2018-10-30 23:15:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079764",
+      "prizeNumber": "6,3,6,15",
+      "prizeTime": "2018-10-30 23:13:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079763",
+      "prizeNumber": "6,8,3,17",
+      "prizeTime": "2018-10-30 23:11:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079762",
+      "prizeNumber": "2,2,8,12",
+      "prizeTime": "2018-10-30 23:09:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079761",
+      "prizeNumber": "4,1,4,9",
+      "prizeTime": "2018-10-30 23:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079760",
+      "prizeNumber": "7,3,3,13",
+      "prizeTime": "2018-10-30 23:05:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079759",
+      "prizeNumber": "0,5,9,14",
+      "prizeTime": "2018-10-30 23:03:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079758",
+      "prizeNumber": "8,3,0,11",
+      "prizeTime": "2018-10-30 23:01:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079757",
+      "prizeNumber": "3,4,2,9",
+      "prizeTime": "2018-10-30 22:59:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079756",
+      "prizeNumber": "5,9,7,21",
+      "prizeTime": "2018-10-30 22:57:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079755",
+      "prizeNumber": "9,2,4,15",
+      "prizeTime": "2018-10-30 22:55:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079754",
+      "prizeNumber": "0,8,5,13",
+      "prizeTime": "2018-10-30 22:53:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079753",
+      "prizeNumber": "1,6,9,16",
+      "prizeTime": "2018-10-30 22:51:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079752",
+      "prizeNumber": "8,4,5,17",
+      "prizeTime": "2018-10-30 22:49:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079751",
+      "prizeNumber": "9,9,8,26",
+      "prizeTime": "2018-10-30 22:47:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079750",
+      "prizeNumber": "8,9,7,24",
+      "prizeTime": "2018-10-30 22:45:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079749",
+      "prizeNumber": "2,8,0,10",
+      "prizeTime": "2018-10-30 22:43:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079748",
+      "prizeNumber": "9,7,2,18",
+      "prizeTime": "2018-10-30 22:41:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079747",
+      "prizeNumber": "1,6,7,14",
+      "prizeTime": "2018-10-30 22:39:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079746",
+      "prizeNumber": "8,8,2,18",
+      "prizeTime": "2018-10-30 22:37:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079745",
+      "prizeNumber": "2,5,1,8",
+      "prizeTime": "2018-10-30 22:35:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079744",
+      "prizeNumber": "3,7,3,13",
+      "prizeTime": "2018-10-30 22:33:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079743",
+      "prizeNumber": "3,0,7,10",
+      "prizeTime": "2018-10-30 22:31:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079742",
+      "prizeNumber": "9,1,5,15",
+      "prizeTime": "2018-10-30 22:29:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079741",
+      "prizeNumber": "8,4,6,18",
+      "prizeTime": "2018-10-30 22:27:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079740",
+      "prizeNumber": "3,7,8,18",
+      "prizeTime": "2018-10-30 22:25:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079739",
+      "prizeNumber": "4,5,1,10",
+      "prizeTime": "2018-10-30 22:23:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079738",
+      "prizeNumber": "1,1,3,5",
+      "prizeTime": "2018-10-30 22:21:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079737",
+      "prizeNumber": "3,6,2,11",
+      "prizeTime": "2018-10-30 22:19:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079736",
+      "prizeNumber": "0,9,5,14",
+      "prizeTime": "2018-10-30 22:17:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079735",
+      "prizeNumber": "5,6,1,12",
+      "prizeTime": "2018-10-30 22:15:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079734",
+      "prizeNumber": "8,4,8,20",
+      "prizeTime": "2018-10-30 22:13:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079733",
+      "prizeNumber": "3,9,8,20",
+      "prizeTime": "2018-10-30 22:11:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079732",
+      "prizeNumber": "8,9,5,22",
+      "prizeTime": "2018-10-30 22:09:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079731",
+      "prizeNumber": "2,7,0,9",
+      "prizeTime": "2018-10-30 22:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079730",
+      "prizeNumber": "3,7,4,14",
+      "prizeTime": "2018-10-30 22:05:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079729",
+      "prizeNumber": "6,1,2,9",
+      "prizeTime": "2018-10-30 22:03:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079728",
+      "prizeNumber": "3,5,6,14",
+      "prizeTime": "2018-10-30 22:01:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079727",
+      "prizeNumber": "8,9,8,25",
+      "prizeTime": "2018-10-30 21:59:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079726",
+      "prizeNumber": "3,6,9,18",
+      "prizeTime": "2018-10-30 21:57:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079725",
+      "prizeNumber": "8,9,2,19",
+      "prizeTime": "2018-10-30 21:55:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079724",
+      "prizeNumber": "6,0,6,12",
+      "prizeTime": "2018-10-30 21:53:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079723",
+      "prizeNumber": "5,4,4,13",
+      "prizeTime": "2018-10-30 21:51:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079722",
+      "prizeNumber": "9,4,9,22",
+      "prizeTime": "2018-10-30 21:49:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079721",
+      "prizeNumber": "1,7,8,16",
+      "prizeTime": "2018-10-30 21:47:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079720",
+      "prizeNumber": "8,6,0,14",
+      "prizeTime": "2018-10-30 21:45:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079719",
+      "prizeNumber": "7,7,5,19",
+      "prizeTime": "2018-10-30 21:43:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079718",
+      "prizeNumber": "6,4,6,16",
+      "prizeTime": "2018-10-30 21:41:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079717",
+      "prizeNumber": "6,7,8,21",
+      "prizeTime": "2018-10-30 21:39:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079716",
+      "prizeNumber": "1,6,8,15",
+      "prizeTime": "2018-10-30 21:37:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079715",
+      "prizeNumber": "0,2,3,5",
+      "prizeTime": "2018-10-30 21:35:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079714",
+      "prizeNumber": "1,9,0,10",
+      "prizeTime": "2018-10-30 21:33:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079713",
+      "prizeNumber": "6,7,8,21",
+      "prizeTime": "2018-10-30 21:31:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079712",
+      "prizeNumber": "9,5,0,14",
+      "prizeTime": "2018-10-30 21:29:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079711",
+      "prizeNumber": "7,6,4,17",
+      "prizeTime": "2018-10-30 21:27:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079710",
+      "prizeNumber": "4,0,8,12",
+      "prizeTime": "2018-10-30 21:25:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079709",
+      "prizeNumber": "0,3,5,8",
+      "prizeTime": "2018-10-30 21:23:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079708",
+      "prizeNumber": "7,6,1,14",
+      "prizeTime": "2018-10-30 21:21:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079707",
+      "prizeNumber": "9,3,2,14",
+      "prizeTime": "2018-10-30 21:19:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079706",
+      "prizeNumber": "9,4,0,13",
+      "prizeTime": "2018-10-30 21:17:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079705",
+      "prizeNumber": "3,5,9,17",
+      "prizeTime": "2018-10-30 21:15:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079704",
+      "prizeNumber": "0,9,2,11",
+      "prizeTime": "2018-10-30 21:13:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079703",
+      "prizeNumber": "5,2,1,8",
+      "prizeTime": "2018-10-30 21:11:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079702",
+      "prizeNumber": "7,0,2,9",
+      "prizeTime": "2018-10-30 21:09:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079701",
+      "prizeNumber": "4,9,6,19",
+      "prizeTime": "2018-10-30 21:07:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079700",
+      "prizeNumber": "4,0,8,12",
+      "prizeTime": "2018-10-30 21:05:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079699",
+      "prizeNumber": "8,5,1,14",
+      "prizeTime": "2018-10-30 21:03:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079698",
+      "prizeNumber": "4,2,5,11",
+      "prizeTime": "2018-10-30 21:01:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079697",
+      "prizeNumber": "3,8,8,19",
+      "prizeTime": "2018-10-30 20:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079696",
+      "prizeNumber": "2,6,7,15",
+      "prizeTime": "2018-10-30 20:57:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079695",
+      "prizeNumber": "6,1,8,15",
+      "prizeTime": "2018-10-30 20:55:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079694",
+      "prizeNumber": "3,5,3,11",
+      "prizeTime": "2018-10-30 20:53:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079693",
+      "prizeNumber": "5,9,2,16",
+      "prizeTime": "2018-10-30 20:51:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079692",
+      "prizeNumber": "5,8,5,18",
+      "prizeTime": "2018-10-30 20:49:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079691",
+      "prizeNumber": "6,4,2,12",
+      "prizeTime": "2018-10-30 20:47:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079690",
+      "prizeNumber": "7,1,0,8",
+      "prizeTime": "2018-10-30 20:45:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079689",
+      "prizeNumber": "0,3,4,7",
+      "prizeTime": "2018-10-30 20:43:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079688",
+      "prizeNumber": "7,4,9,20",
+      "prizeTime": "2018-10-30 20:41:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079687",
+      "prizeNumber": "0,7,9,16",
+      "prizeTime": "2018-10-30 20:39:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079686",
+      "prizeNumber": "7,9,3,19",
+      "prizeTime": "2018-10-30 20:37:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079685",
+      "prizeNumber": "7,4,1,12",
+      "prizeTime": "2018-10-30 20:35:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079684",
+      "prizeNumber": "6,0,7,13",
+      "prizeTime": "2018-10-30 20:33:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079683",
+      "prizeNumber": "4,2,8,14",
+      "prizeTime": "2018-10-30 20:31:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079682",
+      "prizeNumber": "8,3,0,11",
+      "prizeTime": "2018-10-30 20:29:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079681",
+      "prizeNumber": "7,8,0,15",
+      "prizeTime": "2018-10-30 20:27:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079680",
+      "prizeNumber": "0,1,4,5",
+      "prizeTime": "2018-10-30 20:25:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079679",
+      "prizeNumber": "7,8,1,16",
+      "prizeTime": "2018-10-30 20:23:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079678",
+      "prizeNumber": "0,2,3,5",
+      "prizeTime": "2018-10-30 20:21:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079677",
+      "prizeNumber": "3,5,7,15",
+      "prizeTime": "2018-10-30 20:19:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079676",
+      "prizeNumber": "5,6,1,12",
+      "prizeTime": "2018-10-30 20:17:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079675",
+      "prizeNumber": "5,8,3,16",
+      "prizeTime": "2018-10-30 20:15:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079674",
+      "prizeNumber": "6,5,1,12",
+      "prizeTime": "2018-10-30 20:13:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079673",
+      "prizeNumber": "3,1,2,6",
+      "prizeTime": "2018-10-30 20:11:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079672",
+      "prizeNumber": "5,4,3,12",
+      "prizeTime": "2018-10-30 20:09:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079671",
+      "prizeNumber": "8,0,4,12",
+      "prizeTime": "2018-10-30 20:07:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079670",
+      "prizeNumber": "7,5,1,13",
+      "prizeTime": "2018-10-30 20:05:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079669",
+      "prizeNumber": "6,3,6,15",
+      "prizeTime": "2018-10-30 20:03:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079668",
+      "prizeNumber": "5,2,1,8",
+      "prizeTime": "2018-10-30 20:01:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079667",
+      "prizeNumber": "9,0,6,15",
+      "prizeTime": "2018-10-30 19:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079666",
+      "prizeNumber": "1,0,8,9",
+      "prizeTime": "2018-10-30 19:57:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079665",
+      "prizeNumber": "6,6,1,13",
+      "prizeTime": "2018-10-30 19:55:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079664",
+      "prizeNumber": "1,5,6,12",
+      "prizeTime": "2018-10-30 19:53:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079663",
+      "prizeNumber": "3,3,9,15",
+      "prizeTime": "2018-10-30 19:51:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079662",
+      "prizeNumber": "4,9,9,22",
+      "prizeTime": "2018-10-30 19:49:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079661",
+      "prizeNumber": "2,5,8,15",
+      "prizeTime": "2018-10-30 19:47:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079660",
+      "prizeNumber": "8,6,1,15",
+      "prizeTime": "2018-10-30 19:45:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079659",
+      "prizeNumber": "9,5,4,18",
+      "prizeTime": "2018-10-30 19:43:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079658",
+      "prizeNumber": "3,3,5,11",
+      "prizeTime": "2018-10-30 19:41:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079657",
+      "prizeNumber": "0,5,7,12",
+      "prizeTime": "2018-10-30 19:39:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079656",
+      "prizeNumber": "4,8,2,14",
+      "prizeTime": "2018-10-30 19:37:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079655",
+      "prizeNumber": "2,2,5,9",
+      "prizeTime": "2018-10-30 19:35:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079654",
+      "prizeNumber": "9,8,2,19",
+      "prizeTime": "2018-10-30 19:33:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079653",
+      "prizeNumber": "8,7,8,23",
+      "prizeTime": "2018-10-30 19:31:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079652",
+      "prizeNumber": "7,2,6,15",
+      "prizeTime": "2018-10-30 19:29:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079651",
+      "prizeNumber": "9,4,0,13",
+      "prizeTime": "2018-10-30 19:27:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079650",
+      "prizeNumber": "3,7,9,19",
+      "prizeTime": "2018-10-30 19:25:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079649",
+      "prizeNumber": "9,4,1,14",
+      "prizeTime": "2018-10-30 19:23:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079648",
+      "prizeNumber": "6,7,9,22",
+      "prizeTime": "2018-10-30 19:21:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079647",
+      "prizeNumber": "9,0,6,15",
+      "prizeTime": "2018-10-30 19:19:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079646",
+      "prizeNumber": "7,7,1,15",
+      "prizeTime": "2018-10-30 19:17:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079645",
+      "prizeNumber": "2,2,8,12",
+      "prizeTime": "2018-10-30 19:15:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079644",
+      "prizeNumber": "8,3,4,15",
+      "prizeTime": "2018-10-30 19:13:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079643",
+      "prizeNumber": "0,5,0,5",
+      "prizeTime": "2018-10-30 19:11:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079642",
+      "prizeNumber": "1,5,6,12",
+      "prizeTime": "2018-10-30 19:09:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079641",
+      "prizeNumber": "4,4,5,13",
+      "prizeTime": "2018-10-30 19:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079640",
+      "prizeNumber": "8,8,0,16",
+      "prizeTime": "2018-10-30 19:05:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079639",
+      "prizeNumber": "8,5,3,16",
+      "prizeTime": "2018-10-30 19:03:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079638",
+      "prizeNumber": "3,5,7,15",
+      "prizeTime": "2018-10-30 19:01:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079637",
+      "prizeNumber": "2,5,8,15",
+      "prizeTime": "2018-10-30 18:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079636",
+      "prizeNumber": "9,2,5,16",
+      "prizeTime": "2018-10-30 18:57:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079635",
+      "prizeNumber": "8,9,5,22",
+      "prizeTime": "2018-10-30 18:55:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079634",
+      "prizeNumber": "1,5,1,7",
+      "prizeTime": "2018-10-30 18:53:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079633",
+      "prizeNumber": "7,0,3,10",
+      "prizeTime": "2018-10-30 18:51:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079632",
+      "prizeNumber": "9,1,5,15",
+      "prizeTime": "2018-10-30 18:49:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079631",
+      "prizeNumber": "8,6,2,16",
+      "prizeTime": "2018-10-30 18:47:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079630",
+      "prizeNumber": "7,4,0,11",
+      "prizeTime": "2018-10-30 18:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079629",
+      "prizeNumber": "8,6,2,16",
+      "prizeTime": "2018-10-30 18:43:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079628",
+      "prizeNumber": "1,0,5,6",
+      "prizeTime": "2018-10-30 18:41:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079627",
+      "prizeNumber": "0,2,8,10",
+      "prizeTime": "2018-10-30 18:39:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079626",
+      "prizeNumber": "7,0,4,11",
+      "prizeTime": "2018-10-30 18:37:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079625",
+      "prizeNumber": "3,2,1,6",
+      "prizeTime": "2018-10-30 18:35:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079624",
+      "prizeNumber": "8,1,6,15",
+      "prizeTime": "2018-10-30 18:33:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079623",
+      "prizeNumber": "4,2,0,6",
+      "prizeTime": "2018-10-30 18:31:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079622",
+      "prizeNumber": "4,1,1,6",
+      "prizeTime": "2018-10-30 18:29:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079621",
+      "prizeNumber": "2,7,4,13",
+      "prizeTime": "2018-10-30 18:27:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079620",
+      "prizeNumber": "9,6,6,21",
+      "prizeTime": "2018-10-30 18:25:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079619",
+      "prizeNumber": "6,2,5,13",
+      "prizeTime": "2018-10-30 18:23:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079618",
+      "prizeNumber": "7,8,1,16",
+      "prizeTime": "2018-10-30 18:21:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079617",
+      "prizeNumber": "1,9,0,10",
+      "prizeTime": "2018-10-30 18:19:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079616",
+      "prizeNumber": "6,8,0,14",
+      "prizeTime": "2018-10-30 18:17:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079615",
+      "prizeNumber": "8,3,6,17",
+      "prizeTime": "2018-10-30 18:15:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079614",
+      "prizeNumber": "6,9,6,21",
+      "prizeTime": "2018-10-30 18:13:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079613",
+      "prizeNumber": "7,7,7,21",
+      "prizeTime": "2018-10-30 18:11:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079612",
+      "prizeNumber": "6,9,6,21",
+      "prizeTime": "2018-10-30 18:09:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079611",
+      "prizeNumber": "1,9,9,19",
+      "prizeTime": "2018-10-30 18:07:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079610",
+      "prizeNumber": "1,2,5,8",
+      "prizeTime": "2018-10-30 18:05:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079609",
+      "prizeNumber": "9,3,8,20",
+      "prizeTime": "2018-10-30 18:03:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079608",
+      "prizeNumber": "2,1,9,12",
+      "prizeTime": "2018-10-30 18:01:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079607",
+      "prizeNumber": "3,3,1,7",
+      "prizeTime": "2018-10-30 17:59:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079606",
+      "prizeNumber": "4,9,8,21",
+      "prizeTime": "2018-10-30 17:57:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079605",
+      "prizeNumber": "3,9,1,13",
+      "prizeTime": "2018-10-30 17:55:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079604",
+      "prizeNumber": "6,6,7,19",
+      "prizeTime": "2018-10-30 17:53:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079603",
+      "prizeNumber": "6,0,5,11",
+      "prizeTime": "2018-10-30 17:51:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079602",
+      "prizeNumber": "3,0,7,10",
+      "prizeTime": "2018-10-30 17:49:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079601",
+      "prizeNumber": "9,3,6,18",
+      "prizeTime": "2018-10-30 17:47:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079600",
+      "prizeNumber": "4,5,6,15",
+      "prizeTime": "2018-10-30 17:45:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079599",
+      "prizeNumber": "9,4,5,18",
+      "prizeTime": "2018-10-30 17:43:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079598",
+      "prizeNumber": "3,4,5,12",
+      "prizeTime": "2018-10-30 17:41:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079597",
+      "prizeNumber": "5,4,2,11",
+      "prizeTime": "2018-10-30 17:39:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079596",
+      "prizeNumber": "6,4,2,12",
+      "prizeTime": "2018-10-30 17:37:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079595",
+      "prizeNumber": "5,9,0,14",
+      "prizeTime": "2018-10-30 17:35:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079594",
+      "prizeNumber": "0,1,1,2",
+      "prizeTime": "2018-10-30 17:33:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079593",
+      "prizeNumber": "8,2,9,19",
+      "prizeTime": "2018-10-30 17:31:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079592",
+      "prizeNumber": "2,5,9,16",
+      "prizeTime": "2018-10-30 17:29:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079591",
+      "prizeNumber": "2,3,6,11",
+      "prizeTime": "2018-10-30 17:27:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079590",
+      "prizeNumber": "2,0,6,8",
+      "prizeTime": "2018-10-30 17:25:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079589",
+      "prizeNumber": "3,6,6,15",
+      "prizeTime": "2018-10-30 17:23:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079588",
+      "prizeNumber": "7,9,3,19",
+      "prizeTime": "2018-10-30 17:21:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079587",
+      "prizeNumber": "5,3,2,10",
+      "prizeTime": "2018-10-30 17:19:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079586",
+      "prizeNumber": "9,2,2,13",
+      "prizeTime": "2018-10-30 17:17:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079585",
+      "prizeNumber": "5,8,4,17",
+      "prizeTime": "2018-10-30 17:15:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079584",
+      "prizeNumber": "4,7,5,16",
+      "prizeTime": "2018-10-30 17:13:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079583",
+      "prizeNumber": "2,9,8,19",
+      "prizeTime": "2018-10-30 17:11:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079582",
+      "prizeNumber": "2,6,6,14",
+      "prizeTime": "2018-10-30 17:09:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079581",
+      "prizeNumber": "1,0,8,9",
+      "prizeTime": "2018-10-30 17:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079580",
+      "prizeNumber": "9,1,7,17",
+      "prizeTime": "2018-10-30 17:05:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079579",
+      "prizeNumber": "4,1,2,7",
+      "prizeTime": "2018-10-30 17:03:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079578",
+      "prizeNumber": "7,4,6,17",
+      "prizeTime": "2018-10-30 17:01:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079577",
+      "prizeNumber": "4,7,1,12",
+      "prizeTime": "2018-10-30 16:59:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079576",
+      "prizeNumber": "0,2,1,3",
+      "prizeTime": "2018-10-30 16:57:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079575",
+      "prizeNumber": "8,8,4,20",
+      "prizeTime": "2018-10-30 16:55:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079574",
+      "prizeNumber": "6,5,1,12",
+      "prizeTime": "2018-10-30 16:53:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079573",
+      "prizeNumber": "3,7,7,17",
+      "prizeTime": "2018-10-30 16:51:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079572",
+      "prizeNumber": "5,4,7,16",
+      "prizeTime": "2018-10-30 16:49:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079571",
+      "prizeNumber": "4,1,7,12",
+      "prizeTime": "2018-10-30 16:47:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079570",
+      "prizeNumber": "8,6,3,17",
+      "prizeTime": "2018-10-30 16:45:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079569",
+      "prizeNumber": "0,0,5,5",
+      "prizeTime": "2018-10-30 16:43:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079568",
+      "prizeNumber": "4,2,6,12",
+      "prizeTime": "2018-10-30 16:41:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079567",
+      "prizeNumber": "8,9,2,19",
+      "prizeTime": "2018-10-30 16:39:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079566",
+      "prizeNumber": "2,9,6,17",
+      "prizeTime": "2018-10-30 16:37:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079565",
+      "prizeNumber": "2,8,7,17",
+      "prizeTime": "2018-10-30 16:35:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079564",
+      "prizeNumber": "2,6,3,11",
+      "prizeTime": "2018-10-30 16:33:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079563",
+      "prizeNumber": "1,0,1,2",
+      "prizeTime": "2018-10-30 16:31:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079562",
+      "prizeNumber": "0,2,8,10",
+      "prizeTime": "2018-10-30 16:29:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079561",
+      "prizeNumber": "2,1,8,11",
+      "prizeTime": "2018-10-30 16:27:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079560",
+      "prizeNumber": "3,5,0,8",
+      "prizeTime": "2018-10-30 16:25:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079559",
+      "prizeNumber": "4,4,2,10",
+      "prizeTime": "2018-10-30 16:23:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079558",
+      "prizeNumber": "2,1,5,8",
+      "prizeTime": "2018-10-30 16:21:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079557",
+      "prizeNumber": "0,0,8,8",
+      "prizeTime": "2018-10-30 16:19:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079556",
+      "prizeNumber": "0,8,5,13",
+      "prizeTime": "2018-10-30 16:17:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079555",
+      "prizeNumber": "6,6,7,19",
+      "prizeTime": "2018-10-30 16:15:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079554",
+      "prizeNumber": "4,8,1,13",
+      "prizeTime": "2018-10-30 16:13:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079553",
+      "prizeNumber": "4,9,9,22",
+      "prizeTime": "2018-10-30 16:11:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079552",
+      "prizeNumber": "7,7,2,16",
+      "prizeTime": "2018-10-30 16:09:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079551",
+      "prizeNumber": "4,7,0,11",
+      "prizeTime": "2018-10-30 16:07:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079550",
+      "prizeNumber": "6,7,7,20",
+      "prizeTime": "2018-10-30 16:05:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079549",
+      "prizeNumber": "5,1,6,12",
+      "prizeTime": "2018-10-30 16:03:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079548",
+      "prizeNumber": "8,7,6,21",
+      "prizeTime": "2018-10-30 16:01:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079547",
+      "prizeNumber": "9,7,8,24",
+      "prizeTime": "2018-10-30 15:59:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079546",
+      "prizeNumber": "3,1,8,12",
+      "prizeTime": "2018-10-30 15:57:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079545",
+      "prizeNumber": "4,5,7,16",
+      "prizeTime": "2018-10-30 15:55:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079544",
+      "prizeNumber": "0,9,0,9",
+      "prizeTime": "2018-10-30 15:53:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079543",
+      "prizeNumber": "0,3,9,12",
+      "prizeTime": "2018-10-30 15:51:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079542",
+      "prizeNumber": "1,5,8,14",
+      "prizeTime": "2018-10-30 15:49:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079541",
+      "prizeNumber": "5,7,6,18",
+      "prizeTime": "2018-10-30 15:47:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079540",
+      "prizeNumber": "3,5,8,16",
+      "prizeTime": "2018-10-30 15:45:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079539",
+      "prizeNumber": "7,1,7,15",
+      "prizeTime": "2018-10-30 15:43:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079538",
+      "prizeNumber": "7,3,9,19",
+      "prizeTime": "2018-10-30 15:41:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079537",
+      "prizeNumber": "7,8,5,20",
+      "prizeTime": "2018-10-30 15:39:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079536",
+      "prizeNumber": "4,6,6,16",
+      "prizeTime": "2018-10-30 15:37:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079535",
+      "prizeNumber": "1,0,7,8",
+      "prizeTime": "2018-10-30 15:35:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079534",
+      "prizeNumber": "5,5,1,11",
+      "prizeTime": "2018-10-30 15:33:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079533",
+      "prizeNumber": "5,5,5,15",
+      "prizeTime": "2018-10-30 15:31:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079532",
+      "prizeNumber": "6,6,4,16",
+      "prizeTime": "2018-10-30 15:29:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079531",
+      "prizeNumber": "4,9,5,18",
+      "prizeTime": "2018-10-30 15:27:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079530",
+      "prizeNumber": "6,0,7,13",
+      "prizeTime": "2018-10-30 15:25:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079529",
+      "prizeNumber": "0,9,6,15",
+      "prizeTime": "2018-10-30 15:23:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079528",
+      "prizeNumber": "4,1,3,8",
+      "prizeTime": "2018-10-30 15:21:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079527",
+      "prizeNumber": "8,9,8,25",
+      "prizeTime": "2018-10-30 15:19:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079526",
+      "prizeNumber": "9,3,3,15",
+      "prizeTime": "2018-10-30 15:17:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079525",
+      "prizeNumber": "4,6,1,11",
+      "prizeTime": "2018-10-30 15:15:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079524",
+      "prizeNumber": "5,9,8,22",
+      "prizeTime": "2018-10-30 15:13:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079523",
+      "prizeNumber": "7,4,6,17",
+      "prizeTime": "2018-10-30 15:11:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079522",
+      "prizeNumber": "2,5,2,9",
+      "prizeTime": "2018-10-30 15:09:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079521",
+      "prizeNumber": "2,4,3,9",
+      "prizeTime": "2018-10-30 15:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079520",
+      "prizeNumber": "2,2,8,12",
+      "prizeTime": "2018-10-30 15:05:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079519",
+      "prizeNumber": "9,4,9,22",
+      "prizeTime": "2018-10-30 15:03:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079518",
+      "prizeNumber": "7,6,6,19",
+      "prizeTime": "2018-10-30 15:01:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079517",
+      "prizeNumber": "9,4,0,13",
+      "prizeTime": "2018-10-30 14:59:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079516",
+      "prizeNumber": "5,7,3,15",
+      "prizeTime": "2018-10-30 14:57:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079515",
+      "prizeNumber": "2,5,5,12",
+      "prizeTime": "2018-10-30 14:55:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079514",
+      "prizeNumber": "4,1,5,10",
+      "prizeTime": "2018-10-30 14:53:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079513",
+      "prizeNumber": "7,8,0,15",
+      "prizeTime": "2018-10-30 14:51:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079512",
+      "prizeNumber": "7,1,2,10",
+      "prizeTime": "2018-10-30 14:49:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079511",
+      "prizeNumber": "5,6,7,18",
+      "prizeTime": "2018-10-30 14:47:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079510",
+      "prizeNumber": "3,5,7,15",
+      "prizeTime": "2018-10-30 14:45:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079509",
+      "prizeNumber": "8,0,5,13",
+      "prizeTime": "2018-10-30 14:43:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079508",
+      "prizeNumber": "1,3,8,12",
+      "prizeTime": "2018-10-30 14:41:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079507",
+      "prizeNumber": "1,1,4,6",
+      "prizeTime": "2018-10-30 14:39:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079506",
+      "prizeNumber": "8,5,2,15",
+      "prizeTime": "2018-10-30 14:37:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079505",
+      "prizeNumber": "5,0,3,8",
+      "prizeTime": "2018-10-30 14:35:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079504",
+      "prizeNumber": "1,4,0,5",
+      "prizeTime": "2018-10-30 14:33:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079503",
+      "prizeNumber": "8,4,3,15",
+      "prizeTime": "2018-10-30 14:31:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079502",
+      "prizeNumber": "5,1,1,7",
+      "prizeTime": "2018-10-30 14:29:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079501",
+      "prizeNumber": "3,0,7,10",
+      "prizeTime": "2018-10-30 14:27:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079500",
+      "prizeNumber": "1,0,2,3",
+      "prizeTime": "2018-10-30 14:25:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079499",
+      "prizeNumber": "3,5,0,8",
+      "prizeTime": "2018-10-30 14:23:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079498",
+      "prizeNumber": "0,4,8,12",
+      "prizeTime": "2018-10-30 14:21:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079497",
+      "prizeNumber": "5,4,1,10",
+      "prizeTime": "2018-10-30 14:19:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079496",
+      "prizeNumber": "3,9,2,14",
+      "prizeTime": "2018-10-30 14:17:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079495",
+      "prizeNumber": "0,5,8,13",
+      "prizeTime": "2018-10-30 14:15:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079494",
+      "prizeNumber": "9,2,9,20",
+      "prizeTime": "2018-10-30 14:13:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079493",
+      "prizeNumber": "1,4,6,11",
+      "prizeTime": "2018-10-30 14:11:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079492",
+      "prizeNumber": "5,8,3,16",
+      "prizeTime": "2018-10-30 14:09:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079491",
+      "prizeNumber": "6,3,4,13",
+      "prizeTime": "2018-10-30 14:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079490",
+      "prizeNumber": "7,5,3,15",
+      "prizeTime": "2018-10-30 14:05:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079489",
+      "prizeNumber": "5,1,8,14",
+      "prizeTime": "2018-10-30 14:03:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079488",
+      "prizeNumber": "5,0,9,14",
+      "prizeTime": "2018-10-30 14:01:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079487",
+      "prizeNumber": "0,4,8,12",
+      "prizeTime": "2018-10-30 13:59:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079486",
+      "prizeNumber": "5,1,2,8",
+      "prizeTime": "2018-10-30 13:57:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079485",
+      "prizeNumber": "4,4,8,16",
+      "prizeTime": "2018-10-30 13:55:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079484",
+      "prizeNumber": "1,4,8,13",
+      "prizeTime": "2018-10-30 13:53:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079483",
+      "prizeNumber": "9,5,4,18",
+      "prizeTime": "2018-10-30 13:51:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079482",
+      "prizeNumber": "4,6,1,11",
+      "prizeTime": "2018-10-30 13:49:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079481",
+      "prizeNumber": "7,8,8,23",
+      "prizeTime": "2018-10-30 13:47:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079480",
+      "prizeNumber": "3,8,6,17",
+      "prizeTime": "2018-10-30 13:45:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079479",
+      "prizeNumber": "8,5,5,18",
+      "prizeTime": "2018-10-30 13:43:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079478",
+      "prizeNumber": "4,2,6,12",
+      "prizeTime": "2018-10-30 13:41:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079477",
+      "prizeNumber": "8,3,8,19",
+      "prizeTime": "2018-10-30 13:39:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079476",
+      "prizeNumber": "6,7,5,18",
+      "prizeTime": "2018-10-30 13:37:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079475",
+      "prizeNumber": "5,2,4,11",
+      "prizeTime": "2018-10-30 13:35:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079474",
+      "prizeNumber": "2,8,0,10",
+      "prizeTime": "2018-10-30 13:33:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079473",
+      "prizeNumber": "4,7,6,17",
+      "prizeTime": "2018-10-30 13:31:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079472",
+      "prizeNumber": "0,5,1,6",
+      "prizeTime": "2018-10-30 13:29:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079471",
+      "prizeNumber": "9,9,6,24",
+      "prizeTime": "2018-10-30 13:27:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079470",
+      "prizeNumber": "1,4,7,12",
+      "prizeTime": "2018-10-30 13:25:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079469",
+      "prizeNumber": "5,5,4,14",
+      "prizeTime": "2018-10-30 13:23:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079468",
+      "prizeNumber": "0,1,9,10",
+      "prizeTime": "2018-10-30 13:21:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079467",
+      "prizeNumber": "2,3,2,7",
+      "prizeTime": "2018-10-30 13:19:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079466",
+      "prizeNumber": "2,9,3,14",
+      "prizeTime": "2018-10-30 13:17:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079465",
+      "prizeNumber": "0,4,9,13",
+      "prizeTime": "2018-10-30 13:15:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079464",
+      "prizeNumber": "4,3,5,12",
+      "prizeTime": "2018-10-30 13:13:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079463",
+      "prizeNumber": "6,6,6,18",
+      "prizeTime": "2018-10-30 13:11:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079462",
+      "prizeNumber": "2,6,7,15",
+      "prizeTime": "2018-10-30 13:09:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079461",
+      "prizeNumber": "0,0,3,3",
+      "prizeTime": "2018-10-30 13:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079460",
+      "prizeNumber": "7,0,6,13",
+      "prizeTime": "2018-10-30 13:05:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079459",
+      "prizeNumber": "4,7,2,13",
+      "prizeTime": "2018-10-30 13:03:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079458",
+      "prizeNumber": "3,5,2,10",
+      "prizeTime": "2018-10-30 13:01:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079457",
+      "prizeNumber": "8,8,9,25",
+      "prizeTime": "2018-10-30 12:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079456",
+      "prizeNumber": "3,7,1,11",
+      "prizeTime": "2018-10-30 12:57:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079455",
+      "prizeNumber": "4,7,1,12",
+      "prizeTime": "2018-10-30 12:55:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079454",
+      "prizeNumber": "8,2,6,16",
+      "prizeTime": "2018-10-30 12:53:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079453",
+      "prizeNumber": "8,0,0,8",
+      "prizeTime": "2018-10-30 12:51:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079452",
+      "prizeNumber": "9,5,3,17",
+      "prizeTime": "2018-10-30 12:49:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079451",
+      "prizeNumber": "4,0,0,4",
+      "prizeTime": "2018-10-30 12:47:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079450",
+      "prizeNumber": "0,7,4,11",
+      "prizeTime": "2018-10-30 12:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079449",
+      "prizeNumber": "9,4,5,18",
+      "prizeTime": "2018-10-30 12:43:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079448",
+      "prizeNumber": "0,9,2,11",
+      "prizeTime": "2018-10-30 12:41:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079447",
+      "prizeNumber": "6,0,7,13",
+      "prizeTime": "2018-10-30 12:39:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079446",
+      "prizeNumber": "9,4,2,15",
+      "prizeTime": "2018-10-30 12:37:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079445",
+      "prizeNumber": "8,0,0,8",
+      "prizeTime": "2018-10-30 12:35:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079444",
+      "prizeNumber": "4,7,9,20",
+      "prizeTime": "2018-10-30 12:33:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079443",
+      "prizeNumber": "4,7,7,18",
+      "prizeTime": "2018-10-30 12:31:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079442",
+      "prizeNumber": "7,2,4,13",
+      "prizeTime": "2018-10-30 12:29:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079441",
+      "prizeNumber": "6,0,4,10",
+      "prizeTime": "2018-10-30 12:27:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079440",
+      "prizeNumber": "4,8,6,18",
+      "prizeTime": "2018-10-30 12:25:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079439",
+      "prizeNumber": "4,2,6,12",
+      "prizeTime": "2018-10-30 12:23:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079438",
+      "prizeNumber": "8,2,3,13",
+      "prizeTime": "2018-10-30 12:21:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079437",
+      "prizeNumber": "8,0,3,11",
+      "prizeTime": "2018-10-30 12:19:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079436",
+      "prizeNumber": "7,9,4,20",
+      "prizeTime": "2018-10-30 12:17:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079435",
+      "prizeNumber": "1,1,8,10",
+      "prizeTime": "2018-10-30 12:15:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079434",
+      "prizeNumber": "0,4,0,4",
+      "prizeTime": "2018-10-30 12:13:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079433",
+      "prizeNumber": "3,1,6,10",
+      "prizeTime": "2018-10-30 12:11:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079432",
+      "prizeNumber": "4,3,4,11",
+      "prizeTime": "2018-10-30 12:09:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079431",
+      "prizeNumber": "5,5,5,15",
+      "prizeTime": "2018-10-30 12:07:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079430",
+      "prizeNumber": "0,1,3,4",
+      "prizeTime": "2018-10-30 12:05:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079429",
+      "prizeNumber": "5,9,1,15",
+      "prizeTime": "2018-10-30 12:03:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079428",
+      "prizeNumber": "6,4,7,17",
+      "prizeTime": "2018-10-30 12:01:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079427",
+      "prizeNumber": "8,8,5,21",
+      "prizeTime": "2018-10-30 11:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079426",
+      "prizeNumber": "1,4,1,6",
+      "prizeTime": "2018-10-30 11:57:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079425",
+      "prizeNumber": "4,7,9,20",
+      "prizeTime": "2018-10-30 11:55:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079424",
+      "prizeNumber": "2,3,6,11",
+      "prizeTime": "2018-10-30 11:53:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079423",
+      "prizeNumber": "4,3,0,7",
+      "prizeTime": "2018-10-30 11:51:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079422",
+      "prizeNumber": "0,6,7,13",
+      "prizeTime": "2018-10-30 11:49:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079421",
+      "prizeNumber": "1,3,3,7",
+      "prizeTime": "2018-10-30 11:47:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079420",
+      "prizeNumber": "4,5,2,11",
+      "prizeTime": "2018-10-30 11:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079419",
+      "prizeNumber": "3,9,1,13",
+      "prizeTime": "2018-10-30 11:43:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079418",
+      "prizeNumber": "0,0,1,1",
+      "prizeTime": "2018-10-30 11:41:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079417",
+      "prizeNumber": "1,7,0,8",
+      "prizeTime": "2018-10-30 11:39:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079416",
+      "prizeNumber": "1,5,7,13",
+      "prizeTime": "2018-10-30 11:37:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079415",
+      "prizeNumber": "6,2,0,8",
+      "prizeTime": "2018-10-30 11:35:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079414",
+      "prizeNumber": "7,8,7,22",
+      "prizeTime": "2018-10-30 11:33:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079413",
+      "prizeNumber": "0,3,8,11",
+      "prizeTime": "2018-10-30 11:31:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079412",
+      "prizeNumber": "7,9,1,17",
+      "prizeTime": "2018-10-30 11:29:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079411",
+      "prizeNumber": "2,0,7,9",
+      "prizeTime": "2018-10-30 11:27:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079410",
+      "prizeNumber": "1,7,9,17",
+      "prizeTime": "2018-10-30 11:25:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079409",
+      "prizeNumber": "3,9,5,17",
+      "prizeTime": "2018-10-30 11:23:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079408",
+      "prizeNumber": "9,5,1,15",
+      "prizeTime": "2018-10-30 11:21:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079407",
+      "prizeNumber": "1,6,3,10",
+      "prizeTime": "2018-10-30 11:19:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079406",
+      "prizeNumber": "4,1,2,7",
+      "prizeTime": "2018-10-30 11:17:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079405",
+      "prizeNumber": "2,8,6,16",
+      "prizeTime": "2018-10-30 11:15:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079404",
+      "prizeNumber": "5,5,8,18",
+      "prizeTime": "2018-10-30 11:13:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079403",
+      "prizeNumber": "9,5,3,17",
+      "prizeTime": "2018-10-30 11:11:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079402",
+      "prizeNumber": "5,7,9,21",
+      "prizeTime": "2018-10-30 11:09:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079401",
+      "prizeNumber": "5,7,1,13",
+      "prizeTime": "2018-10-30 11:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079400",
+      "prizeNumber": "0,9,2,11",
+      "prizeTime": "2018-10-30 11:05:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079399",
+      "prizeNumber": "1,3,6,10",
+      "prizeTime": "2018-10-30 11:03:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079398",
+      "prizeNumber": "2,7,3,12",
+      "prizeTime": "2018-10-30 11:01:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079397",
+      "prizeNumber": "6,5,1,12",
+      "prizeTime": "2018-10-30 10:59:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079396",
+      "prizeNumber": "2,3,7,12",
+      "prizeTime": "2018-10-30 10:57:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079395",
+      "prizeNumber": "6,9,0,15",
+      "prizeTime": "2018-10-30 10:55:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079394",
+      "prizeNumber": "4,0,0,4",
+      "prizeTime": "2018-10-30 10:53:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079393",
+      "prizeNumber": "5,1,1,7",
+      "prizeTime": "2018-10-30 10:51:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079392",
+      "prizeNumber": "9,9,9,27",
+      "prizeTime": "2018-10-30 10:49:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079391",
+      "prizeNumber": "8,7,2,17",
+      "prizeTime": "2018-10-30 10:47:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079390",
+      "prizeNumber": "5,3,1,9",
+      "prizeTime": "2018-10-30 10:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079389",
+      "prizeNumber": "7,7,4,18",
+      "prizeTime": "2018-10-30 10:43:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079388",
+      "prizeNumber": "5,1,6,12",
+      "prizeTime": "2018-10-30 10:41:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079387",
+      "prizeNumber": "9,8,2,19",
+      "prizeTime": "2018-10-30 10:39:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079386",
+      "prizeNumber": "2,4,4,10",
+      "prizeTime": "2018-10-30 10:37:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079385",
+      "prizeNumber": "4,0,1,5",
+      "prizeTime": "2018-10-30 10:35:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079384",
+      "prizeNumber": "7,2,0,9",
+      "prizeTime": "2018-10-30 10:33:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079383",
+      "prizeNumber": "6,3,5,14",
+      "prizeTime": "2018-10-30 10:31:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079382",
+      "prizeNumber": "6,9,8,23",
+      "prizeTime": "2018-10-30 10:29:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079381",
+      "prizeNumber": "9,8,7,24",
+      "prizeTime": "2018-10-30 10:27:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079380",
+      "prizeNumber": "8,7,0,15",
+      "prizeTime": "2018-10-30 10:25:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079379",
+      "prizeNumber": "4,1,1,6",
+      "prizeTime": "2018-10-30 10:23:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079378",
+      "prizeNumber": "2,1,1,4",
+      "prizeTime": "2018-10-30 10:21:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079377",
+      "prizeNumber": "4,6,2,12",
+      "prizeTime": "2018-10-30 10:19:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079376",
+      "prizeNumber": "3,2,3,8",
+      "prizeTime": "2018-10-30 10:17:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079375",
+      "prizeNumber": "5,4,5,14",
+      "prizeTime": "2018-10-30 10:15:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079374",
+      "prizeNumber": "9,2,9,20",
+      "prizeTime": "2018-10-30 10:13:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079373",
+      "prizeNumber": "1,9,8,18",
+      "prizeTime": "2018-10-30 10:11:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079372",
+      "prizeNumber": "2,0,8,10",
+      "prizeTime": "2018-10-30 10:09:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079371",
+      "prizeNumber": "9,3,2,14",
+      "prizeTime": "2018-10-30 10:07:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079370",
+      "prizeNumber": "5,9,4,18",
+      "prizeTime": "2018-10-30 10:05:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079369",
+      "prizeNumber": "1,1,0,2",
+      "prizeTime": "2018-10-30 10:03:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079368",
+      "prizeNumber": "4,2,0,6",
+      "prizeTime": "2018-10-30 10:01:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079367",
+      "prizeNumber": "0,3,2,5",
+      "prizeTime": "2018-10-30 09:59:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079366",
+      "prizeNumber": "5,5,9,19",
+      "prizeTime": "2018-10-30 09:57:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079365",
+      "prizeNumber": "5,1,3,9",
+      "prizeTime": "2018-10-30 09:55:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079364",
+      "prizeNumber": "0,5,6,11",
+      "prizeTime": "2018-10-30 09:53:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079363",
+      "prizeNumber": "5,5,8,18",
+      "prizeTime": "2018-10-30 09:51:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079362",
+      "prizeNumber": "6,5,1,12",
+      "prizeTime": "2018-10-30 09:49:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079361",
+      "prizeNumber": "9,8,3,20",
+      "prizeTime": "2018-10-30 09:47:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079360",
+      "prizeNumber": "3,9,3,15",
+      "prizeTime": "2018-10-30 09:45:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079359",
+      "prizeNumber": "3,0,2,5",
+      "prizeTime": "2018-10-30 09:43:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079358",
+      "prizeNumber": "0,4,0,4",
+      "prizeTime": "2018-10-30 09:41:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079357",
+      "prizeNumber": "7,7,5,19",
+      "prizeTime": "2018-10-30 09:39:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079356",
+      "prizeNumber": "6,3,7,16",
+      "prizeTime": "2018-10-30 09:37:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079355",
+      "prizeNumber": "5,7,7,19",
+      "prizeTime": "2018-10-30 09:35:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079354",
+      "prizeNumber": "2,9,2,13",
+      "prizeTime": "2018-10-30 09:33:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079353",
+      "prizeNumber": "0,6,5,11",
+      "prizeTime": "2018-10-30 09:31:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079352",
+      "prizeNumber": "9,3,4,16",
+      "prizeTime": "2018-10-30 09:29:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079351",
+      "prizeNumber": "8,5,2,15",
+      "prizeTime": "2018-10-30 09:27:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079350",
+      "prizeNumber": "9,4,4,17",
+      "prizeTime": "2018-10-30 09:25:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079349",
+      "prizeNumber": "9,1,3,13",
+      "prizeTime": "2018-10-30 09:23:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079348",
+      "prizeNumber": "9,9,1,19",
+      "prizeTime": "2018-10-30 09:21:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079347",
+      "prizeNumber": "2,1,5,8",
+      "prizeTime": "2018-10-30 09:19:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079346",
+      "prizeNumber": "0,8,7,15",
+      "prizeTime": "2018-10-30 09:17:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079345",
+      "prizeNumber": "6,5,1,12",
+      "prizeTime": "2018-10-30 09:15:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079344",
+      "prizeNumber": "6,3,2,11",
+      "prizeTime": "2018-10-30 09:13:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079343",
+      "prizeNumber": "6,7,3,16",
+      "prizeTime": "2018-10-30 09:11:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079342",
+      "prizeNumber": "7,6,5,18",
+      "prizeTime": "2018-10-30 09:09:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079341",
+      "prizeNumber": "8,7,5,20",
+      "prizeTime": "2018-10-30 09:07:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079340",
+      "prizeNumber": "8,6,8,22",
+      "prizeTime": "2018-10-30 09:05:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079339",
+      "prizeNumber": "9,8,6,23",
+      "prizeTime": "2018-10-30 09:03:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079338",
+      "prizeNumber": "0,2,8,10",
+      "prizeTime": "2018-10-30 09:01:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079337",
+      "prizeNumber": "2,0,6,8",
+      "prizeTime": "2018-10-30 08:59:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079336",
+      "prizeNumber": "1,9,5,15",
+      "prizeTime": "2018-10-30 08:57:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079335",
+      "prizeNumber": "7,0,3,10",
+      "prizeTime": "2018-10-30 08:55:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079334",
+      "prizeNumber": "2,8,3,13",
+      "prizeTime": "2018-10-30 08:53:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079333",
+      "prizeNumber": "7,2,3,12",
+      "prizeTime": "2018-10-30 08:51:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079332",
+      "prizeNumber": "9,2,9,20",
+      "prizeTime": "2018-10-30 08:49:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079331",
+      "prizeNumber": "9,2,8,19",
+      "prizeTime": "2018-10-30 08:47:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079330",
+      "prizeNumber": "2,1,6,9",
+      "prizeTime": "2018-10-30 08:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079329",
+      "prizeNumber": "0,8,9,17",
+      "prizeTime": "2018-10-30 08:43:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079328",
+      "prizeNumber": "9,2,8,19",
+      "prizeTime": "2018-10-30 08:41:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079327",
+      "prizeNumber": "9,4,6,19",
+      "prizeTime": "2018-10-30 08:39:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079326",
+      "prizeNumber": "4,9,0,13",
+      "prizeTime": "2018-10-30 08:37:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079325",
+      "prizeNumber": "6,9,1,16",
+      "prizeTime": "2018-10-30 08:35:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079324",
+      "prizeNumber": "4,8,0,12",
+      "prizeTime": "2018-10-30 08:33:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079323",
+      "prizeNumber": "7,0,9,16",
+      "prizeTime": "2018-10-30 08:31:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079322",
+      "prizeNumber": "3,2,0,5",
+      "prizeTime": "2018-10-30 08:29:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079321",
+      "prizeNumber": "9,5,1,15",
+      "prizeTime": "2018-10-30 08:27:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079320",
+      "prizeNumber": "7,1,7,15",
+      "prizeTime": "2018-10-30 08:25:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079319",
+      "prizeNumber": "1,7,2,10",
+      "prizeTime": "2018-10-30 08:23:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079318",
+      "prizeNumber": "8,3,0,11",
+      "prizeTime": "2018-10-30 08:21:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079317",
+      "prizeNumber": "8,3,3,14",
+      "prizeTime": "2018-10-30 08:19:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079316",
+      "prizeNumber": "1,8,0,9",
+      "prizeTime": "2018-10-30 08:17:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079315",
+      "prizeNumber": "9,5,1,15",
+      "prizeTime": "2018-10-30 08:15:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079314",
+      "prizeNumber": "8,6,0,14",
+      "prizeTime": "2018-10-30 08:13:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079313",
+      "prizeNumber": "7,7,3,17",
+      "prizeTime": "2018-10-30 08:11:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079312",
+      "prizeNumber": "3,1,2,6",
+      "prizeTime": "2018-10-30 08:09:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079311",
+      "prizeNumber": "4,8,8,20",
+      "prizeTime": "2018-10-30 08:07:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079310",
+      "prizeNumber": "6,6,3,15",
+      "prizeTime": "2018-10-30 08:05:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079309",
+      "prizeNumber": "4,2,6,12",
+      "prizeTime": "2018-10-30 08:03:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079308",
+      "prizeNumber": "1,2,8,11",
+      "prizeTime": "2018-10-30 08:01:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079307",
+      "prizeNumber": "4,0,4,8",
+      "prizeTime": "2018-10-30 05:59:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079306",
+      "prizeNumber": "8,9,0,17",
+      "prizeTime": "2018-10-30 05:57:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079305",
+      "prizeNumber": "0,9,0,9",
+      "prizeTime": "2018-10-30 05:55:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079304",
+      "prizeNumber": "9,6,0,15",
+      "prizeTime": "2018-10-30 05:53:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079303",
+      "prizeNumber": "2,8,0,10",
+      "prizeTime": "2018-10-30 05:51:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079302",
+      "prizeNumber": "6,2,6,14",
+      "prizeTime": "2018-10-30 05:49:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079301",
+      "prizeNumber": "9,9,5,23",
+      "prizeTime": "2018-10-30 05:47:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079300",
+      "prizeNumber": "1,5,5,11",
+      "prizeTime": "2018-10-30 05:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079299",
+      "prizeNumber": "1,3,6,10",
+      "prizeTime": "2018-10-30 05:43:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079298",
+      "prizeNumber": "3,7,4,14",
+      "prizeTime": "2018-10-30 05:41:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079297",
+      "prizeNumber": "6,3,8,17",
+      "prizeTime": "2018-10-30 05:39:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079296",
+      "prizeNumber": "1,9,4,14",
+      "prizeTime": "2018-10-30 05:37:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079295",
+      "prizeNumber": "9,1,1,11",
+      "prizeTime": "2018-10-30 05:35:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079294",
+      "prizeNumber": "3,7,4,14",
+      "prizeTime": "2018-10-30 05:33:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079293",
+      "prizeNumber": "3,5,2,10",
+      "prizeTime": "2018-10-30 05:31:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079292",
+      "prizeNumber": "5,3,1,9",
+      "prizeTime": "2018-10-30 05:29:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079291",
+      "prizeNumber": "7,4,5,16",
+      "prizeTime": "2018-10-30 05:27:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079290",
+      "prizeNumber": "0,5,3,8",
+      "prizeTime": "2018-10-30 05:25:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079289",
+      "prizeNumber": "5,7,6,18",
+      "prizeTime": "2018-10-30 05:23:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079288",
+      "prizeNumber": "3,6,8,17",
+      "prizeTime": "2018-10-30 05:21:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079287",
+      "prizeNumber": "6,0,0,6",
+      "prizeTime": "2018-10-30 05:19:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079286",
+      "prizeNumber": "5,0,8,13",
+      "prizeTime": "2018-10-30 05:17:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079285",
+      "prizeNumber": "3,6,9,18",
+      "prizeTime": "2018-10-30 05:15:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079284",
+      "prizeNumber": "0,3,4,7",
+      "prizeTime": "2018-10-30 05:13:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079283",
+      "prizeNumber": "5,8,9,22",
+      "prizeTime": "2018-10-30 05:11:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079282",
+      "prizeNumber": "7,8,9,24",
+      "prizeTime": "2018-10-30 05:09:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079281",
+      "prizeNumber": "9,3,7,19",
+      "prizeTime": "2018-10-30 05:07:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079280",
+      "prizeNumber": "4,0,6,10",
+      "prizeTime": "2018-10-30 05:05:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079279",
+      "prizeNumber": "4,7,3,14",
+      "prizeTime": "2018-10-30 05:03:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079278",
+      "prizeNumber": "5,6,6,17",
+      "prizeTime": "2018-10-30 05:01:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079277",
+      "prizeNumber": "0,1,1,2",
+      "prizeTime": "2018-10-30 04:59:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079276",
+      "prizeNumber": "0,3,2,5",
+      "prizeTime": "2018-10-30 04:57:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079275",
+      "prizeNumber": "0,2,4,6",
+      "prizeTime": "2018-10-30 04:55:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079274",
+      "prizeNumber": "6,4,6,16",
+      "prizeTime": "2018-10-30 04:53:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079273",
+      "prizeNumber": "3,1,9,13",
+      "prizeTime": "2018-10-30 04:51:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079272",
+      "prizeNumber": "8,9,0,17",
+      "prizeTime": "2018-10-30 04:49:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079271",
+      "prizeNumber": "3,9,9,21",
+      "prizeTime": "2018-10-30 04:47:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079270",
+      "prizeNumber": "6,5,9,20",
+      "prizeTime": "2018-10-30 04:45:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079269",
+      "prizeNumber": "2,3,7,12",
+      "prizeTime": "2018-10-30 04:43:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079268",
+      "prizeNumber": "0,4,8,12",
+      "prizeTime": "2018-10-30 04:41:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079267",
+      "prizeNumber": "1,1,4,6",
+      "prizeTime": "2018-10-30 04:39:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079266",
+      "prizeNumber": "3,4,7,14",
+      "prizeTime": "2018-10-30 04:37:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079265",
+      "prizeNumber": "9,0,0,9",
+      "prizeTime": "2018-10-30 04:35:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079264",
+      "prizeNumber": "2,9,4,15",
+      "prizeTime": "2018-10-30 04:33:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079263",
+      "prizeNumber": "4,9,1,14",
+      "prizeTime": "2018-10-30 04:31:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079262",
+      "prizeNumber": "3,0,7,10",
+      "prizeTime": "2018-10-30 04:29:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079261",
+      "prizeNumber": "2,8,5,15",
+      "prizeTime": "2018-10-30 04:27:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079260",
+      "prizeNumber": "5,2,4,11",
+      "prizeTime": "2018-10-30 04:25:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079259",
+      "prizeNumber": "7,4,6,17",
+      "prizeTime": "2018-10-30 04:23:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079258",
+      "prizeNumber": "0,7,4,11",
+      "prizeTime": "2018-10-30 04:21:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079257",
+      "prizeNumber": "8,1,1,10",
+      "prizeTime": "2018-10-30 04:19:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079256",
+      "prizeNumber": "6,2,9,17",
+      "prizeTime": "2018-10-30 04:17:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079255",
+      "prizeNumber": "0,9,7,16",
+      "prizeTime": "2018-10-30 04:15:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079254",
+      "prizeNumber": "0,9,9,18",
+      "prizeTime": "2018-10-30 04:13:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079253",
+      "prizeNumber": "5,4,8,17",
+      "prizeTime": "2018-10-30 04:11:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079252",
+      "prizeNumber": "7,4,0,11",
+      "prizeTime": "2018-10-30 04:09:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079251",
+      "prizeNumber": "9,0,2,11",
+      "prizeTime": "2018-10-30 04:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079250",
+      "prizeNumber": "6,8,3,17",
+      "prizeTime": "2018-10-30 04:05:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079249",
+      "prizeNumber": "6,6,0,12",
+      "prizeTime": "2018-10-30 04:03:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079248",
+      "prizeNumber": "9,6,7,22",
+      "prizeTime": "2018-10-30 04:01:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079247",
+      "prizeNumber": "2,8,9,19",
+      "prizeTime": "2018-10-30 03:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079246",
+      "prizeNumber": "2,9,9,20",
+      "prizeTime": "2018-10-30 03:57:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079245",
+      "prizeNumber": "5,7,6,18",
+      "prizeTime": "2018-10-30 03:55:54",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079244",
+      "prizeNumber": "9,9,4,22",
+      "prizeTime": "2018-10-30 03:53:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079243",
+      "prizeNumber": "3,5,3,11",
+      "prizeTime": "2018-10-30 03:51:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079242",
+      "prizeNumber": "0,4,1,5",
+      "prizeTime": "2018-10-30 03:49:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079241",
+      "prizeNumber": "0,8,7,15",
+      "prizeTime": "2018-10-30 03:47:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079240",
+      "prizeNumber": "0,9,0,9",
+      "prizeTime": "2018-10-30 03:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079239",
+      "prizeNumber": "5,8,1,14",
+      "prizeTime": "2018-10-30 03:43:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079238",
+      "prizeNumber": "6,5,8,19",
+      "prizeTime": "2018-10-30 03:41:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079237",
+      "prizeNumber": "5,4,8,17",
+      "prizeTime": "2018-10-30 03:39:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079236",
+      "prizeNumber": "1,7,8,16",
+      "prizeTime": "2018-10-30 03:37:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079235",
+      "prizeNumber": "5,2,6,13",
+      "prizeTime": "2018-10-30 03:35:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079234",
+      "prizeNumber": "0,7,7,14",
+      "prizeTime": "2018-10-30 03:33:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079233",
+      "prizeNumber": "3,5,6,14",
+      "prizeTime": "2018-10-30 03:31:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079232",
+      "prizeNumber": "8,9,0,17",
+      "prizeTime": "2018-10-30 03:29:55",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079231",
+      "prizeNumber": "9,5,3,17",
+      "prizeTime": "2018-10-30 03:27:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079230",
+      "prizeNumber": "4,5,7,16",
+      "prizeTime": "2018-10-30 03:25:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079229",
+      "prizeNumber": "4,7,2,13",
+      "prizeTime": "2018-10-30 03:23:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079228",
+      "prizeNumber": "4,1,0,5",
+      "prizeTime": "2018-10-30 03:21:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079227",
+      "prizeNumber": "5,7,5,17",
+      "prizeTime": "2018-10-30 03:19:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079226",
+      "prizeNumber": "9,4,2,15",
+      "prizeTime": "2018-10-30 03:17:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079225",
+      "prizeNumber": "4,6,2,12",
+      "prizeTime": "2018-10-30 03:15:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079224",
+      "prizeNumber": "5,8,0,13",
+      "prizeTime": "2018-10-30 03:13:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079223",
+      "prizeNumber": "4,5,6,15",
+      "prizeTime": "2018-10-30 03:11:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079222",
+      "prizeNumber": "6,1,3,10",
+      "prizeTime": "2018-10-30 03:09:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079221",
+      "prizeNumber": "0,3,1,4",
+      "prizeTime": "2018-10-30 03:07:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079220",
+      "prizeNumber": "8,0,4,12",
+      "prizeTime": "2018-10-30 03:05:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079219",
+      "prizeNumber": "2,1,8,11",
+      "prizeTime": "2018-10-30 03:03:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079218",
+      "prizeNumber": "4,7,4,15",
+      "prizeTime": "2018-10-30 03:01:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079217",
+      "prizeNumber": "5,7,5,17",
+      "prizeTime": "2018-10-30 02:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079216",
+      "prizeNumber": "9,1,6,16",
+      "prizeTime": "2018-10-30 02:57:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079215",
+      "prizeNumber": "5,7,6,18",
+      "prizeTime": "2018-10-30 02:55:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079214",
+      "prizeNumber": "5,7,5,17",
+      "prizeTime": "2018-10-30 02:53:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079213",
+      "prizeNumber": "8,7,8,23",
+      "prizeTime": "2018-10-30 02:51:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079212",
+      "prizeNumber": "9,6,4,19",
+      "prizeTime": "2018-10-30 02:49:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079211",
+      "prizeNumber": "6,6,7,19",
+      "prizeTime": "2018-10-30 02:47:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079210",
+      "prizeNumber": "8,7,5,20",
+      "prizeTime": "2018-10-30 02:45:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079209",
+      "prizeNumber": "3,9,3,15",
+      "prizeTime": "2018-10-30 02:43:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079208",
+      "prizeNumber": "1,1,0,2",
+      "prizeTime": "2018-10-30 02:41:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079207",
+      "prizeNumber": "6,2,7,15",
+      "prizeTime": "2018-10-30 02:39:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079206",
+      "prizeNumber": "8,2,1,11",
+      "prizeTime": "2018-10-30 02:37:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079205",
+      "prizeNumber": "3,4,9,16",
+      "prizeTime": "2018-10-30 02:35:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079204",
+      "prizeNumber": "9,7,9,25",
+      "prizeTime": "2018-10-30 02:33:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079203",
+      "prizeNumber": "3,1,6,10",
+      "prizeTime": "2018-10-30 02:31:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079202",
+      "prizeNumber": "1,6,3,10",
+      "prizeTime": "2018-10-30 02:29:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079201",
+      "prizeNumber": "0,6,3,9",
+      "prizeTime": "2018-10-30 02:27:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079200",
+      "prizeNumber": "6,5,9,20",
+      "prizeTime": "2018-10-30 02:25:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079199",
+      "prizeNumber": "7,4,7,18",
+      "prizeTime": "2018-10-30 02:23:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079198",
+      "prizeNumber": "0,9,4,13",
+      "prizeTime": "2018-10-30 02:21:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079197",
+      "prizeNumber": "0,3,4,7",
+      "prizeTime": "2018-10-30 02:19:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079196",
+      "prizeNumber": "3,2,4,9",
+      "prizeTime": "2018-10-30 02:17:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079195",
+      "prizeNumber": "7,1,4,12",
+      "prizeTime": "2018-10-30 02:15:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079194",
+      "prizeNumber": "5,5,1,11",
+      "prizeTime": "2018-10-30 02:13:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079193",
+      "prizeNumber": "5,6,3,14",
+      "prizeTime": "2018-10-30 02:11:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079192",
+      "prizeNumber": "2,7,1,10",
+      "prizeTime": "2018-10-30 02:09:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079191",
+      "prizeNumber": "4,0,7,11",
+      "prizeTime": "2018-10-30 02:07:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079190",
+      "prizeNumber": "7,1,9,17",
+      "prizeTime": "2018-10-30 02:05:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079189",
+      "prizeNumber": "9,0,9,18",
+      "prizeTime": "2018-10-30 02:03:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079188",
+      "prizeNumber": "1,9,3,13",
+      "prizeTime": "2018-10-30 02:01:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079187",
+      "prizeNumber": "8,8,5,21",
+      "prizeTime": "2018-10-30 01:59:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079186",
+      "prizeNumber": "2,7,2,11",
+      "prizeTime": "2018-10-30 01:57:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079185",
+      "prizeNumber": "1,2,8,11",
+      "prizeTime": "2018-10-30 01:55:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079184",
+      "prizeNumber": "1,3,1,5",
+      "prizeTime": "2018-10-30 01:53:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079183",
+      "prizeNumber": "6,5,1,12",
+      "prizeTime": "2018-10-30 01:51:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079182",
+      "prizeNumber": "7,2,7,16",
+      "prizeTime": "2018-10-30 01:49:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079181",
+      "prizeNumber": "3,4,6,13",
+      "prizeTime": "2018-10-30 01:47:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079180",
+      "prizeNumber": "2,8,9,19",
+      "prizeTime": "2018-10-30 01:45:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079179",
+      "prizeNumber": "4,8,6,18",
+      "prizeTime": "2018-10-30 01:43:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079178",
+      "prizeNumber": "6,2,5,13",
+      "prizeTime": "2018-10-30 01:41:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079177",
+      "prizeNumber": "1,1,8,10",
+      "prizeTime": "2018-10-30 01:39:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079176",
+      "prizeNumber": "0,7,4,11",
+      "prizeTime": "2018-10-30 01:37:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079175",
+      "prizeNumber": "5,4,9,18",
+      "prizeTime": "2018-10-30 01:35:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079174",
+      "prizeNumber": "3,2,6,11",
+      "prizeTime": "2018-10-30 01:33:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079173",
+      "prizeNumber": "9,2,4,15",
+      "prizeTime": "2018-10-30 01:31:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079172",
+      "prizeNumber": "2,5,0,7",
+      "prizeTime": "2018-10-30 01:29:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079171",
+      "prizeNumber": "9,3,0,12",
+      "prizeTime": "2018-10-30 01:27:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079170",
+      "prizeNumber": "2,9,0,11",
+      "prizeTime": "2018-10-30 01:25:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079169",
+      "prizeNumber": "2,0,1,3",
+      "prizeTime": "2018-10-30 01:23:54",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079168",
+      "prizeNumber": "8,3,7,18",
+      "prizeTime": "2018-10-30 01:21:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079167",
+      "prizeNumber": "7,6,6,19",
+      "prizeTime": "2018-10-30 01:19:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079166",
+      "prizeNumber": "2,2,0,4",
+      "prizeTime": "2018-10-30 01:17:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079165",
+      "prizeNumber": "2,6,2,10",
+      "prizeTime": "2018-10-30 01:15:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079164",
+      "prizeNumber": "2,2,0,4",
+      "prizeTime": "2018-10-30 01:13:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079163",
+      "prizeNumber": "3,0,8,11",
+      "prizeTime": "2018-10-30 01:11:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079162",
+      "prizeNumber": "9,4,8,21",
+      "prizeTime": "2018-10-30 01:09:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079161",
+      "prizeNumber": "1,2,9,12",
+      "prizeTime": "2018-10-30 01:07:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079160",
+      "prizeNumber": "1,1,6,8",
+      "prizeTime": "2018-10-30 01:05:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079159",
+      "prizeNumber": "1,3,0,4",
+      "prizeTime": "2018-10-30 01:03:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079158",
+      "prizeNumber": "2,4,7,13",
+      "prizeTime": "2018-10-30 01:01:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079157",
+      "prizeNumber": "5,9,1,15",
+      "prizeTime": "2018-10-30 00:59:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079156",
+      "prizeNumber": "0,2,5,7",
+      "prizeTime": "2018-10-30 00:57:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079155",
+      "prizeNumber": "1,0,4,5",
+      "prizeTime": "2018-10-30 00:55:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079154",
+      "prizeNumber": "1,5,5,11",
+      "prizeTime": "2018-10-30 00:53:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079153",
+      "prizeNumber": "8,1,6,15",
+      "prizeTime": "2018-10-30 00:51:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079152",
+      "prizeNumber": "2,4,5,11",
+      "prizeTime": "2018-10-30 00:49:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079151",
+      "prizeNumber": "8,2,2,12",
+      "prizeTime": "2018-10-30 00:47:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079150",
+      "prizeNumber": "0,4,1,5",
+      "prizeTime": "2018-10-30 00:45:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079149",
+      "prizeNumber": "5,3,7,15",
+      "prizeTime": "2018-10-30 00:43:53",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079148",
+      "prizeNumber": "4,4,1,9",
+      "prizeTime": "2018-10-30 00:41:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079147",
+      "prizeNumber": "8,5,8,21",
+      "prizeTime": "2018-10-30 00:39:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079146",
+      "prizeNumber": "0,5,9,14",
+      "prizeTime": "2018-10-30 00:37:53",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079145",
+      "prizeNumber": "2,8,5,15",
+      "prizeTime": "2018-10-30 00:35:54",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079144",
+      "prizeNumber": "9,7,1,17",
+      "prizeTime": "2018-10-30 00:33:52",
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079143",
+      "prizeNumber": "1,8,1,10",
+      "prizeTime": "2018-10-30 00:31:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079142",
+      "prizeNumber": "4,6,2,12",
+      "prizeTime": "2018-10-30 00:29:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079141",
+      "prizeNumber": "5,3,4,12",
+      "prizeTime": "2018-10-30 00:27:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079140",
+      "prizeNumber": "3,4,9,16",
+      "prizeTime": "2018-10-30 00:25:52",
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079139",
+      "prizeNumber": "3,3,2,8",
+      "prizeTime": "2018-10-30 00:23:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079138",
+      "prizeNumber": "2,2,2,6",
+      "prizeTime": "2018-10-30 00:21:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079137",
+      "prizeNumber": "5,1,0,6",
+      "prizeTime": "2018-10-30 00:19:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079136",
+      "prizeNumber": "4,6,2,12",
+      "prizeTime": "2018-10-30 00:17:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079135",
+      "prizeNumber": "4,2,3,9",
+      "prizeTime": "2018-10-30 00:15:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079134",
+      "prizeNumber": "5,8,0,13",
+      "prizeTime": "2018-10-30 00:13:53",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079133",
+      "prizeNumber": "5,2,3,10",
+      "prizeTime": "2018-10-30 00:11:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079132",
+      "prizeNumber": "8,0,5,13",
+      "prizeTime": "2018-10-30 00:09:52",
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079131",
+      "prizeNumber": "2,5,5,12",
+      "prizeTime": "2018-10-30 00:07:54",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079130",
+      "prizeNumber": "1,1,0,2",
+      "prizeTime": "2018-10-30 00:05:52",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079129",
+      "prizeNumber": "2,3,3,8",
+      "prizeTime": "2018-10-30 00:03:53",
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "22",
+      "issueNo": "3079128",
+      "prizeNumber": "4,0,2,6",
+      "prizeTime": "2018-10-30 00:01:52",
+      "size": "small",
+      "single": "even"
+    }
+  ],
+  "errorcode": 200,
+  "message": "操作成功"
+}

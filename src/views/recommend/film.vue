@@ -1,38 +1,38 @@
 <template lang="pug">
   .component-film
-    .swiper-container
-      .swiper-wrapper
-        .swiper-slide
-          | slide1
-        .swiper-slide
-          | slide2
-        .swiper-slide
-          | slide3
+    mediaCard(:medias="list",title="正在热映")
+    mediaCard(:medias="list",title="即将上映")
 </template>
 
 <script>
-import Swiper from 'swiper'
+import axios from 'axios'
+import mediaCard from '../../components/media-card'
+
+let components = {}
+components['mediaCard'] = mediaCard
 
 export default {
+  components,
   data () {
     return {
-
+      list: []
+    }
+  },
+  methods: {
+    getMoviesList () {
+      axios.post('/movice/index').then(res => {
+        this.list = res.data.ms.slice(0, 10)
+        console.log(this.list)
+      }).catch(err => {
+        console.log(err)
+      })
     }
   },
   mounted () {
-    var swiper1 = new Swiper('.swiper-container', {
-      // direction: 'vertical'
-    })
-    console.log(swiper1)
+
   },
   created () {
-    // let swiper1 = new Swiper('.swiper-container', {
-    //   loop: true,
-    //   autoplay: true,
-    //   speed: 300
-    //   // direction: 'horizontal'
-    // })
-    // console.log(Swiper, swiper1)
+    this.getMoviesList()
   }
 }
 </script>

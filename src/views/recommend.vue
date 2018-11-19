@@ -2,7 +2,7 @@
   ._full
     ._full_inner._scroll._effect.component-recommend(:class="{'_effect--30':decline}")
       .component-recommend-content._full
-        mt-tab-container._full(v-model="selected",swipeable)
+        mt-tab-container._full._scroll(v-model="selected",swipeable)
           mt-tab-container-item(v-for="item in recTabs", :key="item.id", :id="item.id")
             film(v-if="item.id == 'film'")
             tv(v-else-if="item.id == 'tv'")

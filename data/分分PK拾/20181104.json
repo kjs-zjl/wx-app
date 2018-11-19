@@ -1,0 +1,6594 @@
+{
+  "data": [
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041212",
+      "prizeNumber": "01,07,09,05,03,04,02,10,06,08",
+      "prizeTime": "2018-11-04 12:11:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041211",
+      "prizeNumber": "02,04,09,05,01,07,10,03,08,06",
+      "prizeTime": "2018-11-04 12:10:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041210",
+      "prizeNumber": "01,03,02,07,10,06,08,09,04,05",
+      "prizeTime": "2018-11-04 12:09:52",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041209",
+      "prizeNumber": "05,07,10,08,04,03,02,01,06,09",
+      "prizeTime": "2018-11-04 12:08:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041208",
+      "prizeNumber": "02,06,01,08,09,05,04,03,10,07",
+      "prizeTime": "2018-11-04 12:07:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041207",
+      "prizeNumber": "02,06,08,09,04,07,10,03,01,05",
+      "prizeTime": "2018-11-04 12:06:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041206",
+      "prizeNumber": "08,02,07,03,01,04,10,05,06,09",
+      "prizeTime": "2018-11-04 12:05:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041205",
+      "prizeNumber": "10,09,03,08,04,05,07,02,06,01",
+      "prizeTime": "2018-11-04 12:04:54",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041204",
+      "prizeNumber": "02,01,06,10,04,05,03,07,08,09",
+      "prizeTime": "2018-11-04 12:03:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041203",
+      "prizeNumber": "01,06,03,02,07,04,09,08,10,05",
+      "prizeTime": "2018-11-04 12:02:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041202",
+      "prizeNumber": "01,06,04,02,07,05,09,08,10,03",
+      "prizeTime": "2018-11-04 12:01:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041201",
+      "prizeNumber": "06,09,02,05,07,08,03,10,04,01",
+      "prizeTime": "2018-11-04 12:00:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041200",
+      "prizeNumber": "10,03,09,05,01,04,06,08,07,02",
+      "prizeTime": "2018-11-04 11:59:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041159",
+      "prizeNumber": "06,04,10,03,08,09,07,01,02,05",
+      "prizeTime": "2018-11-04 11:58:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041158",
+      "prizeNumber": "05,04,10,09,01,08,07,03,02,06",
+      "prizeTime": "2018-11-04 11:57:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041157",
+      "prizeNumber": "03,02,09,01,07,06,05,04,10,08",
+      "prizeTime": "2018-11-04 11:56:54",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041156",
+      "prizeNumber": "06,10,01,09,07,03,04,05,02,08",
+      "prizeTime": "2018-11-04 11:55:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041155",
+      "prizeNumber": "04,06,07,03,02,05,10,01,08,09",
+      "prizeTime": "2018-11-04 11:54:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041154",
+      "prizeNumber": "02,01,09,03,07,08,06,04,05,10",
+      "prizeTime": "2018-11-04 11:53:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041153",
+      "prizeNumber": "07,03,04,05,06,08,01,02,10,09",
+      "prizeTime": "2018-11-04 11:52:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041152",
+      "prizeNumber": "05,09,03,01,02,04,07,08,06,10",
+      "prizeTime": "2018-11-04 11:51:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041151",
+      "prizeNumber": "06,05,02,09,04,07,01,10,08,03",
+      "prizeTime": "2018-11-04 11:50:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041150",
+      "prizeNumber": "03,06,09,10,01,02,05,07,08,04",
+      "prizeTime": "2018-11-04 11:49:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041149",
+      "prizeNumber": "10,02,03,01,04,09,07,05,08,06",
+      "prizeTime": "2018-11-04 11:48:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041148",
+      "prizeNumber": "05,04,06,03,10,02,08,09,01,07",
+      "prizeTime": "2018-11-04 11:47:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041147",
+      "prizeNumber": "06,02,01,07,03,04,08,05,09,10",
+      "prizeTime": "2018-11-04 11:46:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041146",
+      "prizeNumber": "02,01,07,08,05,06,09,04,10,03",
+      "prizeTime": "2018-11-04 11:45:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041145",
+      "prizeNumber": "04,03,09,07,06,01,02,05,10,08",
+      "prizeTime": "2018-11-04 11:44:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041144",
+      "prizeNumber": "02,01,04,06,03,07,05,10,09,08",
+      "prizeTime": "2018-11-04 11:43:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041143",
+      "prizeNumber": "03,09,02,05,08,06,07,04,10,01",
+      "prizeTime": "2018-11-04 11:42:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041142",
+      "prizeNumber": "03,07,04,08,05,02,09,10,01,06",
+      "prizeTime": "2018-11-04 11:41:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041141",
+      "prizeNumber": "08,03,07,02,06,01,04,05,09,10",
+      "prizeTime": "2018-11-04 11:40:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041140",
+      "prizeNumber": "08,05,04,01,06,02,03,07,09,10",
+      "prizeTime": "2018-11-04 11:39:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041139",
+      "prizeNumber": "05,07,09,02,04,10,03,08,06,01",
+      "prizeTime": "2018-11-04 11:38:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041138",
+      "prizeNumber": "03,02,01,05,09,10,06,08,04,07",
+      "prizeTime": "2018-11-04 11:37:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041137",
+      "prizeNumber": "07,02,04,06,09,01,05,08,10,03",
+      "prizeTime": "2018-11-04 11:36:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041136",
+      "prizeNumber": "09,02,08,01,07,03,05,10,06,04",
+      "prizeTime": "2018-11-04 11:35:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041135",
+      "prizeNumber": "09,07,03,02,08,05,06,01,04,10",
+      "prizeTime": "2018-11-04 11:34:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041134",
+      "prizeNumber": "10,04,08,01,06,05,02,07,09,03",
+      "prizeTime": "2018-11-04 11:33:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041133",
+      "prizeNumber": "03,05,08,06,07,10,09,04,02,01",
+      "prizeTime": "2018-11-04 11:32:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041132",
+      "prizeNumber": "09,02,08,05,03,07,06,04,10,01",
+      "prizeTime": "2018-11-04 11:31:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041131",
+      "prizeNumber": "01,05,10,06,03,08,07,04,02,09",
+      "prizeTime": "2018-11-04 11:30:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041130",
+      "prizeNumber": "08,10,05,01,04,03,07,09,06,02",
+      "prizeTime": "2018-11-04 11:29:53",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041129",
+      "prizeNumber": "01,03,10,08,04,06,09,02,07,05",
+      "prizeTime": "2018-11-04 11:28:52",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041128",
+      "prizeNumber": "04,03,02,01,07,10,05,06,09,08",
+      "prizeTime": "2018-11-04 11:27:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041127",
+      "prizeNumber": "05,07,04,02,01,06,03,08,10,09",
+      "prizeTime": "2018-11-04 11:26:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041126",
+      "prizeNumber": "04,07,05,03,09,10,01,08,06,02",
+      "prizeTime": "2018-11-04 11:25:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041125",
+      "prizeNumber": "06,05,01,07,09,02,04,08,03,10",
+      "prizeTime": "2018-11-04 11:24:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041124",
+      "prizeNumber": "04,02,08,03,05,10,07,09,06,01",
+      "prizeTime": "2018-11-04 11:23:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041123",
+      "prizeNumber": "10,08,03,04,01,05,07,06,02,09",
+      "prizeTime": "2018-11-04 11:22:53",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041122",
+      "prizeNumber": "07,02,09,06,01,10,05,04,03,08",
+      "prizeTime": "2018-11-04 11:21:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041121",
+      "prizeNumber": "03,08,02,10,01,07,06,05,04,09",
+      "prizeTime": "2018-11-04 11:20:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041120",
+      "prizeNumber": "05,04,03,06,02,09,10,01,07,08",
+      "prizeTime": "2018-11-04 11:19:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041119",
+      "prizeNumber": "06,02,04,01,07,08,05,10,09,03",
+      "prizeTime": "2018-11-04 11:18:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041118",
+      "prizeNumber": "03,06,01,02,04,09,08,07,05,10",
+      "prizeTime": "2018-11-04 11:17:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041117",
+      "prizeNumber": "06,08,09,07,02,05,10,01,03,04",
+      "prizeTime": "2018-11-04 11:16:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041116",
+      "prizeNumber": "02,09,10,05,07,01,03,06,08,04",
+      "prizeTime": "2018-11-04 11:15:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041115",
+      "prizeNumber": "05,07,08,10,02,03,01,09,04,06",
+      "prizeTime": "2018-11-04 11:14:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041114",
+      "prizeNumber": "03,07,01,05,09,02,08,10,06,04",
+      "prizeTime": "2018-11-04 11:13:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041113",
+      "prizeNumber": "03,02,05,04,10,08,06,09,01,07",
+      "prizeTime": "2018-11-04 11:12:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041112",
+      "prizeNumber": "05,08,10,02,09,03,06,01,07,04",
+      "prizeTime": "2018-11-04 11:11:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041111",
+      "prizeNumber": "01,10,05,08,09,03,06,02,04,07",
+      "prizeTime": "2018-11-04 11:10:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041110",
+      "prizeNumber": "01,10,03,08,02,05,09,06,07,04",
+      "prizeTime": "2018-11-04 11:09:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041109",
+      "prizeNumber": "07,10,09,08,02,05,06,01,03,04",
+      "prizeTime": "2018-11-04 11:08:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041108",
+      "prizeNumber": "03,05,07,02,06,04,01,09,08,10",
+      "prizeTime": "2018-11-04 11:07:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041107",
+      "prizeNumber": "10,03,09,06,08,04,05,01,07,02",
+      "prizeTime": "2018-11-04 11:06:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041106",
+      "prizeNumber": "06,08,01,04,05,09,02,03,07,10",
+      "prizeTime": "2018-11-04 11:05:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041105",
+      "prizeNumber": "03,06,10,04,01,07,09,02,05,08",
+      "prizeTime": "2018-11-04 11:04:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041104",
+      "prizeNumber": "04,09,01,02,10,06,08,03,07,05",
+      "prizeTime": "2018-11-04 11:03:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041103",
+      "prizeNumber": "08,04,05,02,06,01,10,09,03,07",
+      "prizeTime": "2018-11-04 11:02:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041102",
+      "prizeNumber": "10,05,09,06,01,02,07,04,08,03",
+      "prizeTime": "2018-11-04 11:01:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041101",
+      "prizeNumber": "01,03,05,06,10,07,09,08,02,04",
+      "prizeTime": "2018-11-04 11:00:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041100",
+      "prizeNumber": "02,10,08,03,01,04,09,07,05,06",
+      "prizeTime": "2018-11-04 10:59:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041059",
+      "prizeNumber": "09,02,05,01,04,07,10,08,06,03",
+      "prizeTime": "2018-11-04 10:58:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041058",
+      "prizeNumber": "07,10,08,04,06,02,03,09,01,05",
+      "prizeTime": "2018-11-04 10:57:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041057",
+      "prizeNumber": "09,04,10,05,06,08,02,07,01,03",
+      "prizeTime": "2018-11-04 10:56:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041056",
+      "prizeNumber": "10,06,04,07,09,02,01,03,05,08",
+      "prizeTime": "2018-11-04 10:55:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041055",
+      "prizeNumber": "05,09,10,04,03,01,02,08,06,07",
+      "prizeTime": "2018-11-04 10:54:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041054",
+      "prizeNumber": "10,06,03,02,09,08,04,01,05,07",
+      "prizeTime": "2018-11-04 10:53:54",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041053",
+      "prizeNumber": "03,02,08,09,05,06,04,10,01,07",
+      "prizeTime": "2018-11-04 10:52:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041052",
+      "prizeNumber": "06,05,10,01,07,02,03,04,08,09",
+      "prizeTime": "2018-11-04 10:51:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041051",
+      "prizeNumber": "02,10,05,06,04,08,07,01,09,03",
+      "prizeTime": "2018-11-04 10:50:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041050",
+      "prizeNumber": "09,07,06,05,04,08,10,02,03,01",
+      "prizeTime": "2018-11-04 10:49:54",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041049",
+      "prizeNumber": "03,07,08,01,04,10,02,09,05,06",
+      "prizeTime": "2018-11-04 10:48:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041048",
+      "prizeNumber": "09,01,03,08,04,10,05,06,02,07",
+      "prizeTime": "2018-11-04 10:47:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041047",
+      "prizeNumber": "02,08,01,07,06,10,05,03,04,09",
+      "prizeTime": "2018-11-04 10:46:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041046",
+      "prizeNumber": "02,01,07,09,08,10,04,03,05,06",
+      "prizeTime": "2018-11-04 10:45:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041045",
+      "prizeNumber": "01,07,09,03,04,06,10,05,08,02",
+      "prizeTime": "2018-11-04 10:44:54",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041044",
+      "prizeNumber": "07,04,10,01,03,05,09,06,02,08",
+      "prizeTime": "2018-11-04 10:43:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041043",
+      "prizeNumber": "02,10,04,03,06,05,09,01,08,07",
+      "prizeTime": "2018-11-04 10:42:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041042",
+      "prizeNumber": "05,03,08,07,04,06,01,09,02,10",
+      "prizeTime": "2018-11-04 10:41:54",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041041",
+      "prizeNumber": "04,03,08,07,10,05,01,06,02,09",
+      "prizeTime": "2018-11-04 10:40:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041040",
+      "prizeNumber": "02,08,09,07,10,01,04,06,03,05",
+      "prizeTime": "2018-11-04 10:39:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041039",
+      "prizeNumber": "06,01,07,09,05,04,02,03,08,10",
+      "prizeTime": "2018-11-04 10:38:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041038",
+      "prizeNumber": "04,08,03,07,01,05,06,02,10,09",
+      "prizeTime": "2018-11-04 10:37:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041037",
+      "prizeNumber": "09,05,01,06,02,04,08,10,07,03",
+      "prizeTime": "2018-11-04 10:36:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041036",
+      "prizeNumber": "08,02,06,05,04,03,01,07,09,10",
+      "prizeTime": "2018-11-04 10:35:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041035",
+      "prizeNumber": "05,04,02,03,08,10,09,06,07,01",
+      "prizeTime": "2018-11-04 10:34:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041034",
+      "prizeNumber": "01,09,02,06,03,04,10,05,08,07",
+      "prizeTime": "2018-11-04 10:33:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041033",
+      "prizeNumber": "08,03,01,07,09,06,05,10,02,04",
+      "prizeTime": "2018-11-04 10:32:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041032",
+      "prizeNumber": "03,09,06,02,07,05,10,08,04,01",
+      "prizeTime": "2018-11-04 10:31:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041031",
+      "prizeNumber": "07,10,02,01,09,05,06,03,04,08",
+      "prizeTime": "2018-11-04 10:30:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041030",
+      "prizeNumber": "07,02,04,06,03,09,10,08,01,05",
+      "prizeTime": "2018-11-04 10:29:54",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041029",
+      "prizeNumber": "05,01,08,07,10,02,04,09,06,03",
+      "prizeTime": "2018-11-04 10:28:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041028",
+      "prizeNumber": "05,09,02,04,10,06,07,08,03,01",
+      "prizeTime": "2018-11-04 10:27:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041027",
+      "prizeNumber": "04,07,03,10,05,01,02,09,08,06",
+      "prizeTime": "2018-11-04 10:26:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041026",
+      "prizeNumber": "08,03,10,06,07,01,04,05,09,02",
+      "prizeTime": "2018-11-04 10:25:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041025",
+      "prizeNumber": "03,04,07,02,05,08,10,09,06,01",
+      "prizeTime": "2018-11-04 10:24:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041024",
+      "prizeNumber": "05,06,02,04,03,09,07,10,08,01",
+      "prizeTime": "2018-11-04 10:23:54",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041023",
+      "prizeNumber": "09,02,01,06,04,08,05,10,07,03",
+      "prizeTime": "2018-11-04 10:22:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041022",
+      "prizeNumber": "01,04,03,06,02,08,10,07,09,05",
+      "prizeTime": "2018-11-04 10:21:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041021",
+      "prizeNumber": "01,06,08,09,05,04,02,03,07,10",
+      "prizeTime": "2018-11-04 10:20:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041020",
+      "prizeNumber": "01,06,08,07,09,03,10,05,04,02",
+      "prizeTime": "2018-11-04 10:19:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041019",
+      "prizeNumber": "05,07,01,04,10,08,02,09,03,06",
+      "prizeTime": "2018-11-04 10:18:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041018",
+      "prizeNumber": "08,02,03,01,05,07,04,09,06,10",
+      "prizeTime": "2018-11-04 10:17:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041017",
+      "prizeNumber": "06,07,03,04,10,05,08,02,09,01",
+      "prizeTime": "2018-11-04 10:16:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041016",
+      "prizeNumber": "10,06,07,09,04,08,03,02,05,01",
+      "prizeTime": "2018-11-04 10:15:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041015",
+      "prizeNumber": "06,02,05,03,09,08,10,07,04,01",
+      "prizeTime": "2018-11-04 10:14:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041014",
+      "prizeNumber": "01,08,10,05,09,04,03,06,07,02",
+      "prizeTime": "2018-11-04 10:13:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041013",
+      "prizeNumber": "01,07,06,04,03,02,05,10,09,08",
+      "prizeTime": "2018-11-04 10:12:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041012",
+      "prizeNumber": "03,08,05,09,06,10,01,07,02,04",
+      "prizeTime": "2018-11-04 10:11:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041011",
+      "prizeNumber": "06,08,02,04,01,05,10,03,09,07",
+      "prizeTime": "2018-11-04 10:10:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041010",
+      "prizeNumber": "01,04,03,05,08,06,09,07,02,10",
+      "prizeTime": "2018-11-04 10:09:54",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041009",
+      "prizeNumber": "10,02,03,05,01,07,06,04,09,08",
+      "prizeTime": "2018-11-04 10:08:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041008",
+      "prizeNumber": "09,01,02,05,03,10,07,04,08,06",
+      "prizeTime": "2018-11-04 10:07:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041007",
+      "prizeNumber": "01,08,05,10,09,02,03,07,04,06",
+      "prizeTime": "2018-11-04 10:06:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041006",
+      "prizeNumber": "09,06,07,03,01,08,10,05,02,04",
+      "prizeTime": "2018-11-04 10:05:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041005",
+      "prizeNumber": "05,04,08,01,06,10,02,07,03,09",
+      "prizeTime": "2018-11-04 10:04:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041004",
+      "prizeNumber": "05,07,06,04,03,02,08,10,09,01",
+      "prizeTime": "2018-11-04 10:03:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041003",
+      "prizeNumber": "08,06,05,01,04,03,10,07,09,02",
+      "prizeTime": "2018-11-04 10:02:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041002",
+      "prizeNumber": "10,05,06,01,04,09,02,03,08,07",
+      "prizeTime": "2018-11-04 10:01:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041001",
+      "prizeNumber": "07,03,08,06,01,02,04,05,09,10",
+      "prizeTime": "2018-11-04 10:00:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811041000",
+      "prizeNumber": "10,04,09,08,01,05,06,03,02,07",
+      "prizeTime": "2018-11-04 09:59:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040959",
+      "prizeNumber": "02,05,06,10,04,01,08,07,03,09",
+      "prizeTime": "2018-11-04 09:58:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040958",
+      "prizeNumber": "04,08,07,10,03,06,09,01,05,02",
+      "prizeTime": "2018-11-04 09:57:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040957",
+      "prizeNumber": "04,09,10,08,05,07,02,01,06,03",
+      "prizeTime": "2018-11-04 09:56:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040956",
+      "prizeNumber": "03,09,08,06,02,01,10,07,04,05",
+      "prizeTime": "2018-11-04 09:55:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040955",
+      "prizeNumber": "02,05,06,01,10,04,09,03,07,08",
+      "prizeTime": "2018-11-04 09:54:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040954",
+      "prizeNumber": "02,06,09,05,07,04,10,08,01,03",
+      "prizeTime": "2018-11-04 09:53:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040953",
+      "prizeNumber": "05,02,03,10,09,08,04,06,07,01",
+      "prizeTime": "2018-11-04 09:52:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040952",
+      "prizeNumber": "06,09,03,10,08,02,05,04,01,07",
+      "prizeTime": "2018-11-04 09:51:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040951",
+      "prizeNumber": "01,09,10,07,03,04,05,08,06,02",
+      "prizeTime": "2018-11-04 09:50:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040950",
+      "prizeNumber": "01,09,08,04,03,05,06,10,02,07",
+      "prizeTime": "2018-11-04 09:49:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040949",
+      "prizeNumber": "05,03,08,02,04,09,10,06,07,01",
+      "prizeTime": "2018-11-04 09:48:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040948",
+      "prizeNumber": "09,03,01,04,07,08,02,05,06,10",
+      "prizeTime": "2018-11-04 09:47:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040947",
+      "prizeNumber": "06,08,05,09,04,07,02,03,01,10",
+      "prizeTime": "2018-11-04 09:46:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040946",
+      "prizeNumber": "01,02,08,03,09,07,06,10,04,05",
+      "prizeTime": "2018-11-04 09:45:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040945",
+      "prizeNumber": "08,02,01,10,06,03,09,05,07,04",
+      "prizeTime": "2018-11-04 09:44:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040944",
+      "prizeNumber": "05,06,02,08,03,01,10,09,07,04",
+      "prizeTime": "2018-11-04 09:43:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040943",
+      "prizeNumber": "01,03,10,04,02,05,08,06,09,07",
+      "prizeTime": "2018-11-04 09:42:52",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040942",
+      "prizeNumber": "01,03,07,06,10,04,08,09,05,02",
+      "prizeTime": "2018-11-04 09:41:52",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040941",
+      "prizeNumber": "07,09,05,10,02,01,08,04,06,03",
+      "prizeTime": "2018-11-04 09:40:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040940",
+      "prizeNumber": "02,10,06,01,04,07,05,03,08,09",
+      "prizeTime": "2018-11-04 09:39:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040939",
+      "prizeNumber": "09,01,03,04,07,02,05,06,10,08",
+      "prizeTime": "2018-11-04 09:38:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040938",
+      "prizeNumber": "03,09,02,01,06,07,05,08,04,10",
+      "prizeTime": "2018-11-04 09:37:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040937",
+      "prizeNumber": "03,08,10,07,09,05,04,06,01,02",
+      "prizeTime": "2018-11-04 09:36:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040936",
+      "prizeNumber": "05,07,06,08,03,02,10,09,01,04",
+      "prizeTime": "2018-11-04 09:35:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040935",
+      "prizeNumber": "05,08,06,10,07,03,02,04,01,09",
+      "prizeTime": "2018-11-04 09:34:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040934",
+      "prizeNumber": "03,10,08,04,02,01,06,09,05,07",
+      "prizeTime": "2018-11-04 09:33:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040933",
+      "prizeNumber": "01,03,04,10,07,08,06,05,02,09",
+      "prizeTime": "2018-11-04 09:32:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040932",
+      "prizeNumber": "06,01,07,03,08,10,04,09,02,05",
+      "prizeTime": "2018-11-04 09:31:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040931",
+      "prizeNumber": "02,04,05,10,09,06,07,08,01,03",
+      "prizeTime": "2018-11-04 09:30:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040930",
+      "prizeNumber": "03,04,01,06,09,08,10,02,07,05",
+      "prizeTime": "2018-11-04 09:29:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040929",
+      "prizeNumber": "07,09,10,01,05,06,03,08,04,02",
+      "prizeTime": "2018-11-04 09:28:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040928",
+      "prizeNumber": "01,07,06,08,02,10,04,05,03,09",
+      "prizeTime": "2018-11-04 09:27:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040927",
+      "prizeNumber": "04,09,03,02,01,07,05,08,10,06",
+      "prizeTime": "2018-11-04 09:26:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040926",
+      "prizeNumber": "08,06,01,05,07,02,03,09,04,10",
+      "prizeTime": "2018-11-04 09:25:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040925",
+      "prizeNumber": "08,04,09,10,05,01,07,06,02,03",
+      "prizeTime": "2018-11-04 09:24:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040924",
+      "prizeNumber": "07,08,04,09,01,03,02,05,10,06",
+      "prizeTime": "2018-11-04 09:23:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040923",
+      "prizeNumber": "06,07,10,05,01,03,02,04,08,09",
+      "prizeTime": "2018-11-04 09:22:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040922",
+      "prizeNumber": "03,10,08,09,02,07,05,06,01,04",
+      "prizeTime": "2018-11-04 09:21:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040921",
+      "prizeNumber": "01,02,10,07,04,03,06,09,08,05",
+      "prizeTime": "2018-11-04 09:20:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040920",
+      "prizeNumber": "09,05,02,03,07,06,01,08,10,04",
+      "prizeTime": "2018-11-04 09:19:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040919",
+      "prizeNumber": "03,02,10,09,01,07,08,05,04,06",
+      "prizeTime": "2018-11-04 09:18:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040918",
+      "prizeNumber": "02,01,04,08,09,07,10,05,03,06",
+      "prizeTime": "2018-11-04 09:17:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040917",
+      "prizeNumber": "05,10,06,04,02,03,01,07,09,08",
+      "prizeTime": "2018-11-04 09:16:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040916",
+      "prizeNumber": "03,09,04,02,06,07,01,08,05,10",
+      "prizeTime": "2018-11-04 09:15:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040915",
+      "prizeNumber": "03,05,10,04,07,02,08,01,09,06",
+      "prizeTime": "2018-11-04 09:14:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040914",
+      "prizeNumber": "08,05,10,02,01,06,04,07,09,03",
+      "prizeTime": "2018-11-04 09:13:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040913",
+      "prizeNumber": "08,01,02,06,09,05,10,03,07,04",
+      "prizeTime": "2018-11-04 09:12:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040912",
+      "prizeNumber": "02,07,10,05,04,08,01,03,09,06",
+      "prizeTime": "2018-11-04 09:11:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040911",
+      "prizeNumber": "02,08,04,06,07,01,03,05,10,09",
+      "prizeTime": "2018-11-04 09:10:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040910",
+      "prizeNumber": "07,10,09,04,08,02,06,01,03,05",
+      "prizeTime": "2018-11-04 09:09:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040909",
+      "prizeNumber": "08,03,04,05,09,06,01,10,02,07",
+      "prizeTime": "2018-11-04 09:08:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040908",
+      "prizeNumber": "01,10,04,09,02,06,03,07,08,05",
+      "prizeTime": "2018-11-04 09:07:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040907",
+      "prizeNumber": "10,03,08,05,01,06,02,07,04,09",
+      "prizeTime": "2018-11-04 09:06:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040906",
+      "prizeNumber": "02,04,01,07,06,09,03,05,08,10",
+      "prizeTime": "2018-11-04 09:05:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040905",
+      "prizeNumber": "07,05,02,03,01,10,08,06,09,04",
+      "prizeTime": "2018-11-04 09:04:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040904",
+      "prizeNumber": "06,03,02,01,08,10,04,07,05,09",
+      "prizeTime": "2018-11-04 09:03:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040903",
+      "prizeNumber": "06,04,02,07,09,01,03,05,08,10",
+      "prizeTime": "2018-11-04 09:02:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040902",
+      "prizeNumber": "04,07,08,03,09,02,05,01,10,06",
+      "prizeTime": "2018-11-04 09:01:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040901",
+      "prizeNumber": "09,07,05,03,08,10,04,01,06,02",
+      "prizeTime": "2018-11-04 09:00:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040900",
+      "prizeNumber": "03,10,09,04,06,08,01,05,07,02",
+      "prizeTime": "2018-11-04 08:59:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040859",
+      "prizeNumber": "03,02,08,10,09,07,04,05,01,06",
+      "prizeTime": "2018-11-04 08:58:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040858",
+      "prizeNumber": "04,02,10,06,09,01,07,08,05,03",
+      "prizeTime": "2018-11-04 08:57:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040857",
+      "prizeNumber": "08,06,03,10,02,09,04,01,05,07",
+      "prizeTime": "2018-11-04 08:56:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040856",
+      "prizeNumber": "06,10,01,07,04,09,02,03,05,08",
+      "prizeTime": "2018-11-04 08:55:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040855",
+      "prizeNumber": "02,07,01,03,10,04,06,08,05,09",
+      "prizeTime": "2018-11-04 08:54:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040854",
+      "prizeNumber": "04,10,01,03,05,02,07,08,06,09",
+      "prizeTime": "2018-11-04 08:53:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040853",
+      "prizeNumber": "10,07,02,04,08,09,03,05,06,01",
+      "prizeTime": "2018-11-04 08:52:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040852",
+      "prizeNumber": "05,06,07,04,08,10,02,01,03,09",
+      "prizeTime": "2018-11-04 08:51:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040851",
+      "prizeNumber": "03,08,10,06,02,07,04,05,01,09",
+      "prizeTime": "2018-11-04 08:50:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040850",
+      "prizeNumber": "08,07,06,09,02,03,10,05,04,01",
+      "prizeTime": "2018-11-04 08:49:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040849",
+      "prizeNumber": "05,03,08,04,10,06,07,02,09,01",
+      "prizeTime": "2018-11-04 08:48:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040848",
+      "prizeNumber": "05,02,01,06,10,07,03,09,08,04",
+      "prizeTime": "2018-11-04 08:47:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040847",
+      "prizeNumber": "09,08,10,05,03,06,01,07,02,04",
+      "prizeTime": "2018-11-04 08:46:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040846",
+      "prizeNumber": "03,05,02,08,09,01,06,04,10,07",
+      "prizeTime": "2018-11-04 08:45:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040845",
+      "prizeNumber": "01,07,10,04,02,06,05,09,08,03",
+      "prizeTime": "2018-11-04 08:44:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040844",
+      "prizeNumber": "10,09,01,05,03,06,07,04,02,08",
+      "prizeTime": "2018-11-04 08:43:53",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040843",
+      "prizeNumber": "01,02,10,03,09,05,06,04,08,07",
+      "prizeTime": "2018-11-04 08:42:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040842",
+      "prizeNumber": "05,07,03,10,08,01,04,06,02,09",
+      "prizeTime": "2018-11-04 08:41:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040841",
+      "prizeNumber": "05,07,06,01,03,02,09,04,10,08",
+      "prizeTime": "2018-11-04 08:40:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040840",
+      "prizeNumber": "02,09,03,07,04,06,08,10,05,01",
+      "prizeTime": "2018-11-04 08:39:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040839",
+      "prizeNumber": "07,10,04,03,05,06,02,08,01,09",
+      "prizeTime": "2018-11-04 08:38:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040838",
+      "prizeNumber": "07,09,01,10,02,06,03,05,08,04",
+      "prizeTime": "2018-11-04 08:37:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040837",
+      "prizeNumber": "10,02,09,04,01,08,07,06,03,05",
+      "prizeTime": "2018-11-04 08:36:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040836",
+      "prizeNumber": "05,08,02,03,09,07,04,06,10,01",
+      "prizeTime": "2018-11-04 08:35:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040835",
+      "prizeNumber": "02,05,09,07,01,06,04,03,10,08",
+      "prizeTime": "2018-11-04 08:34:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040834",
+      "prizeNumber": "08,04,07,01,09,05,10,03,06,02",
+      "prizeTime": "2018-11-04 08:33:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040833",
+      "prizeNumber": "09,08,02,06,07,10,01,05,04,03",
+      "prizeTime": "2018-11-04 08:32:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040832",
+      "prizeNumber": "03,07,06,10,04,09,02,05,08,01",
+      "prizeTime": "2018-11-04 08:31:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040831",
+      "prizeNumber": "01,04,08,10,05,07,09,06,02,03",
+      "prizeTime": "2018-11-04 08:30:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040830",
+      "prizeNumber": "05,06,02,10,03,07,09,01,08,04",
+      "prizeTime": "2018-11-04 08:29:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040829",
+      "prizeNumber": "04,06,07,09,05,08,03,10,01,02",
+      "prizeTime": "2018-11-04 08:28:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040828",
+      "prizeNumber": "06,05,09,08,01,03,04,10,07,02",
+      "prizeTime": "2018-11-04 08:27:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040827",
+      "prizeNumber": "04,08,06,10,03,07,01,05,09,02",
+      "prizeTime": "2018-11-04 08:26:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040826",
+      "prizeNumber": "08,01,02,07,03,05,06,10,09,04",
+      "prizeTime": "2018-11-04 08:25:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040825",
+      "prizeNumber": "06,05,09,07,10,02,03,01,08,04",
+      "prizeTime": "2018-11-04 08:24:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040824",
+      "prizeNumber": "10,07,08,04,06,02,05,09,03,01",
+      "prizeTime": "2018-11-04 08:23:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040823",
+      "prizeNumber": "09,01,03,07,02,08,10,04,05,06",
+      "prizeTime": "2018-11-04 08:22:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040822",
+      "prizeNumber": "01,02,04,03,05,07,06,09,10,08",
+      "prizeTime": "2018-11-04 08:21:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040821",
+      "prizeNumber": "01,10,04,05,06,07,03,08,02,09",
+      "prizeTime": "2018-11-04 08:20:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040820",
+      "prizeNumber": "09,07,06,02,03,08,10,01,05,04",
+      "prizeTime": "2018-11-04 08:19:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040819",
+      "prizeNumber": "08,09,02,03,04,01,07,10,06,05",
+      "prizeTime": "2018-11-04 08:18:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040818",
+      "prizeNumber": "06,08,10,03,02,09,04,01,07,05",
+      "prizeTime": "2018-11-04 08:17:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040817",
+      "prizeNumber": "01,09,10,05,07,08,02,06,04,03",
+      "prizeTime": "2018-11-04 08:16:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040816",
+      "prizeNumber": "03,10,02,01,06,07,04,09,08,05",
+      "prizeTime": "2018-11-04 08:15:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040815",
+      "prizeNumber": "02,03,09,01,10,06,05,07,04,08",
+      "prizeTime": "2018-11-04 08:14:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040814",
+      "prizeNumber": "01,05,02,07,06,09,08,10,04,03",
+      "prizeTime": "2018-11-04 08:13:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040813",
+      "prizeNumber": "05,04,09,06,08,01,02,10,03,07",
+      "prizeTime": "2018-11-04 08:12:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040812",
+      "prizeNumber": "10,07,09,01,04,08,02,06,05,03",
+      "prizeTime": "2018-11-04 08:11:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040811",
+      "prizeNumber": "04,03,06,09,10,08,01,07,02,05",
+      "prizeTime": "2018-11-04 08:10:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040810",
+      "prizeNumber": "04,02,03,10,08,06,05,07,09,01",
+      "prizeTime": "2018-11-04 08:09:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040809",
+      "prizeNumber": "08,06,04,01,05,03,10,07,09,02",
+      "prizeTime": "2018-11-04 08:08:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040808",
+      "prizeNumber": "04,01,06,08,03,09,05,07,10,02",
+      "prizeTime": "2018-11-04 08:07:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040807",
+      "prizeNumber": "03,10,06,05,02,01,07,09,04,08",
+      "prizeTime": "2018-11-04 08:06:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040806",
+      "prizeNumber": "04,09,05,02,06,01,10,07,03,08",
+      "prizeTime": "2018-11-04 08:05:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040805",
+      "prizeNumber": "08,07,03,01,05,06,09,02,10,04",
+      "prizeTime": "2018-11-04 08:04:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040804",
+      "prizeNumber": "03,07,01,04,10,09,05,08,02,06",
+      "prizeTime": "2018-11-04 08:03:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040803",
+      "prizeNumber": "10,03,04,07,08,09,05,06,01,02",
+      "prizeTime": "2018-11-04 08:02:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040802",
+      "prizeNumber": "10,02,06,04,05,03,07,01,08,09",
+      "prizeTime": "2018-11-04 08:01:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040801",
+      "prizeNumber": "07,10,06,09,03,08,04,05,02,01",
+      "prizeTime": "2018-11-04 08:00:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040800",
+      "prizeNumber": "09,04,08,07,03,06,10,05,02,01",
+      "prizeTime": "2018-11-04 07:59:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040759",
+      "prizeNumber": "06,04,09,05,07,02,01,10,03,08",
+      "prizeTime": "2018-11-04 07:58:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040758",
+      "prizeNumber": "07,01,08,09,04,03,06,10,05,02",
+      "prizeTime": "2018-11-04 07:57:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040757",
+      "prizeNumber": "03,05,10,06,02,07,04,09,01,08",
+      "prizeTime": "2018-11-04 07:56:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040756",
+      "prizeNumber": "08,10,07,05,09,01,02,06,04,03",
+      "prizeTime": "2018-11-04 07:55:53",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040755",
+      "prizeNumber": "02,04,06,01,08,09,03,05,10,07",
+      "prizeTime": "2018-11-04 07:54:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040754",
+      "prizeNumber": "01,08,03,06,04,02,09,10,05,07",
+      "prizeTime": "2018-11-04 07:53:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040753",
+      "prizeNumber": "06,02,04,10,07,03,09,01,05,08",
+      "prizeTime": "2018-11-04 07:52:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040752",
+      "prizeNumber": "06,09,07,05,04,08,03,01,10,02",
+      "prizeTime": "2018-11-04 07:51:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040751",
+      "prizeNumber": "01,10,03,05,08,07,06,09,04,02",
+      "prizeTime": "2018-11-04 07:50:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040750",
+      "prizeNumber": "10,07,08,06,03,01,02,05,04,09",
+      "prizeTime": "2018-11-04 07:49:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040749",
+      "prizeNumber": "03,10,07,05,04,08,06,09,02,01",
+      "prizeTime": "2018-11-04 07:48:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040748",
+      "prizeNumber": "05,10,04,07,09,01,03,06,08,02",
+      "prizeTime": "2018-11-04 07:47:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040747",
+      "prizeNumber": "04,08,03,02,01,05,06,07,10,09",
+      "prizeTime": "2018-11-04 07:46:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040746",
+      "prizeNumber": "05,08,06,01,03,04,02,09,10,07",
+      "prizeTime": "2018-11-04 07:45:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040745",
+      "prizeNumber": "01,05,07,06,03,08,09,04,10,02",
+      "prizeTime": "2018-11-04 07:44:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040744",
+      "prizeNumber": "04,09,07,05,06,03,02,08,01,10",
+      "prizeTime": "2018-11-04 07:43:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040743",
+      "prizeNumber": "10,01,06,09,08,03,05,02,04,07",
+      "prizeTime": "2018-11-04 07:42:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040742",
+      "prizeNumber": "09,05,03,10,04,08,01,06,02,07",
+      "prizeTime": "2018-11-04 07:41:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040741",
+      "prizeNumber": "05,02,10,07,08,06,03,09,04,01",
+      "prizeTime": "2018-11-04 07:40:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040740",
+      "prizeNumber": "07,06,08,01,09,05,04,03,10,02",
+      "prizeTime": "2018-11-04 07:39:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040739",
+      "prizeNumber": "02,10,08,05,04,06,07,03,01,09",
+      "prizeTime": "2018-11-04 07:38:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040738",
+      "prizeNumber": "07,08,05,02,10,03,09,01,06,04",
+      "prizeTime": "2018-11-04 07:37:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040737",
+      "prizeNumber": "09,04,01,05,03,08,10,06,07,02",
+      "prizeTime": "2018-11-04 07:36:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040736",
+      "prizeNumber": "10,03,02,04,01,08,07,06,05,09",
+      "prizeTime": "2018-11-04 07:35:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040735",
+      "prizeNumber": "01,10,05,04,07,06,08,02,03,09",
+      "prizeTime": "2018-11-04 07:34:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040734",
+      "prizeNumber": "09,01,06,10,02,03,05,07,08,04",
+      "prizeTime": "2018-11-04 07:33:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040733",
+      "prizeNumber": "09,03,04,05,07,08,02,01,06,10",
+      "prizeTime": "2018-11-04 07:32:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040732",
+      "prizeNumber": "10,06,09,04,01,07,02,05,03,08",
+      "prizeTime": "2018-11-04 07:31:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040731",
+      "prizeNumber": "01,06,02,08,09,03,04,10,07,05",
+      "prizeTime": "2018-11-04 07:30:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040730",
+      "prizeNumber": "08,05,03,06,04,07,10,02,09,01",
+      "prizeTime": "2018-11-04 07:29:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040729",
+      "prizeNumber": "10,09,02,01,06,03,05,08,04,07",
+      "prizeTime": "2018-11-04 07:28:53",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040728",
+      "prizeNumber": "07,06,02,03,09,05,10,04,01,08",
+      "prizeTime": "2018-11-04 07:27:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040727",
+      "prizeNumber": "06,05,07,02,09,10,04,01,08,03",
+      "prizeTime": "2018-11-04 07:26:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040726",
+      "prizeNumber": "06,04,07,05,02,08,01,09,10,03",
+      "prizeTime": "2018-11-04 07:25:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040725",
+      "prizeNumber": "09,04,07,05,10,03,08,01,06,02",
+      "prizeTime": "2018-11-04 07:24:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040724",
+      "prizeNumber": "04,08,09,05,07,01,02,03,06,10",
+      "prizeTime": "2018-11-04 07:23:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040723",
+      "prizeNumber": "03,06,04,07,10,08,09,02,05,01",
+      "prizeTime": "2018-11-04 07:22:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040722",
+      "prizeNumber": "02,09,06,05,08,07,10,01,04,03",
+      "prizeTime": "2018-11-04 07:21:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040721",
+      "prizeNumber": "04,09,07,03,10,08,02,06,05,01",
+      "prizeTime": "2018-11-04 07:20:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040720",
+      "prizeNumber": "08,05,10,02,06,07,04,01,03,09",
+      "prizeTime": "2018-11-04 07:19:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040719",
+      "prizeNumber": "07,06,03,05,10,08,09,01,04,02",
+      "prizeTime": "2018-11-04 07:18:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040718",
+      "prizeNumber": "06,10,08,01,07,05,09,03,02,04",
+      "prizeTime": "2018-11-04 07:17:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040717",
+      "prizeNumber": "03,02,05,08,04,07,06,01,09,10",
+      "prizeTime": "2018-11-04 07:16:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040716",
+      "prizeNumber": "10,09,02,03,08,04,05,01,07,06",
+      "prizeTime": "2018-11-04 07:15:53",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040715",
+      "prizeNumber": "07,02,06,05,10,01,03,04,08,09",
+      "prizeTime": "2018-11-04 07:14:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040714",
+      "prizeNumber": "06,04,08,01,09,05,10,03,02,07",
+      "prizeTime": "2018-11-04 07:13:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040713",
+      "prizeNumber": "05,01,08,06,09,02,10,04,07,03",
+      "prizeTime": "2018-11-04 07:12:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040712",
+      "prizeNumber": "05,10,01,06,02,07,08,04,03,09",
+      "prizeTime": "2018-11-04 07:11:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040711",
+      "prizeNumber": "06,01,04,03,08,02,10,07,05,09",
+      "prizeTime": "2018-11-04 07:10:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040710",
+      "prizeNumber": "09,05,06,07,01,03,04,02,08,10",
+      "prizeTime": "2018-11-04 07:09:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040709",
+      "prizeNumber": "02,04,09,07,01,05,08,03,06,10",
+      "prizeTime": "2018-11-04 07:08:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040708",
+      "prizeNumber": "03,10,02,01,09,07,04,08,05,06",
+      "prizeTime": "2018-11-04 07:07:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040707",
+      "prizeNumber": "06,09,07,03,10,08,02,05,04,01",
+      "prizeTime": "2018-11-04 07:06:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040706",
+      "prizeNumber": "04,09,05,01,08,07,02,03,06,10",
+      "prizeTime": "2018-11-04 07:05:54",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040705",
+      "prizeNumber": "07,02,08,01,03,10,04,05,06,09",
+      "prizeTime": "2018-11-04 07:04:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040704",
+      "prizeNumber": "01,08,09,06,02,03,05,04,07,10",
+      "prizeTime": "2018-11-04 07:03:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040703",
+      "prizeNumber": "03,06,01,07,05,10,08,04,09,02",
+      "prizeTime": "2018-11-04 07:02:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040702",
+      "prizeNumber": "08,01,02,07,05,10,09,03,04,06",
+      "prizeTime": "2018-11-04 07:01:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040701",
+      "prizeNumber": "08,01,09,04,10,02,07,06,05,03",
+      "prizeTime": "2018-11-04 07:00:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040700",
+      "prizeNumber": "06,03,01,08,10,09,04,02,07,05",
+      "prizeTime": "2018-11-04 06:59:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040659",
+      "prizeNumber": "05,06,02,10,07,04,01,03,08,09",
+      "prizeTime": "2018-11-04 06:58:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040658",
+      "prizeNumber": "01,04,02,09,05,03,06,10,07,08",
+      "prizeTime": "2018-11-04 06:57:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040657",
+      "prizeNumber": "07,04,03,02,08,09,06,05,01,10",
+      "prizeTime": "2018-11-04 06:56:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040656",
+      "prizeNumber": "02,04,05,06,08,03,01,10,09,07",
+      "prizeTime": "2018-11-04 06:55:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040655",
+      "prizeNumber": "09,05,06,01,04,07,10,03,08,02",
+      "prizeTime": "2018-11-04 06:54:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040654",
+      "prizeNumber": "05,10,08,03,02,04,01,09,07,06",
+      "prizeTime": "2018-11-04 06:53:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040653",
+      "prizeNumber": "05,06,10,09,08,03,04,07,02,01",
+      "prizeTime": "2018-11-04 06:52:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040652",
+      "prizeNumber": "08,09,02,03,06,04,01,10,05,07",
+      "prizeTime": "2018-11-04 06:51:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040651",
+      "prizeNumber": "02,09,05,01,10,08,03,06,04,07",
+      "prizeTime": "2018-11-04 06:50:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040650",
+      "prizeNumber": "05,08,04,03,07,10,06,02,01,09",
+      "prizeTime": "2018-11-04 06:49:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040649",
+      "prizeNumber": "04,06,02,10,07,01,09,05,03,08",
+      "prizeTime": "2018-11-04 06:48:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040648",
+      "prizeNumber": "04,02,03,01,10,08,09,07,05,06",
+      "prizeTime": "2018-11-04 06:47:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040647",
+      "prizeNumber": "01,09,07,10,03,05,02,04,08,06",
+      "prizeTime": "2018-11-04 06:46:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040646",
+      "prizeNumber": "07,02,09,01,08,04,10,05,06,03",
+      "prizeTime": "2018-11-04 06:45:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040645",
+      "prizeNumber": "06,05,01,07,03,04,09,02,10,08",
+      "prizeTime": "2018-11-04 06:44:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040644",
+      "prizeNumber": "08,07,03,04,05,06,10,09,02,01",
+      "prizeTime": "2018-11-04 06:43:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040643",
+      "prizeNumber": "05,06,09,07,04,02,08,03,01,10",
+      "prizeTime": "2018-11-04 06:42:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040642",
+      "prizeNumber": "04,07,02,10,05,03,06,08,09,01",
+      "prizeTime": "2018-11-04 06:41:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040641",
+      "prizeNumber": "02,10,08,06,01,03,09,07,04,05",
+      "prizeTime": "2018-11-04 06:40:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040640",
+      "prizeNumber": "10,06,09,08,04,03,01,05,07,02",
+      "prizeTime": "2018-11-04 06:39:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040639",
+      "prizeNumber": "02,07,10,08,06,05,01,03,09,04",
+      "prizeTime": "2018-11-04 06:38:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040638",
+      "prizeNumber": "10,05,06,07,09,02,03,01,04,08",
+      "prizeTime": "2018-11-04 06:37:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040637",
+      "prizeNumber": "07,02,04,10,09,01,08,06,03,05",
+      "prizeTime": "2018-11-04 06:36:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040636",
+      "prizeNumber": "09,03,04,05,01,08,10,06,07,02",
+      "prizeTime": "2018-11-04 06:35:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040635",
+      "prizeNumber": "07,09,02,01,08,10,03,04,06,05",
+      "prizeTime": "2018-11-04 06:34:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040634",
+      "prizeNumber": "09,05,02,08,03,01,10,07,04,06",
+      "prizeTime": "2018-11-04 06:33:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040633",
+      "prizeNumber": "10,06,04,03,05,07,09,08,02,01",
+      "prizeTime": "2018-11-04 06:32:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040632",
+      "prizeNumber": "01,07,09,06,04,10,02,03,05,08",
+      "prizeTime": "2018-11-04 06:31:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040631",
+      "prizeNumber": "09,07,08,04,03,10,05,02,01,06",
+      "prizeTime": "2018-11-04 06:30:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040630",
+      "prizeNumber": "09,01,04,10,08,06,05,03,02,07",
+      "prizeTime": "2018-11-04 06:29:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040629",
+      "prizeNumber": "04,10,03,09,01,08,06,02,07,05",
+      "prizeTime": "2018-11-04 06:28:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040628",
+      "prizeNumber": "09,06,01,08,02,03,04,05,07,10",
+      "prizeTime": "2018-11-04 06:27:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040627",
+      "prizeNumber": "07,01,10,04,05,08,09,06,03,02",
+      "prizeTime": "2018-11-04 06:26:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040626",
+      "prizeNumber": "08,05,06,10,07,09,04,01,02,03",
+      "prizeTime": "2018-11-04 06:25:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040625",
+      "prizeNumber": "05,01,03,07,09,06,10,04,08,02",
+      "prizeTime": "2018-11-04 06:24:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040624",
+      "prizeNumber": "09,06,01,08,03,10,05,04,07,02",
+      "prizeTime": "2018-11-04 06:23:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040623",
+      "prizeNumber": "09,06,02,08,10,03,07,04,05,01",
+      "prizeTime": "2018-11-04 06:22:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040622",
+      "prizeNumber": "03,05,09,01,10,04,06,07,08,02",
+      "prizeTime": "2018-11-04 06:21:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040621",
+      "prizeNumber": "07,03,01,02,10,08,09,06,04,05",
+      "prizeTime": "2018-11-04 06:20:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040620",
+      "prizeNumber": "03,04,09,01,08,10,05,06,07,02",
+      "prizeTime": "2018-11-04 06:19:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040619",
+      "prizeNumber": "05,09,08,04,10,06,03,01,07,02",
+      "prizeTime": "2018-11-04 06:18:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040618",
+      "prizeNumber": "03,09,08,04,02,06,10,07,01,05",
+      "prizeTime": "2018-11-04 06:17:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040617",
+      "prizeNumber": "07,04,06,03,01,09,10,05,02,08",
+      "prizeTime": "2018-11-04 06:16:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040616",
+      "prizeNumber": "02,08,07,06,04,10,01,05,09,03",
+      "prizeTime": "2018-11-04 06:15:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040615",
+      "prizeNumber": "10,08,04,03,09,06,02,05,01,07",
+      "prizeTime": "2018-11-04 06:14:53",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040614",
+      "prizeNumber": "03,10,02,05,07,09,08,06,04,01",
+      "prizeTime": "2018-11-04 06:13:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040613",
+      "prizeNumber": "03,04,09,05,01,07,10,02,08,06",
+      "prizeTime": "2018-11-04 06:12:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040612",
+      "prizeNumber": "01,09,07,03,04,08,02,05,10,06",
+      "prizeTime": "2018-11-04 06:11:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040611",
+      "prizeNumber": "07,02,05,09,08,03,10,04,06,01",
+      "prizeTime": "2018-11-04 06:10:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040610",
+      "prizeNumber": "02,08,07,03,09,04,05,01,10,06",
+      "prizeTime": "2018-11-04 06:09:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040609",
+      "prizeNumber": "01,04,10,08,02,09,06,03,07,05",
+      "prizeTime": "2018-11-04 06:08:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040608",
+      "prizeNumber": "06,04,01,07,09,08,10,02,05,03",
+      "prizeTime": "2018-11-04 06:07:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040607",
+      "prizeNumber": "08,04,07,01,02,10,03,06,05,09",
+      "prizeTime": "2018-11-04 06:06:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040606",
+      "prizeNumber": "10,02,03,05,08,07,04,09,06,01",
+      "prizeTime": "2018-11-04 06:05:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040605",
+      "prizeNumber": "03,01,10,08,07,09,04,06,02,05",
+      "prizeTime": "2018-11-04 06:04:52",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040604",
+      "prizeNumber": "07,10,08,01,06,03,02,04,05,09",
+      "prizeTime": "2018-11-04 06:03:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040603",
+      "prizeNumber": "06,10,04,07,01,05,09,02,03,08",
+      "prizeTime": "2018-11-04 06:02:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040602",
+      "prizeNumber": "09,08,07,10,02,01,06,03,04,05",
+      "prizeTime": "2018-11-04 06:01:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040601",
+      "prizeNumber": "07,08,10,04,06,03,02,09,01,05",
+      "prizeTime": "2018-11-04 06:00:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040600",
+      "prizeNumber": "07,03,02,05,01,10,09,04,06,08",
+      "prizeTime": "2018-11-04 05:59:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040559",
+      "prizeNumber": "03,04,10,01,09,02,05,08,06,07",
+      "prizeTime": "2018-11-04 05:58:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040558",
+      "prizeNumber": "02,08,09,04,07,03,01,05,06,10",
+      "prizeTime": "2018-11-04 05:57:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040557",
+      "prizeNumber": "04,01,09,05,06,10,07,02,08,03",
+      "prizeTime": "2018-11-04 05:56:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040556",
+      "prizeNumber": "10,02,09,08,01,03,06,04,05,07",
+      "prizeTime": "2018-11-04 05:55:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040555",
+      "prizeNumber": "08,01,09,04,07,02,10,05,03,06",
+      "prizeTime": "2018-11-04 05:54:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040554",
+      "prizeNumber": "10,01,03,05,07,09,02,08,04,06",
+      "prizeTime": "2018-11-04 05:53:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040553",
+      "prizeNumber": "10,06,08,04,09,03,07,02,05,01",
+      "prizeTime": "2018-11-04 05:52:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040552",
+      "prizeNumber": "04,09,10,02,06,08,05,07,01,03",
+      "prizeTime": "2018-11-04 05:51:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040551",
+      "prizeNumber": "04,01,06,09,02,03,08,07,05,10",
+      "prizeTime": "2018-11-04 05:50:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040550",
+      "prizeNumber": "06,09,02,08,04,05,01,07,03,10",
+      "prizeTime": "2018-11-04 05:49:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040549",
+      "prizeNumber": "03,08,10,09,04,05,06,01,02,07",
+      "prizeTime": "2018-11-04 05:48:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040548",
+      "prizeNumber": "06,05,08,04,03,01,07,02,09,10",
+      "prizeTime": "2018-11-04 05:47:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040547",
+      "prizeNumber": "01,07,10,09,02,08,04,06,03,05",
+      "prizeTime": "2018-11-04 05:46:54",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040546",
+      "prizeNumber": "09,05,03,08,02,06,04,10,01,07",
+      "prizeTime": "2018-11-04 05:45:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040545",
+      "prizeNumber": "10,05,06,01,07,09,02,08,03,04",
+      "prizeTime": "2018-11-04 05:44:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040544",
+      "prizeNumber": "08,10,09,02,06,04,07,01,05,03",
+      "prizeTime": "2018-11-04 05:43:52",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040543",
+      "prizeNumber": "02,05,01,07,09,03,10,04,06,08",
+      "prizeTime": "2018-11-04 05:42:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040542",
+      "prizeNumber": "08,04,05,06,09,07,10,03,01,02",
+      "prizeTime": "2018-11-04 05:41:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040541",
+      "prizeNumber": "03,07,04,09,10,02,05,08,01,06",
+      "prizeTime": "2018-11-04 05:40:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040540",
+      "prizeNumber": "08,03,02,10,04,05,07,01,09,06",
+      "prizeTime": "2018-11-04 05:39:54",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040539",
+      "prizeNumber": "08,10,01,04,06,09,07,02,05,03",
+      "prizeTime": "2018-11-04 05:38:52",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040538",
+      "prizeNumber": "03,08,05,07,04,01,09,06,02,10",
+      "prizeTime": "2018-11-04 05:37:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040537",
+      "prizeNumber": "04,03,02,01,06,05,08,07,09,10",
+      "prizeTime": "2018-11-04 05:36:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040536",
+      "prizeNumber": "01,02,04,03,07,08,09,06,05,10",
+      "prizeTime": "2018-11-04 05:35:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040535",
+      "prizeNumber": "09,05,10,06,04,01,08,02,07,03",
+      "prizeTime": "2018-11-04 05:34:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040534",
+      "prizeNumber": "02,04,07,03,01,10,09,05,06,08",
+      "prizeTime": "2018-11-04 05:33:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040533",
+      "prizeNumber": "10,07,03,08,09,04,02,01,05,06",
+      "prizeTime": "2018-11-04 05:32:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040532",
+      "prizeNumber": "01,09,05,02,03,10,06,07,04,08",
+      "prizeTime": "2018-11-04 05:31:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040531",
+      "prizeNumber": "09,05,06,10,02,01,08,07,04,03",
+      "prizeTime": "2018-11-04 05:30:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040530",
+      "prizeNumber": "03,05,04,06,10,01,09,02,07,08",
+      "prizeTime": "2018-11-04 05:29:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040529",
+      "prizeNumber": "08,05,07,09,01,03,02,04,10,06",
+      "prizeTime": "2018-11-04 05:28:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040528",
+      "prizeNumber": "02,06,07,01,09,04,03,10,05,08",
+      "prizeTime": "2018-11-04 05:27:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040527",
+      "prizeNumber": "01,07,06,03,02,05,10,08,04,09",
+      "prizeTime": "2018-11-04 05:26:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040526",
+      "prizeNumber": "06,09,04,03,05,07,10,01,08,02",
+      "prizeTime": "2018-11-04 05:25:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040525",
+      "prizeNumber": "05,10,06,02,07,08,01,03,04,09",
+      "prizeTime": "2018-11-04 05:24:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040524",
+      "prizeNumber": "03,02,06,04,05,09,10,08,07,01",
+      "prizeTime": "2018-11-04 05:23:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040523",
+      "prizeNumber": "07,04,01,05,03,10,06,02,09,08",
+      "prizeTime": "2018-11-04 05:22:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040522",
+      "prizeNumber": "07,04,06,10,08,03,09,01,05,02",
+      "prizeTime": "2018-11-04 05:21:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040521",
+      "prizeNumber": "09,02,01,06,07,08,05,10,04,03",
+      "prizeTime": "2018-11-04 05:20:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040520",
+      "prizeNumber": "06,03,05,08,07,01,10,04,02,09",
+      "prizeTime": "2018-11-04 05:19:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040519",
+      "prizeNumber": "07,02,06,08,05,09,10,01,03,04",
+      "prizeTime": "2018-11-04 05:18:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040518",
+      "prizeNumber": "01,10,03,02,08,07,09,05,06,04",
+      "prizeTime": "2018-11-04 05:17:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040517",
+      "prizeNumber": "08,10,01,02,04,03,05,07,09,06",
+      "prizeTime": "2018-11-04 05:16:52",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040516",
+      "prizeNumber": "09,02,08,05,06,10,03,04,01,07",
+      "prizeTime": "2018-11-04 05:15:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040515",
+      "prizeNumber": "02,10,05,04,06,08,09,03,01,07",
+      "prizeTime": "2018-11-04 05:14:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040514",
+      "prizeNumber": "08,06,01,04,10,07,09,03,02,05",
+      "prizeTime": "2018-11-04 05:13:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040513",
+      "prizeNumber": "01,04,10,03,08,07,05,09,02,06",
+      "prizeTime": "2018-11-04 05:12:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040512",
+      "prizeNumber": "10,02,08,01,03,06,09,07,04,05",
+      "prizeTime": "2018-11-04 05:11:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040511",
+      "prizeNumber": "04,09,07,08,03,02,06,05,10,01",
+      "prizeTime": "2018-11-04 05:10:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040510",
+      "prizeNumber": "04,08,02,05,06,01,09,10,03,07",
+      "prizeTime": "2018-11-04 05:09:55",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040509",
+      "prizeNumber": "06,10,04,07,09,05,02,03,08,01",
+      "prizeTime": "2018-11-04 05:08:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040508",
+      "prizeNumber": "04,09,08,05,07,10,02,06,03,01",
+      "prizeTime": "2018-11-04 05:07:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040507",
+      "prizeNumber": "01,09,03,08,04,10,06,07,05,02",
+      "prizeTime": "2018-11-04 05:06:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040506",
+      "prizeNumber": "06,02,07,10,05,09,01,08,03,04",
+      "prizeTime": "2018-11-04 05:05:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040505",
+      "prizeNumber": "07,09,01,03,02,08,06,05,04,10",
+      "prizeTime": "2018-11-04 05:04:54",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040504",
+      "prizeNumber": "05,03,01,08,07,02,04,09,10,06",
+      "prizeTime": "2018-11-04 05:03:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040503",
+      "prizeNumber": "10,01,03,04,09,02,05,06,08,07",
+      "prizeTime": "2018-11-04 05:02:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040502",
+      "prizeNumber": "04,08,07,03,06,05,01,02,09,10",
+      "prizeTime": "2018-11-04 05:01:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040501",
+      "prizeNumber": "07,03,08,02,01,04,06,10,05,09",
+      "prizeTime": "2018-11-04 05:00:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040500",
+      "prizeNumber": "01,07,03,02,08,06,05,10,04,09",
+      "prizeTime": "2018-11-04 04:59:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040459",
+      "prizeNumber": "04,03,02,05,06,10,01,09,07,08",
+      "prizeTime": "2018-11-04 04:58:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040458",
+      "prizeNumber": "05,08,10,09,01,03,02,04,07,06",
+      "prizeTime": "2018-11-04 04:57:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040457",
+      "prizeNumber": "05,01,09,07,06,03,10,02,04,08",
+      "prizeTime": "2018-11-04 04:56:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040456",
+      "prizeNumber": "06,01,05,09,10,04,08,03,07,02",
+      "prizeTime": "2018-11-04 04:55:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040455",
+      "prizeNumber": "02,10,09,07,03,08,05,01,04,06",
+      "prizeTime": "2018-11-04 04:54:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040454",
+      "prizeNumber": "05,02,10,03,01,06,07,08,04,09",
+      "prizeTime": "2018-11-04 04:53:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040453",
+      "prizeNumber": "07,08,06,02,10,01,04,05,09,03",
+      "prizeTime": "2018-11-04 04:52:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040452",
+      "prizeNumber": "05,06,02,10,03,04,08,09,01,07",
+      "prizeTime": "2018-11-04 04:51:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040451",
+      "prizeNumber": "06,07,03,05,10,08,02,01,09,04",
+      "prizeTime": "2018-11-04 04:50:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040450",
+      "prizeNumber": "06,09,01,07,08,05,03,10,04,02",
+      "prizeTime": "2018-11-04 04:49:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040449",
+      "prizeNumber": "08,04,09,01,06,02,10,03,07,05",
+      "prizeTime": "2018-11-04 04:48:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040448",
+      "prizeNumber": "07,08,06,01,10,09,03,02,05,04",
+      "prizeTime": "2018-11-04 04:47:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040447",
+      "prizeNumber": "05,01,03,08,06,10,04,09,02,07",
+      "prizeTime": "2018-11-04 04:46:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040446",
+      "prizeNumber": "09,03,02,10,01,04,06,05,08,07",
+      "prizeTime": "2018-11-04 04:45:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040445",
+      "prizeNumber": "06,04,02,09,01,08,07,10,03,05",
+      "prizeTime": "2018-11-04 04:44:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040444",
+      "prizeNumber": "09,02,07,04,08,10,06,03,01,05",
+      "prizeTime": "2018-11-04 04:43:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040443",
+      "prizeNumber": "06,03,09,10,02,08,05,04,01,07",
+      "prizeTime": "2018-11-04 04:42:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040442",
+      "prizeNumber": "07,04,10,06,01,05,02,09,08,03",
+      "prizeTime": "2018-11-04 04:41:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040441",
+      "prizeNumber": "10,06,04,07,09,05,01,02,03,08",
+      "prizeTime": "2018-11-04 04:40:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040440",
+      "prizeNumber": "06,08,01,04,05,10,07,09,03,02",
+      "prizeTime": "2018-11-04 04:39:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040439",
+      "prizeNumber": "01,07,05,06,09,08,10,04,02,03",
+      "prizeTime": "2018-11-04 04:38:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040438",
+      "prizeNumber": "05,01,02,04,03,10,09,06,07,08",
+      "prizeTime": "2018-11-04 04:37:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040437",
+      "prizeNumber": "02,09,05,06,10,07,04,08,01,03",
+      "prizeTime": "2018-11-04 04:36:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040436",
+      "prizeNumber": "07,06,10,04,09,02,05,01,08,03",
+      "prizeTime": "2018-11-04 04:35:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040435",
+      "prizeNumber": "08,09,05,02,06,07,03,01,04,10",
+      "prizeTime": "2018-11-04 04:34:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040434",
+      "prizeNumber": "10,06,02,01,04,03,09,05,08,07",
+      "prizeTime": "2018-11-04 04:33:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040433",
+      "prizeNumber": "06,02,03,05,01,09,04,10,08,07",
+      "prizeTime": "2018-11-04 04:32:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040432",
+      "prizeNumber": "06,10,02,04,01,07,05,08,09,03",
+      "prizeTime": "2018-11-04 04:31:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040431",
+      "prizeNumber": "05,01,10,07,02,03,08,04,06,09",
+      "prizeTime": "2018-11-04 04:30:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040430",
+      "prizeNumber": "10,04,09,08,03,05,02,06,07,01",
+      "prizeTime": "2018-11-04 04:29:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040429",
+      "prizeNumber": "07,10,01,04,05,08,02,06,09,03",
+      "prizeTime": "2018-11-04 04:28:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040428",
+      "prizeNumber": "09,02,10,07,05,08,04,06,03,01",
+      "prizeTime": "2018-11-04 04:27:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040427",
+      "prizeNumber": "06,07,08,10,05,02,09,04,03,01",
+      "prizeTime": "2018-11-04 04:26:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040426",
+      "prizeNumber": "02,06,10,07,03,08,05,01,04,09",
+      "prizeTime": "2018-11-04 04:25:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040425",
+      "prizeNumber": "06,07,04,09,08,05,02,10,03,01",
+      "prizeTime": "2018-11-04 04:24:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040424",
+      "prizeNumber": "08,10,03,01,04,07,02,05,09,06",
+      "prizeTime": "2018-11-04 04:23:53",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040423",
+      "prizeNumber": "09,05,01,02,03,08,10,06,04,07",
+      "prizeTime": "2018-11-04 04:22:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040422",
+      "prizeNumber": "07,03,04,10,01,09,06,08,02,05",
+      "prizeTime": "2018-11-04 04:21:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040421",
+      "prizeNumber": "09,07,03,05,04,08,01,10,06,02",
+      "prizeTime": "2018-11-04 04:20:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040420",
+      "prizeNumber": "05,10,03,04,07,08,01,09,02,06",
+      "prizeTime": "2018-11-04 04:19:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040419",
+      "prizeNumber": "07,10,03,06,04,08,09,02,05,01",
+      "prizeTime": "2018-11-04 04:18:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040418",
+      "prizeNumber": "07,01,04,10,09,02,08,05,03,06",
+      "prizeTime": "2018-11-04 04:17:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040417",
+      "prizeNumber": "10,04,02,06,09,07,08,01,03,05",
+      "prizeTime": "2018-11-04 04:16:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040416",
+      "prizeNumber": "05,09,04,06,03,08,01,10,02,07",
+      "prizeTime": "2018-11-04 04:15:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040415",
+      "prizeNumber": "04,02,08,01,05,07,06,09,03,10",
+      "prizeTime": "2018-11-04 04:14:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040414",
+      "prizeNumber": "01,06,05,04,08,03,02,07,09,10",
+      "prizeTime": "2018-11-04 04:13:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040413",
+      "prizeNumber": "09,03,10,07,05,01,06,04,02,08",
+      "prizeTime": "2018-11-04 04:12:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040412",
+      "prizeNumber": "10,06,08,03,01,09,04,02,07,05",
+      "prizeTime": "2018-11-04 04:11:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040411",
+      "prizeNumber": "06,02,08,10,09,03,01,05,07,04",
+      "prizeTime": "2018-11-04 04:10:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040410",
+      "prizeNumber": "09,01,03,02,05,07,10,08,06,04",
+      "prizeTime": "2018-11-04 04:09:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040409",
+      "prizeNumber": "02,01,10,03,06,05,04,07,09,08",
+      "prizeTime": "2018-11-04 04:08:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040408",
+      "prizeNumber": "04,05,03,09,01,06,10,08,02,07",
+      "prizeTime": "2018-11-04 04:07:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040407",
+      "prizeNumber": "02,07,04,10,06,08,05,01,09,03",
+      "prizeTime": "2018-11-04 04:06:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040406",
+      "prizeNumber": "09,01,10,07,04,06,08,02,05,03",
+      "prizeTime": "2018-11-04 04:05:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040405",
+      "prizeNumber": "02,09,07,04,06,05,08,10,01,03",
+      "prizeTime": "2018-11-04 04:04:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040404",
+      "prizeNumber": "03,05,01,09,06,04,07,08,02,10",
+      "prizeTime": "2018-11-04 04:03:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040403",
+      "prizeNumber": "04,02,03,05,10,07,06,08,09,01",
+      "prizeTime": "2018-11-04 04:02:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040402",
+      "prizeNumber": "09,07,10,04,08,01,06,05,03,02",
+      "prizeTime": "2018-11-04 04:01:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040401",
+      "prizeNumber": "09,03,08,04,07,01,10,02,06,05",
+      "prizeTime": "2018-11-04 04:00:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040400",
+      "prizeNumber": "02,10,07,03,09,08,05,04,06,01",
+      "prizeTime": "2018-11-04 03:59:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040359",
+      "prizeNumber": "02,01,08,07,03,05,06,04,10,09",
+      "prizeTime": "2018-11-04 03:58:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040358",
+      "prizeNumber": "02,09,07,03,01,08,06,05,10,04",
+      "prizeTime": "2018-11-04 03:57:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040357",
+      "prizeNumber": "07,03,04,09,10,08,05,02,06,01",
+      "prizeTime": "2018-11-04 03:56:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040356",
+      "prizeNumber": "02,10,01,09,07,04,06,05,03,08",
+      "prizeTime": "2018-11-04 03:55:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040355",
+      "prizeNumber": "08,04,01,02,07,06,10,09,03,05",
+      "prizeTime": "2018-11-04 03:54:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040354",
+      "prizeNumber": "09,04,07,05,10,03,02,08,01,06",
+      "prizeTime": "2018-11-04 03:53:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040353",
+      "prizeNumber": "06,04,09,02,01,08,03,10,07,05",
+      "prizeTime": "2018-11-04 03:52:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040352",
+      "prizeNumber": "10,02,09,07,06,03,05,01,04,08",
+      "prizeTime": "2018-11-04 03:51:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040351",
+      "prizeNumber": "01,03,02,05,07,04,10,08,06,09",
+      "prizeTime": "2018-11-04 03:50:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040350",
+      "prizeNumber": "03,02,07,06,05,08,10,04,01,09",
+      "prizeTime": "2018-11-04 03:49:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040349",
+      "prizeNumber": "10,08,09,04,01,03,05,07,02,06",
+      "prizeTime": "2018-11-04 03:48:52",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040348",
+      "prizeNumber": "02,01,07,05,08,06,09,10,03,04",
+      "prizeTime": "2018-11-04 03:47:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040347",
+      "prizeNumber": "03,08,09,04,07,06,02,10,05,01",
+      "prizeTime": "2018-11-04 03:46:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040346",
+      "prizeNumber": "09,10,05,06,08,03,01,07,02,04",
+      "prizeTime": "2018-11-04 03:45:52",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040345",
+      "prizeNumber": "05,08,03,09,04,02,07,06,01,10",
+      "prizeTime": "2018-11-04 03:44:54",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040344",
+      "prizeNumber": "01,07,02,05,03,06,10,08,04,09",
+      "prizeTime": "2018-11-04 03:43:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040343",
+      "prizeNumber": "10,07,09,04,02,05,01,06,08,03",
+      "prizeTime": "2018-11-04 03:42:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040342",
+      "prizeNumber": "05,02,03,08,06,10,09,07,01,04",
+      "prizeTime": "2018-11-04 03:41:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040341",
+      "prizeNumber": "04,07,10,05,06,02,08,09,03,01",
+      "prizeTime": "2018-11-04 03:40:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040340",
+      "prizeNumber": "10,02,03,08,04,05,07,06,09,01",
+      "prizeTime": "2018-11-04 03:39:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040339",
+      "prizeNumber": "07,03,01,08,05,02,04,06,09,10",
+      "prizeTime": "2018-11-04 03:38:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040338",
+      "prizeNumber": "01,09,02,03,10,06,07,04,08,05",
+      "prizeTime": "2018-11-04 03:37:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040337",
+      "prizeNumber": "03,05,09,06,04,10,02,01,07,08",
+      "prizeTime": "2018-11-04 03:36:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040336",
+      "prizeNumber": "01,03,02,06,04,07,05,09,08,10",
+      "prizeTime": "2018-11-04 03:35:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040335",
+      "prizeNumber": "08,07,04,06,02,05,03,10,09,01",
+      "prizeTime": "2018-11-04 03:34:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040334",
+      "prizeNumber": "08,01,05,03,09,06,07,04,02,10",
+      "prizeTime": "2018-11-04 03:33:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040333",
+      "prizeNumber": "10,02,08,03,09,04,05,06,01,07",
+      "prizeTime": "2018-11-04 03:32:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040332",
+      "prizeNumber": "01,03,07,09,06,08,04,10,02,05",
+      "prizeTime": "2018-11-04 03:31:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040331",
+      "prizeNumber": "09,10,01,08,03,02,06,04,07,05",
+      "prizeTime": "2018-11-04 03:30:52",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040330",
+      "prizeNumber": "03,07,01,04,09,02,06,08,05,10",
+      "prizeTime": "2018-11-04 03:29:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040329",
+      "prizeNumber": "01,05,04,02,09,06,07,03,08,10",
+      "prizeTime": "2018-11-04 03:28:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040328",
+      "prizeNumber": "01,04,08,09,07,02,10,05,06,03",
+      "prizeTime": "2018-11-04 03:27:52",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040327",
+      "prizeNumber": "10,05,01,04,06,02,09,08,07,03",
+      "prizeTime": "2018-11-04 03:26:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040326",
+      "prizeNumber": "01,10,04,02,08,03,09,06,07,05",
+      "prizeTime": "2018-11-04 03:25:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040325",
+      "prizeNumber": "03,07,05,06,09,02,08,01,10,04",
+      "prizeTime": "2018-11-04 03:24:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040324",
+      "prizeNumber": "06,03,10,05,09,01,08,04,02,07",
+      "prizeTime": "2018-11-04 03:23:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040323",
+      "prizeNumber": "06,02,07,08,04,10,03,01,09,05",
+      "prizeTime": "2018-11-04 03:22:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040322",
+      "prizeNumber": "04,06,02,01,03,08,07,05,10,09",
+      "prizeTime": "2018-11-04 03:21:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040321",
+      "prizeNumber": "07,02,08,03,04,09,05,10,01,06",
+      "prizeTime": "2018-11-04 03:20:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040320",
+      "prizeNumber": "07,08,05,06,10,03,04,09,02,01",
+      "prizeTime": "2018-11-04 03:19:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040319",
+      "prizeNumber": "04,09,07,03,01,10,08,06,02,05",
+      "prizeTime": "2018-11-04 03:18:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040318",
+      "prizeNumber": "03,08,02,06,04,05,10,01,09,07",
+      "prizeTime": "2018-11-04 03:17:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040317",
+      "prizeNumber": "05,04,01,03,10,08,06,09,02,07",
+      "prizeTime": "2018-11-04 03:16:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040316",
+      "prizeNumber": "05,04,09,07,06,03,01,02,08,10",
+      "prizeTime": "2018-11-04 03:15:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040315",
+      "prizeNumber": "10,06,03,04,09,02,08,05,07,01",
+      "prizeTime": "2018-11-04 03:14:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040314",
+      "prizeNumber": "10,03,09,01,08,05,07,06,04,02",
+      "prizeTime": "2018-11-04 03:13:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040313",
+      "prizeNumber": "09,03,08,06,02,01,07,05,04,10",
+      "prizeTime": "2018-11-04 03:12:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040312",
+      "prizeNumber": "07,06,03,10,05,02,04,09,08,01",
+      "prizeTime": "2018-11-04 03:11:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040311",
+      "prizeNumber": "09,04,02,08,06,10,01,05,03,07",
+      "prizeTime": "2018-11-04 03:10:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040310",
+      "prizeNumber": "10,03,02,09,04,07,06,01,05,08",
+      "prizeTime": "2018-11-04 03:09:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040309",
+      "prizeNumber": "09,06,05,03,01,02,10,08,04,07",
+      "prizeTime": "2018-11-04 03:08:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040308",
+      "prizeNumber": "07,03,04,08,10,01,09,02,05,06",
+      "prizeTime": "2018-11-04 03:07:54",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040307",
+      "prizeNumber": "10,05,07,01,02,06,08,03,09,04",
+      "prizeTime": "2018-11-04 03:06:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040306",
+      "prizeNumber": "10,07,02,08,03,04,01,06,09,05",
+      "prizeTime": "2018-11-04 03:05:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040305",
+      "prizeNumber": "01,06,08,05,03,10,04,02,07,09",
+      "prizeTime": "2018-11-04 03:04:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040304",
+      "prizeNumber": "08,03,01,05,10,09,07,06,02,04",
+      "prizeTime": "2018-11-04 03:03:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040303",
+      "prizeNumber": "07,09,01,04,08,05,10,06,03,02",
+      "prizeTime": "2018-11-04 03:02:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040302",
+      "prizeNumber": "09,03,06,08,10,07,01,05,02,04",
+      "prizeTime": "2018-11-04 03:01:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040301",
+      "prizeNumber": "04,06,08,01,03,02,07,10,09,05",
+      "prizeTime": "2018-11-04 03:00:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040300",
+      "prizeNumber": "01,04,06,07,05,03,02,10,08,09",
+      "prizeTime": "2018-11-04 02:59:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040259",
+      "prizeNumber": "03,09,04,02,10,01,05,07,06,08",
+      "prizeTime": "2018-11-04 02:58:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040258",
+      "prizeNumber": "08,04,07,06,10,09,01,03,05,02",
+      "prizeTime": "2018-11-04 02:57:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040257",
+      "prizeNumber": "05,01,06,02,04,10,07,08,03,09",
+      "prizeTime": "2018-11-04 02:56:54",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040256",
+      "prizeNumber": "04,05,03,02,07,06,01,09,10,08",
+      "prizeTime": "2018-11-04 02:55:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040255",
+      "prizeNumber": "10,05,08,04,01,06,03,02,09,07",
+      "prizeTime": "2018-11-04 02:54:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040254",
+      "prizeNumber": "07,02,01,09,06,05,08,03,04,10",
+      "prizeTime": "2018-11-04 02:53:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040253",
+      "prizeNumber": "10,02,06,09,05,07,08,01,03,04",
+      "prizeTime": "2018-11-04 02:52:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040252",
+      "prizeNumber": "03,06,09,04,05,02,10,07,01,08",
+      "prizeTime": "2018-11-04 02:51:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040251",
+      "prizeNumber": "01,02,04,10,09,05,07,06,08,03",
+      "prizeTime": "2018-11-04 02:50:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040250",
+      "prizeNumber": "01,08,05,09,10,02,03,07,06,04",
+      "prizeTime": "2018-11-04 02:49:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040249",
+      "prizeNumber": "10,07,09,06,03,08,02,05,01,04",
+      "prizeTime": "2018-11-04 02:48:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040248",
+      "prizeNumber": "01,02,06,09,07,05,08,04,10,03",
+      "prizeTime": "2018-11-04 02:47:54",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040247",
+      "prizeNumber": "08,04,03,05,01,09,10,07,02,06",
+      "prizeTime": "2018-11-04 02:46:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040246",
+      "prizeNumber": "10,02,03,04,07,05,06,01,08,09",
+      "prizeTime": "2018-11-04 02:45:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040245",
+      "prizeNumber": "07,05,08,09,01,06,10,04,03,02",
+      "prizeTime": "2018-11-04 02:44:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040244",
+      "prizeNumber": "04,02,10,08,01,07,09,06,05,03",
+      "prizeTime": "2018-11-04 02:43:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040243",
+      "prizeNumber": "10,03,09,06,01,02,07,04,05,08",
+      "prizeTime": "2018-11-04 02:42:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040242",
+      "prizeNumber": "05,07,02,06,08,01,10,04,09,03",
+      "prizeTime": "2018-11-04 02:41:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040241",
+      "prizeNumber": "08,01,02,05,04,09,10,06,07,03",
+      "prizeTime": "2018-11-04 02:40:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040240",
+      "prizeNumber": "08,05,07,06,01,09,04,10,02,03",
+      "prizeTime": "2018-11-04 02:39:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040239",
+      "prizeNumber": "05,03,04,02,01,10,06,08,09,07",
+      "prizeTime": "2018-11-04 02:38:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040238",
+      "prizeNumber": "04,07,10,06,02,09,01,08,05,03",
+      "prizeTime": "2018-11-04 02:37:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040237",
+      "prizeNumber": "06,02,10,09,08,07,04,03,05,01",
+      "prizeTime": "2018-11-04 02:36:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040236",
+      "prizeNumber": "01,05,03,08,07,10,06,04,09,02",
+      "prizeTime": "2018-11-04 02:35:52",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040235",
+      "prizeNumber": "05,02,08,01,06,07,04,09,10,03",
+      "prizeTime": "2018-11-04 02:34:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040234",
+      "prizeNumber": "10,04,07,05,06,02,01,09,03,08",
+      "prizeTime": "2018-11-04 02:33:53",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040233",
+      "prizeNumber": "04,02,09,06,01,05,08,03,07,10",
+      "prizeTime": "2018-11-04 02:32:54",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040232",
+      "prizeNumber": "06,10,05,09,03,07,01,04,08,02",
+      "prizeTime": "2018-11-04 02:31:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040231",
+      "prizeNumber": "04,06,05,03,10,07,02,08,09,01",
+      "prizeTime": "2018-11-04 02:30:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040230",
+      "prizeNumber": "03,01,02,10,05,04,08,07,09,06",
+      "prizeTime": "2018-11-04 02:29:52",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040229",
+      "prizeNumber": "03,01,05,07,06,02,08,04,10,09",
+      "prizeTime": "2018-11-04 02:28:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040228",
+      "prizeNumber": "05,10,04,08,01,07,06,09,03,02",
+      "prizeTime": "2018-11-04 02:27:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040227",
+      "prizeNumber": "09,01,05,07,02,10,08,06,04,03",
+      "prizeTime": "2018-11-04 02:26:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040226",
+      "prizeNumber": "03,04,02,10,09,05,07,06,01,08",
+      "prizeTime": "2018-11-04 02:25:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040225",
+      "prizeNumber": "07,03,01,05,06,09,04,10,08,02",
+      "prizeTime": "2018-11-04 02:24:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040224",
+      "prizeNumber": "06,09,01,02,04,03,10,07,05,08",
+      "prizeTime": "2018-11-04 02:23:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040223",
+      "prizeNumber": "10,05,04,07,01,08,09,06,03,02",
+      "prizeTime": "2018-11-04 02:22:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040222",
+      "prizeNumber": "10,07,04,06,09,05,08,02,01,03",
+      "prizeTime": "2018-11-04 02:21:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040221",
+      "prizeNumber": "05,03,08,09,06,01,04,10,07,02",
+      "prizeTime": "2018-11-04 02:20:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040220",
+      "prizeNumber": "10,08,07,04,05,06,03,09,01,02",
+      "prizeTime": "2018-11-04 02:19:53",
+      "gySum": 18,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040219",
+      "prizeNumber": "09,06,01,03,08,10,05,04,02,07",
+      "prizeTime": "2018-11-04 02:18:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040218",
+      "prizeNumber": "08,06,03,02,01,09,07,04,05,10",
+      "prizeTime": "2018-11-04 02:17:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040217",
+      "prizeNumber": "01,10,07,09,04,02,06,05,03,08",
+      "prizeTime": "2018-11-04 02:16:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040216",
+      "prizeNumber": "07,06,10,02,08,04,03,01,09,05",
+      "prizeTime": "2018-11-04 02:15:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040215",
+      "prizeNumber": "08,04,09,03,06,01,10,07,02,05",
+      "prizeTime": "2018-11-04 02:14:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040214",
+      "prizeNumber": "01,03,06,07,09,05,08,04,10,02",
+      "prizeTime": "2018-11-04 02:13:53",
+      "gySum": 4,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040213",
+      "prizeNumber": "02,09,04,08,10,07,03,01,05,06",
+      "prizeTime": "2018-11-04 02:12:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040212",
+      "prizeNumber": "08,04,05,10,03,02,09,07,01,06",
+      "prizeTime": "2018-11-04 02:11:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040211",
+      "prizeNumber": "03,06,04,07,05,02,10,09,08,01",
+      "prizeTime": "2018-11-04 02:10:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040210",
+      "prizeNumber": "10,01,03,02,04,06,09,05,07,08",
+      "prizeTime": "2018-11-04 02:09:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040209",
+      "prizeNumber": "08,03,07,06,01,10,04,02,05,09",
+      "prizeTime": "2018-11-04 02:08:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040208",
+      "prizeNumber": "02,09,08,07,06,01,03,05,04,10",
+      "prizeTime": "2018-11-04 02:07:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040207",
+      "prizeNumber": "01,10,05,03,08,04,07,02,06,09",
+      "prizeTime": "2018-11-04 02:06:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040206",
+      "prizeNumber": "06,08,10,07,05,02,03,01,04,09",
+      "prizeTime": "2018-11-04 02:05:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040205",
+      "prizeNumber": "10,09,01,07,08,04,02,05,06,03",
+      "prizeTime": "2018-11-04 02:04:54",
+      "gySum": 19,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040204",
+      "prizeNumber": "08,01,10,06,04,05,02,07,09,03",
+      "prizeTime": "2018-11-04 02:03:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040203",
+      "prizeNumber": "08,03,07,09,04,01,10,05,06,02",
+      "prizeTime": "2018-11-04 02:02:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040202",
+      "prizeNumber": "08,09,04,02,07,01,03,10,05,06",
+      "prizeTime": "2018-11-04 02:01:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040201",
+      "prizeNumber": "09,03,06,02,07,08,04,01,05,10",
+      "prizeTime": "2018-11-04 02:00:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040200",
+      "prizeNumber": "02,01,06,08,09,04,03,10,05,07",
+      "prizeTime": "2018-11-04 01:59:53",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040159",
+      "prizeNumber": "10,06,08,05,07,03,09,02,01,04",
+      "prizeTime": "2018-11-04 01:58:53",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040158",
+      "prizeNumber": "03,10,09,08,07,05,02,01,06,04",
+      "prizeTime": "2018-11-04 01:57:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040157",
+      "prizeNumber": "03,04,02,06,05,01,10,07,09,08",
+      "prizeTime": "2018-11-04 01:56:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040156",
+      "prizeNumber": "05,04,02,06,01,09,08,03,07,10",
+      "prizeTime": "2018-11-04 01:55:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040155",
+      "prizeNumber": "07,06,01,04,05,02,10,09,08,03",
+      "prizeTime": "2018-11-04 01:54:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040154",
+      "prizeNumber": "05,10,03,09,08,07,04,01,06,02",
+      "prizeTime": "2018-11-04 01:53:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040153",
+      "prizeNumber": "02,10,09,04,03,08,07,06,01,05",
+      "prizeTime": "2018-11-04 01:52:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040152",
+      "prizeNumber": "02,06,10,05,09,01,07,08,04,03",
+      "prizeTime": "2018-11-04 01:51:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040151",
+      "prizeNumber": "10,06,03,05,07,01,02,04,09,08",
+      "prizeTime": "2018-11-04 01:50:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040150",
+      "prizeNumber": "07,10,03,02,06,09,01,04,08,05",
+      "prizeTime": "2018-11-04 01:49:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040149",
+      "prizeNumber": "02,06,08,05,03,01,09,07,10,04",
+      "prizeTime": "2018-11-04 01:48:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040148",
+      "prizeNumber": "08,07,02,10,04,01,05,03,06,09",
+      "prizeTime": "2018-11-04 01:47:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040147",
+      "prizeNumber": "08,09,03,06,07,02,10,04,05,01",
+      "prizeTime": "2018-11-04 01:46:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040146",
+      "prizeNumber": "01,08,10,09,02,03,07,05,06,04",
+      "prizeTime": "2018-11-04 01:45:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040145",
+      "prizeNumber": "02,10,06,04,03,08,07,05,01,09",
+      "prizeTime": "2018-11-04 01:44:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040144",
+      "prizeNumber": "01,10,03,04,07,08,02,05,09,06",
+      "prizeTime": "2018-11-04 01:43:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040143",
+      "prizeNumber": "01,09,03,10,07,08,05,06,02,04",
+      "prizeTime": "2018-11-04 01:42:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040142",
+      "prizeNumber": "06,02,10,01,04,09,08,05,07,03",
+      "prizeTime": "2018-11-04 01:41:54",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040141",
+      "prizeNumber": "02,10,03,01,05,08,07,06,04,09",
+      "prizeTime": "2018-11-04 01:40:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040140",
+      "prizeNumber": "08,02,06,10,09,03,07,01,05,04",
+      "prizeTime": "2018-11-04 01:39:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040139",
+      "prizeNumber": "04,03,05,02,01,09,08,06,07,10",
+      "prizeTime": "2018-11-04 01:38:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040138",
+      "prizeNumber": "02,01,04,10,08,09,03,07,05,06",
+      "prizeTime": "2018-11-04 01:37:52",
+      "gySum": 3,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040137",
+      "prizeNumber": "04,09,08,07,01,06,02,05,03,10",
+      "prizeTime": "2018-11-04 01:36:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040136",
+      "prizeNumber": "06,09,08,02,03,07,10,05,04,01",
+      "prizeTime": "2018-11-04 01:35:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040135",
+      "prizeNumber": "02,04,01,06,03,08,05,09,10,07",
+      "prizeTime": "2018-11-04 01:34:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040134",
+      "prizeNumber": "07,08,09,04,03,05,01,10,02,06",
+      "prizeTime": "2018-11-04 01:33:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040133",
+      "prizeNumber": "06,02,08,04,07,01,09,05,03,10",
+      "prizeTime": "2018-11-04 01:32:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040132",
+      "prizeNumber": "09,07,04,01,06,10,02,03,05,08",
+      "prizeTime": "2018-11-04 01:31:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040131",
+      "prizeNumber": "06,04,05,10,03,01,08,09,07,02",
+      "prizeTime": "2018-11-04 01:30:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040130",
+      "prizeNumber": "01,06,10,03,09,08,05,07,02,04",
+      "prizeTime": "2018-11-04 01:29:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040129",
+      "prizeNumber": "10,02,05,08,01,07,04,06,09,03",
+      "prizeTime": "2018-11-04 01:28:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040128",
+      "prizeNumber": "07,06,05,09,10,04,02,08,03,01",
+      "prizeTime": "2018-11-04 01:27:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040127",
+      "prizeNumber": "05,02,06,08,09,10,01,07,04,03",
+      "prizeTime": "2018-11-04 01:26:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040126",
+      "prizeNumber": "10,04,06,08,09,05,03,01,07,02",
+      "prizeTime": "2018-11-04 01:25:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040125",
+      "prizeNumber": "01,10,02,03,06,04,05,09,07,08",
+      "prizeTime": "2018-11-04 01:24:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040124",
+      "prizeNumber": "07,05,03,02,10,08,01,06,04,09",
+      "prizeTime": "2018-11-04 01:23:54",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040123",
+      "prizeNumber": "08,06,01,07,03,09,05,02,10,04",
+      "prizeTime": "2018-11-04 01:22:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040122",
+      "prizeNumber": "06,07,03,01,08,09,02,04,05,10",
+      "prizeTime": "2018-11-04 01:21:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040121",
+      "prizeNumber": "07,09,01,03,06,05,02,08,04,10",
+      "prizeTime": "2018-11-04 01:20:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040120",
+      "prizeNumber": "03,06,04,10,07,01,09,02,08,05",
+      "prizeTime": "2018-11-04 01:19:54",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040119",
+      "prizeNumber": "03,09,10,08,04,02,06,07,05,01",
+      "prizeTime": "2018-11-04 01:18:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040118",
+      "prizeNumber": "09,01,02,06,07,08,03,10,05,04",
+      "prizeTime": "2018-11-04 01:17:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040117",
+      "prizeNumber": "08,07,03,09,05,06,10,02,01,04",
+      "prizeTime": "2018-11-04 01:16:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040116",
+      "prizeNumber": "08,05,09,03,04,06,01,02,10,07",
+      "prizeTime": "2018-11-04 01:15:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040115",
+      "prizeNumber": "06,10,02,09,03,04,08,05,01,07",
+      "prizeTime": "2018-11-04 01:14:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040114",
+      "prizeNumber": "08,01,04,10,03,09,06,07,05,02",
+      "prizeTime": "2018-11-04 01:13:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040113",
+      "prizeNumber": "09,06,04,08,05,03,10,07,01,02",
+      "prizeTime": "2018-11-04 01:12:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040112",
+      "prizeNumber": "08,09,01,10,05,03,02,06,04,07",
+      "prizeTime": "2018-11-04 01:11:54",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040111",
+      "prizeNumber": "06,05,02,01,07,04,03,08,10,09",
+      "prizeTime": "2018-11-04 01:10:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040110",
+      "prizeNumber": "04,09,06,05,07,01,08,02,10,03",
+      "prizeTime": "2018-11-04 01:09:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040109",
+      "prizeNumber": "06,04,03,09,07,05,01,10,02,08",
+      "prizeTime": "2018-11-04 01:08:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040108",
+      "prizeNumber": "07,04,03,02,06,10,01,05,08,09",
+      "prizeTime": "2018-11-04 01:07:54",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040107",
+      "prizeNumber": "02,09,06,07,10,03,08,05,04,01",
+      "prizeTime": "2018-11-04 01:06:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040106",
+      "prizeNumber": "03,02,09,04,07,06,08,01,05,10",
+      "prizeTime": "2018-11-04 01:05:54",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040105",
+      "prizeNumber": "07,02,10,01,06,08,04,09,03,05",
+      "prizeTime": "2018-11-04 01:04:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040104",
+      "prizeNumber": "02,06,08,04,01,10,05,09,03,07",
+      "prizeTime": "2018-11-04 01:03:53",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040103",
+      "prizeNumber": "08,07,06,09,01,04,03,05,02,10",
+      "prizeTime": "2018-11-04 01:02:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040102",
+      "prizeNumber": "02,10,07,04,06,05,08,09,01,03",
+      "prizeTime": "2018-11-04 01:01:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040101",
+      "prizeNumber": "10,03,07,08,05,09,06,01,04,02",
+      "prizeTime": "2018-11-04 01:00:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040100",
+      "prizeNumber": "07,05,02,03,09,06,10,04,01,08",
+      "prizeTime": "2018-11-04 00:59:53",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040059",
+      "prizeNumber": "09,03,02,08,06,04,10,07,05,01",
+      "prizeTime": "2018-11-04 00:58:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040058",
+      "prizeNumber": "07,10,04,05,09,02,06,03,01,08",
+      "prizeTime": "2018-11-04 00:57:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040057",
+      "prizeNumber": "01,08,05,09,03,04,07,06,02,10",
+      "prizeTime": "2018-11-04 00:56:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040056",
+      "prizeNumber": "04,07,02,09,03,08,01,06,10,05",
+      "prizeTime": "2018-11-04 00:55:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040055",
+      "prizeNumber": "07,08,02,01,09,03,04,06,10,05",
+      "prizeTime": "2018-11-04 00:54:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040054",
+      "prizeNumber": "01,04,06,08,05,07,03,02,10,09",
+      "prizeTime": "2018-11-04 00:53:54",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040053",
+      "prizeNumber": "05,03,06,07,08,02,01,09,04,10",
+      "prizeTime": "2018-11-04 00:52:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040052",
+      "prizeNumber": "04,05,06,03,01,09,07,10,02,08",
+      "prizeTime": "2018-11-04 00:51:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040051",
+      "prizeNumber": "08,02,04,01,06,07,10,05,09,03",
+      "prizeTime": "2018-11-04 00:50:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040050",
+      "prizeNumber": "10,07,04,02,09,06,01,08,05,03",
+      "prizeTime": "2018-11-04 00:49:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040049",
+      "prizeNumber": "01,09,06,10,07,05,08,03,04,02",
+      "prizeTime": "2018-11-04 00:48:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040048",
+      "prizeNumber": "06,09,04,05,08,02,01,10,03,07",
+      "prizeTime": "2018-11-04 00:47:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040047",
+      "prizeNumber": "09,08,01,03,10,04,05,06,02,07",
+      "prizeTime": "2018-11-04 00:46:53",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040046",
+      "prizeNumber": "10,06,02,04,09,05,03,01,07,08",
+      "prizeTime": "2018-11-04 00:45:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040045",
+      "prizeNumber": "08,05,03,01,04,10,09,07,06,02",
+      "prizeTime": "2018-11-04 00:44:54",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040044",
+      "prizeNumber": "04,05,07,03,08,10,09,06,02,01",
+      "prizeTime": "2018-11-04 00:43:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040043",
+      "prizeNumber": "03,07,02,08,05,09,01,06,04,10",
+      "prizeTime": "2018-11-04 00:42:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040042",
+      "prizeNumber": "06,01,10,08,04,07,09,05,02,03",
+      "prizeTime": "2018-11-04 00:41:54",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040041",
+      "prizeNumber": "04,07,01,06,10,05,02,09,08,03",
+      "prizeTime": "2018-11-04 00:40:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040040",
+      "prizeNumber": "05,08,07,09,03,01,02,06,04,10",
+      "prizeTime": "2018-11-04 00:39:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040039",
+      "prizeNumber": "02,10,06,08,07,01,05,09,03,04",
+      "prizeTime": "2018-11-04 00:38:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040038",
+      "prizeNumber": "10,01,09,02,04,06,07,03,05,08",
+      "prizeTime": "2018-11-04 00:37:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040037",
+      "prizeNumber": "08,01,07,09,06,02,04,03,10,05",
+      "prizeTime": "2018-11-04 00:36:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040036",
+      "prizeNumber": "04,08,01,07,05,03,02,06,09,10",
+      "prizeTime": "2018-11-04 00:35:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040035",
+      "prizeNumber": "07,08,09,04,10,06,03,05,01,02",
+      "prizeTime": "2018-11-04 00:34:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040034",
+      "prizeNumber": "02,03,05,04,06,10,09,01,07,08",
+      "prizeTime": "2018-11-04 00:33:53",
+      "gySum": 5,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040033",
+      "prizeNumber": "03,04,08,10,01,06,02,09,05,07",
+      "prizeTime": "2018-11-04 00:32:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040032",
+      "prizeNumber": "01,10,09,08,05,06,04,03,07,02",
+      "prizeTime": "2018-11-04 00:31:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040031",
+      "prizeNumber": "05,10,02,01,08,06,03,09,07,04",
+      "prizeTime": "2018-11-04 00:30:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040030",
+      "prizeNumber": "01,08,05,03,04,10,09,02,07,06",
+      "prizeTime": "2018-11-04 00:29:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040029",
+      "prizeNumber": "04,02,08,03,07,01,06,10,09,05",
+      "prizeTime": "2018-11-04 00:28:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040028",
+      "prizeNumber": "05,02,09,03,04,06,01,08,07,10",
+      "prizeTime": "2018-11-04 00:27:52",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040027",
+      "prizeNumber": "08,06,01,03,09,07,04,10,02,05",
+      "prizeTime": "2018-11-04 00:26:52",
+      "gySum": 14,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040026",
+      "prizeNumber": "05,02,07,08,09,06,10,03,04,01",
+      "prizeTime": "2018-11-04 00:25:53",
+      "gySum": 7,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040025",
+      "prizeNumber": "03,06,01,08,09,02,05,10,04,07",
+      "prizeTime": "2018-11-04 00:24:52",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040024",
+      "prizeNumber": "10,01,04,03,05,08,07,02,06,09",
+      "prizeTime": "2018-11-04 00:23:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040023",
+      "prizeNumber": "03,05,09,04,10,01,06,07,08,02",
+      "prizeTime": "2018-11-04 00:22:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040022",
+      "prizeNumber": "10,06,08,09,04,01,02,03,05,07",
+      "prizeTime": "2018-11-04 00:21:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040021",
+      "prizeNumber": "06,02,01,07,10,05,09,04,03,08",
+      "prizeTime": "2018-11-04 00:20:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040020",
+      "prizeNumber": "06,05,10,09,07,02,08,04,01,03",
+      "prizeTime": "2018-11-04 00:19:53",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040019",
+      "prizeNumber": "01,07,04,10,02,08,03,05,09,06",
+      "prizeTime": "2018-11-04 00:18:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040018",
+      "prizeNumber": "05,10,09,01,04,08,07,03,02,06",
+      "prizeTime": "2018-11-04 00:17:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040017",
+      "prizeNumber": "08,07,01,10,02,06,09,05,04,03",
+      "prizeTime": "2018-11-04 00:16:52",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040016",
+      "prizeNumber": "07,10,02,05,06,03,04,09,08,01",
+      "prizeTime": "2018-11-04 00:15:52",
+      "gySum": 17,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040015",
+      "prizeNumber": "06,04,01,02,03,09,08,07,05,10",
+      "prizeTime": "2018-11-04 00:14:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040014",
+      "prizeNumber": "06,10,02,03,09,05,04,07,08,01",
+      "prizeTime": "2018-11-04 00:13:52",
+      "gySum": 16,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040013",
+      "prizeNumber": "05,07,03,09,06,02,08,10,01,04",
+      "prizeTime": "2018-11-04 00:12:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040012",
+      "prizeNumber": "03,10,07,08,05,06,04,02,09,01",
+      "prizeTime": "2018-11-04 00:11:53",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040011",
+      "prizeNumber": "07,02,10,08,04,05,01,03,09,06",
+      "prizeTime": "2018-11-04 00:10:53",
+      "gySum": 9,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040010",
+      "prizeNumber": "07,08,02,10,01,05,04,03,09,06",
+      "prizeTime": "2018-11-04 00:09:53",
+      "gySum": 15,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040009",
+      "prizeNumber": "05,01,08,04,07,03,02,09,10,06",
+      "prizeTime": "2018-11-04 00:08:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040008",
+      "prizeNumber": "05,08,07,06,02,03,10,01,04,09",
+      "prizeTime": "2018-11-04 00:07:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040007",
+      "prizeNumber": "01,09,06,07,03,10,08,04,02,05",
+      "prizeTime": "2018-11-04 00:06:52",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040006",
+      "prizeNumber": "07,01,05,03,09,02,10,08,04,06",
+      "prizeTime": "2018-11-04 00:05:52",
+      "gySum": 8,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040005",
+      "prizeNumber": "07,03,09,02,01,05,04,10,06,08",
+      "prizeTime": "2018-11-04 00:04:53",
+      "gySum": 10,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040004",
+      "prizeNumber": "07,04,10,08,09,05,03,02,01,06",
+      "prizeTime": "2018-11-04 00:03:52",
+      "gySum": 11,
+      "size": "small",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040003",
+      "prizeNumber": "01,05,08,04,10,02,07,09,06,03",
+      "prizeTime": "2018-11-04 00:02:53",
+      "gySum": 6,
+      "size": "small",
+      "single": "even"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040002",
+      "prizeNumber": "09,04,01,10,03,02,07,06,05,08",
+      "prizeTime": "2018-11-04 00:01:52",
+      "gySum": 13,
+      "size": "big",
+      "single": "odd"
+    },
+    {
+      "lotteryId": "25",
+      "issueNo": "201811040001",
+      "prizeNumber": "10,02,09,07,04,05,03,08,01,06",
+      "prizeTime": "2018-11-04 00:00:52",
+      "gySum": 12,
+      "size": "big",
+      "single": "even"
+    }
+  ],
+  "errorcode": 200,
+  "message": "操作成功"
+}

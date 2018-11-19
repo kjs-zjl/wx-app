@@ -5,6 +5,12 @@ import App from './App'
 import router from './router'
 import fastclcik from 'fastclick'
 import store from './store'
+import MuseUI from 'muse-ui'
+import 'muse-ui/dist/muse-ui.css'
+
+require('./mock/mock')
+
+Vue.use(MuseUI)
 
 fastclcik.attach(document.body)
 
