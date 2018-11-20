@@ -1,13 +1,13 @@
 <template lang="pug">
   .card
-    .card_title(v-if="title") {{title}}
+    .card_title(v-if="medias.length") {{title}}
     .card_content
-      .item(v-for="media in medias" :key="media.id" :class="{'full':media.id === 3}")
+      .item(v-for="(media,index) in medias" :key="media.id" :class="{'full':index === 0}" @click="jumpDetail(media.id)")
         mu-card
           mu-card-media
             .default_bg
-              .img(:style="`background-image:url(${media.img})`")
-          mu-card-title(class="media_title" :title="media.t")
+              .img(:style="`background-image:url(${media.img || media.image})`")
+          mu-card-title(class="media_title" :title="media.t || media.title")
 </template>
 
 <script>
@@ -22,12 +22,11 @@ export default {
       require: true
     }
   },
-  data () {
-    return {
-
+  methods: {
+    jumpDetail (id) {
+      console.log(id)
+      this.$router.push({path: `movieDetail/${id}`, append: true})
     }
-  },
-  created () {
   }
 }
 </script>
@@ -69,6 +68,9 @@ export default {
     }
     .item.full {
       width: 100%;
+      .img{
+        height: 150px;
+      }
     }
   }
 }

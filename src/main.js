@@ -6,11 +6,16 @@ import router from './router'
 import fastclcik from 'fastclick'
 import store from './store'
 import MuseUI from 'muse-ui'
+import Loading from 'muse-ui-loading'
 import 'muse-ui/dist/muse-ui.css'
+import 'muse-ui-loading/dist/muse-ui-loading.css'
 
 require('./mock/mock')
 
 Vue.use(MuseUI)
+Vue.use(Loading, {
+  overlayColor: '#f1f0f6'
+})
 
 fastclcik.attach(document.body)
 
@@ -19,6 +24,8 @@ new Vue({
   el: '#app',
   router,
   store,
-  components: { App },
+  components: {
+    App
+  },
   template: '<App/>'
 })

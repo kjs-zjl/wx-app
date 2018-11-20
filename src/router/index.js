@@ -10,6 +10,13 @@ const download = {
     require(['../views/seed/download'], resolve)
   }
 }
+// 公用页面组件
+const movieDetail = {
+  path: 'movieDetail/:movie_id',
+  component: resolve => {
+    require(['../components/movie-detail'], resolve)
+  }
+}
 
 export default new Router({
   routes: [{
@@ -27,7 +34,7 @@ export default new Router({
     component: resolve => {
       require(['../views/recommend'], resolve)
     },
-    children: [download]
+    children: [download, movieDetail]
   },
   {
     path: '/channel',
