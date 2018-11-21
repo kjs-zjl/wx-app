@@ -14,7 +14,7 @@ const download = {
 const movieDetail = {
   path: 'movieDetail/:movie_id',
   component: resolve => {
-    require(['../components/movie-detail'], resolve)
+    require(['../views/common/movie-detail'], resolve)
   }
 }
 

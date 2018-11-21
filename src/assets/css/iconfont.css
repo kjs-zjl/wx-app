@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconfont';  /* project id 639044 */
-  src: url('//at.alicdn.com/t/font_639044_dl1nek0ebev.eot');
-  src: url('//at.alicdn.com/t/font_639044_dl1nek0ebev.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_639044_dl1nek0ebev.woff') format('woff'),
-  url('//at.alicdn.com/t/font_639044_dl1nek0ebev.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_639044_dl1nek0ebev.svg#iconfont') format('svg');
+  src: url('//at.alicdn.com/t/font_639044_t56c8veldjl.eot');
+  src: url('//at.alicdn.com/t/font_639044_t56c8veldjl.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_639044_t56c8veldjl.woff') format('woff'),
+  url('//at.alicdn.com/t/font_639044_t56c8veldjl.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_639044_t56c8veldjl.svg#iconfont') format('svg');
 }
 
 .iconfont {
@@ -22,6 +22,7 @@
 .icon-seed::before { content: "\e89d"; }
 .icon-live::before { content: "\e64f"; }
 .icon-person::before { content: "\e600"; }
+.icon-return-arrow::before { content: "\e602"; }
 
 
 
