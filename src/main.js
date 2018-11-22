@@ -7,6 +7,7 @@ import fastclcik from 'fastclick'
 import store from './store'
 import MuseUI from 'muse-ui'
 import Loading from 'muse-ui-loading'
+import { Toast } from 'mint-ui'
 import 'muse-ui/dist/muse-ui.css'
 import 'muse-ui-loading/dist/muse-ui-loading.css'
 
@@ -16,6 +17,8 @@ Vue.use(MuseUI)
 Vue.use(Loading, {
   overlayColor: '#f1f0f6'
 })
+
+window.Toast = Toast
 
 fastclcik.attach(document.body)
 

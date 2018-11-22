@@ -130,6 +130,21 @@ body,
     z-index: 2;
 }
 
+.border-1px::after {
+    content: "";
+    // position: absolute;
+    display: block;
+    width: 200%;
+    left: 0;
+    bottom: 0;
+    transform: scale(.5);
+    transform-origin: 0 0;
+    -webkit-transform: scale(.5);
+    -webkit-transform-origin: 0 0;
+    background-color: #b7b7b7;
+    height: 1px;
+    z-index: 2;
+}
 
 /*消息气泡*/
 
@@ -469,3 +484,6 @@ body,
     }
   }
   
+  .mint-navbar .mint-tab-item.is-selected{
+      margin-bottom: 0;
+  }
