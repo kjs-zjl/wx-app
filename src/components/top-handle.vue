@@ -8,7 +8,10 @@
       slot(name='right')
         ._align-right
           //- span.iconfont(:class='nextIcon')
-          span 下载
+          span(v-if="download", @click="go_download") 下载
+          span(v-if="clear", @click="clearList") 清空
+          span(v-if="videos", @click="go_myVideos") 我的视频
+          span(v-if="deletes", @click="deleteAll") 全删
     //- center
     .top-title._effect(:class="{'_effect--50':decline}")
       slot(name='center')
@@ -43,6 +46,44 @@ export default {
     // 右侧按钮class
     'nextIcon': {
       type: String
+    },
+    'download': {
+      default: false
+    },
+    'clear': {
+      default: false
+    },
+    'videos': {
+      default: false
+    },
+    'deletes': {
+      default: false
+    }
+  },
+  methods: {
+    go_download () {
+      event.stopPropagation()
+      this.$router.push({ path: 'download', append: true })
+    },
+    clearList () {
+      this.$confirm('你确定要清空下载记录吗?').then(({result}) => {
+        console.log()
+        if (result) {
+
+        }
+      })
+    },
+    go_myVideos () {
+      event.stopPropagation()
+      this.$router.push({ path: 'myVideos', append: true })
+    },
+    deleteAll () {
+      this.$confirm('删除后无法恢复，你确定要删除吗?').then(({result}) => {
+        console.log()
+        if (result) {
+
+        }
+      })
     }
   }
 }

@@ -1,7 +1,7 @@
 <template lang="pug">
   ._full_router.component-movie-detail
     ._full_inner(v-if="msg")
-      top-handle(:curText="msg.titleCn")
+      top-handle(:curText="msg.titleCn",download)
       ._cover-content._effect
         .movie-info
           .movie-bg
@@ -52,6 +52,10 @@
                   mu-button 115
                   mu-button 百度
                   mu-button 播放
+    //- router
+    transition(name="hor")
+      keep-alive
+        router-view
 
 </template>
 

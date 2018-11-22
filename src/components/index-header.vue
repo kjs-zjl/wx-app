@@ -86,8 +86,6 @@ export default {
       event.stopPropagation()
       this.$router.push({ path: 'download', append: true })
     }
-  },
-  created () {
   }
 }
 </script>

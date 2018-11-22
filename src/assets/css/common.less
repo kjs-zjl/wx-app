@@ -350,6 +350,8 @@ body,
 /*top-handle.vue*/
 
 ._cover-top .top-back {
+    position: absolute;
+    z-index: 2;
     max-width: 85px;
     float: left;
 }
@@ -370,7 +372,9 @@ body,
 }
 
 ._cover-top .top-title {
-    padding: 0 8px;
+    position: absolute;
+    left: 0;
+    right: 0;
     text-align: center;
     overflow: hidden;
     justify-content: center;
@@ -403,11 +407,17 @@ body,
 }
 
 ._cover-top .top-other {
+    position: absolute;
+    z-index: 2;
+    right: 15px;
     height: 100%;
-    max-width: 75px;
+    // max-width: 75px;
     min-width: 50px;
     width: auto;
-    float: right;
+}
+
+._cover-top .top-other span {
+    margin-left: 10px;
 }
 
 ._cover-top .top-other .iconfont {
@@ -486,4 +496,8 @@ body,
   
   .mint-navbar .mint-tab-item.is-selected{
       margin-bottom: 0;
+  }
+
+  .mu-dialog .mu-primary-text-color{
+      color: #f44336;
   }

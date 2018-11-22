@@ -3,19 +3,28 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
-// 公用页面组件
+// 公用页面组件--我的视频
+const myVideos = {
+  path: 'myVideos',
+  component: resolve => {
+    require(['../views/common/my-videos'], resolve)
+  }
+}
+// 公用页面组件--下载
 const download = {
   path: 'download',
   component: resolve => {
     require(['../views/seed/download'], resolve)
-  }
+  },
+  children: [myVideos]
 }
-// 公用页面组件
+// 公用页面组件--影片详情
 const movieDetail = {
   path: 'movieDetail/:movie_id',
   component: resolve => {
     require(['../views/common/movie-detail'], resolve)
-  }
+  },
+  children: [download]
 }
 
 export default new Router({

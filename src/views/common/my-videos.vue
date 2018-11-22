@@ -1,7 +1,7 @@
 <template lang="pug">
-  ._full_router.component-download
+  ._full_router.component-myVideos
     ._full_inner
-      top-handle(curText="正在下载", clear, videos)
+      top-handle(curText="我的视频", deletes)
       ._cover-content
 
     //- router
@@ -20,7 +20,7 @@ export default {
 </script>
 
 <style lang="less" scoped>
-.component-download {
+.component-myVideos {
 
 }
 </style>
