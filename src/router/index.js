@@ -14,7 +14,7 @@ const myVideos = {
 const download = {
   path: 'download',
   component: resolve => {
-    require(['../views/seed/download'], resolve)
+    require(['../views/common/download'], resolve)
   },
   children: [myVideos]
 }

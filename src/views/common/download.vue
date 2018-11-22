@@ -3,7 +3,7 @@
     ._full_inner
       top-handle(curText="正在下载", clear, videos)
       ._cover-content
-
+        cardDownload
     //- router
     transition(name="hor")
       keep-alive
@@ -12,9 +12,12 @@
 
 <script>
 import topHandle from '@/components/top-handle'
+import cardDownload from '@/components/card-download'
+
 export default {
   components: {
-    topHandle
+    topHandle,
+    cardDownload
   }
 }
 </script>

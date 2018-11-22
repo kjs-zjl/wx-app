@@ -23,35 +23,11 @@
           mt-tab-item(id="zonghe") 综合
         mt-tab-container(v-model="selected",swipeable)
           mt-tab-container-item(id="6v")
-            ul.resource
-              li.resource-item(v-for="item in 3" :key="item")
-                .resource-item--title.border-1px
-                  p 1080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp4
-                .resource-item--btns
-                  mu-button 迅雷
-                  mu-button(@click="downloadMovice") 115
-                  mu-button 百度
-                  mu-button 播放
+            card
           mt-tab-container-item(id="dy2018")
-            ul.resource
-              li.resource-item(v-for="item in 4" :key="item")
-                .resource-item--title.border-1px
-                  p 1080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp4
-                .resource-item--btns
-                  mu-button 迅雷
-                  mu-button 115
-                  mu-button 百度
-                  mu-button 播放
-          mt-tab-container-item(id="zonghe") asgsag
-            ul.resource
-              li.resource-item(v-for="item in 1" :key="item")
-                .resource-item--title.border-1px
-                  p 1080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp4
-                .resource-item--btns
-                  mu-button 迅雷
-                  mu-button 115
-                  mu-button 百度
-                  mu-button 播放
+            card
+          mt-tab-container-item(id="zonghe")
+            card
     //- router
     transition(name="hor")
       keep-alive
@@ -62,6 +38,7 @@
 <script>
 import { Navbar, TabItem, tabContainer, tabContainerItem } from 'mint-ui'
 import topHandle from '../../components/top-handle'
+import card from '../../components/card'
 import { apiMovieDetial } from '../../api/api'
 
 let components = {}
@@ -70,6 +47,7 @@ components[TabItem.name] = TabItem
 components[tabContainer.name] = tabContainer
 components[tabContainerItem.name] = tabContainerItem
 components['topHandle'] = topHandle
+components['card'] = card
 
 export default {
   components,
@@ -128,34 +106,6 @@ export default {
     padding: 3px;
     position: relative;
   }
-  .resource {
-    padding: 10px 5px;
-    &-item {
-      background-color: #fff;
-      margin-bottom: 15px;
-      border-radius: 5px;
-      box-shadow: 0px 15px 10px -15px rgba(0, 0, 0, 0.2);
-      &:last-child {
-        margin-bottom: 0;
-      }
-      &--title {
-        p {
-          font-weight: bold;
-          padding: 3px 5px;
-        }
-      }
-      &--btns {
-        display: flex;
-        button {
-          flex: 1;
-          border-radius: 0;
-        }
-      }
-    }
-  }
-}
-.bg-blue {
-  background-color: rgb(63, 81, 181);
 }
 .color-green {
   color: green;
