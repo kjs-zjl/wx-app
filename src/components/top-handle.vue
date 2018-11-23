@@ -12,6 +12,7 @@
           span(v-if="clear", @click="clearList") 清空
           span(v-if="videos", @click="go_myVideos") 我的视频
           span(v-if="deletes", @click="deleteAll") 全删
+          span(v-if="regist", @click="register") 注册
     //- center
     .top-title._effect(:class="{'_effect--50':decline}")
       slot(name='center')
@@ -58,6 +59,9 @@ export default {
     },
     'deletes': {
       default: false
+    },
+    'regist': {
+      default: false
     }
   },
   methods: {
@@ -84,6 +88,10 @@ export default {
 
         }
       })
+    },
+    register () {
+      event.stopPropagation()
+      this.$router.push({ path: 'register', append: true })
     }
   }
 }

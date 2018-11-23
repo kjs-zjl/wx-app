@@ -8,10 +8,13 @@ import store from './store'
 import MuseUI from 'muse-ui'
 import Loading from 'muse-ui-loading'
 import Message from 'muse-ui-message'
+import VideoPlayer from 'vue-video-player'
 import { Toast } from 'mint-ui'
 import 'muse-ui/dist/muse-ui.css'
 import 'muse-ui-loading/dist/muse-ui-loading.css'
 import 'muse-ui-message/dist/muse-ui-message.css'
+require('video.js/dist/video-js.css')
+require('vue-video-player/src/custom-theme.css')
 
 require('./mock/mock')
 
@@ -20,6 +23,7 @@ Vue.use(Loading, {
   overlayColor: '#f1f0f6'
 })
 Vue.use(Message)
+Vue.use(VideoPlayer)
 
 window.Toast = Toast
 

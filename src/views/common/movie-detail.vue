@@ -1,18 +1,18 @@
 <template lang="pug">
   ._full_router.component-movie-detail
-    ._full_inner(v-if="msg")
-      top-handle(:curText="msg.titleCn",download)
+    ._full_inner(v-if="movieDetail")
+      top-handle(:curText="movieDetail.titleCn",download)
       ._cover-content._effect
         .movie-info
           .movie-bg
-            img(:src="msg.image")
+            img(:src="movieDetail.image")
           .movie-msg
-            p {{msg.titleCn}}
-            p 类型： {{msg.type.join(' / ')}}
-            p 年代： {{msg.year}}
-            p 上映日期： {{msg.release.date}} {{msg.release.location}}上映
-            p 主演： {{msg.actors[0]}}
-            p.movie--content {{msg.content ? msg.content : '无'}}
+            p {{movieDetail.titleCn}}
+            p 类型： {{movieDetail.type.join(' / ')}}
+            p 年代： {{movieDetail.year}}
+            p 上映日期： {{movieDetail.release.date}} {{movieDetail.release.location}}上映
+            p 主演： {{movieDetail.actors[0]}}
+            p.movie--content {{movieDetail.content ? movieDetail.content : '无'}}
         .baidu-netdist._line-fine
           span(class="color-pink") 推荐使用百度网盘离线&nbsp;&nbsp;只需安装破解版百度网盘就可以一键秒离线&nbsp;&nbsp;
           span(class="color-green") 点我可下载破解版百度网盘&nbsp;&nbsp;
@@ -23,11 +23,11 @@
           mt-tab-item(id="zonghe") 综合
         mt-tab-container(v-model="selected",swipeable)
           mt-tab-container-item(id="6v")
-            card
+            card(:movieDetail="movieDetail")
           mt-tab-container-item(id="dy2018")
-            card
+            card(:movieDetail="movieDetail")
           mt-tab-container-item(id="zonghe")
-            card
+            card(:movieDetail="movieDetail")
     //- router
     transition(name="hor")
       keep-alive
@@ -54,7 +54,7 @@ export default {
   data () {
     return {
       loading: true,
-      msg: null,
+      movieDetail: null,
       selected: '6v'
     }
   },
@@ -64,7 +64,7 @@ export default {
       let param = { movieId: this.$route.params.movie_id, locationId: 290, ts: 201851015581118117 }
       apiMovieDetial(param).then(res => {
         loading.close()
-        this.msg = res
+        this.movieDetail = res
       })
     },
     downloadMovice () {

@@ -1,25 +1,28 @@
 <template lang="pug">
   ul.card
-    li.card-item(v-for="item in 1" :key="item")
+    li.card-item(v-for="item in movieDetail.videos" :key="item.videoId")
       .card-item--title.border-1px
-        p 1080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp41080p.HD国语中字.mp4
+        p {{item.title}}
       .card-item--btns
         mu-button 迅雷
         mu-button 115
         mu-button 百度
-        mu-button 播放
+        mu-button(@click="changeSource(item)") 播放
+    videoPlayer(:showVideo="showVideo", @on-result-change="onResultChange",:video="currentVideo")
 </template>
 
 <script>
-export default {
-  props: {
+import videoPlayer from '@/components/videoPlayer'
+import player from '@/mixins/player'
 
+export default {
+  components: {
+    videoPlayer
   },
-  data () {
-    return {
-      linear: 10
-    }
-  }
+  props: {
+    movieDetail: null
+  },
+  mixins: [player]
 }
 </script>
 

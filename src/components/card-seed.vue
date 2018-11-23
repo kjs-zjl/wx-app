@@ -1,6 +1,6 @@
 <template lang="pug">
   ul.card
-    li.card-item(v-for="item in 5" :key="item")
+    li.card-item(v-for="item in 5", :key="item", @click="changeSource(item)")
       .card-item--title
         p 看破加减我是感觉看破加减我是感觉看破加减我是感觉看破加减我是感觉看破加减我是感觉看破加减我是感觉
       //- .card-item--btns
@@ -8,18 +8,19 @@
       //-   mu-button 115
       //-   mu-button 百度
       //-   mu-button 播放
+    videoPlayer(:showVideo="showVideo", @on-result-change="onResultChange",:video="currentVideo")
+
 </template>
 
 <script>
-export default {
-  props: {
+import videoPlayer from '@/components/videoPlayer'
+import player from '@/mixins/player'
 
+export default {
+  components: {
+    videoPlayer
   },
-  data () {
-    return {
-      linear: 10
-    }
-  }
+  mixins: [player]
 }
 </script>
 

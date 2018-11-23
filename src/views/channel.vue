@@ -2,42 +2,46 @@
   ._full
     ._full_inner._scroll._effect.component-channel(:class="{'_effect--30':decline}")
       .component-channel-content
-        swiper(:options="swiperOption" ref="mySwiper")
-          swiper-slide
-            img(src="https://sit.ferragamo.com/blueprint/servlet/resource/blob/127978/5f4e0fc4d553e16512541729a0ef4a39/print-2-data.jpg")
-          swiper-slide
-            img(src="https://sit.ferragamo.com/blueprint/servlet/resource/blob/127982/b9b29819a72fee9f426e5141aad5ebff/print-4-data.jpg")
-          swiper-slide
-            img(src="https://sit.ferragamo.com/blueprint/servlet/resource/blob/127984/2c6b1d80883d2c6a3482f7c6b13a7088/print-6-data.jpg")
+        cardChannel(:medias="channelList")
     transition(name="hor")
       keep-alive
         router-view
 </template>
 
 <script>
-import { swiper, swiperSlide } from 'vue-awesome-swiper'
 import { mapActions } from 'vuex'
-import 'swiper/dist/css/swiper.css'
+import cardChannel from '@/components/card-channel'
 
 export default {
   components: {
-    swiper,
-    swiperSlide
+    cardChannel
   },
   data () {
     return {
       decline: false,
-      swiperOption: {
-        // some swiper options/callbacks
-        // 所有的参数同 swiper 官方 api 参数
-        // ...
-      }
+      channelList: [
+        // {
+        //   id: 'old',
+        //   image: 'https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=bf9f4bf64b2309f7e36fad12420f0c39/9213b07eca806538fc02fa719adda144ac3482ec.jpg',
+        //   title: '老版本全网电影',
+        //   link: ''
+        // },
+        {
+          id: 'all',
+          image: 'https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=bf9f4bf64b2309f7e36fad12420f0c39/9213b07eca806538fc02fa719adda144ac3482ec.jpg',
+          title: '全网VIP',
+          link: ''
+        },
+        {
+          id: 'vip',
+          image: 'https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D500/sign=bf9f4bf64b2309f7e36fad12420f0c39/9213b07eca806538fc02fa719adda144ac3482ec.jpg',
+          title: 'VIP会员频道',
+          link: ''
+        }
+      ]
     }
   },
   computed: {
-    swiper () {
-      return this.$refs.mySwiper.swiper
-    }
   },
   methods: {
     ...mapActions(['set_menu_active'])
@@ -46,10 +50,6 @@ export default {
     this.set_menu_active(1)
   },
   mounted () {
-    // current swiper instance
-    // 然后你就可以使用当前上下文内的swiper对象去做你想做的事了
-    console.log('this is current swiper instance object', this.swiper)
-    this.swiper.slideTo(3, 1000, false)
   }
 }
 </script>

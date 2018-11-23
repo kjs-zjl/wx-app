@@ -3,6 +3,21 @@ import Router from 'vue-router'
 
 Vue.use(Router)
 
+// 公用页面组件--注册
+const register = {
+  path: 'register',
+  component: resolve => {
+    require(['../views/common/register'], resolve)
+  }
+}
+// 公用页面组件--登录
+const login = {
+  path: 'login',
+  component: resolve => {
+    require(['../views/common/login'], resolve)
+  },
+  children: [register]
+}
 // 公用页面组件--我的视频
 const myVideos = {
   path: 'myVideos',
@@ -50,7 +65,16 @@ export default new Router({
     component: resolve => {
       require(['../views/channel'], resolve)
     },
-    children: [download]
+    children: [
+      download,
+      {
+        path: 'netsVip',
+        component: resolve => {
+          require(['../views/channel/netsVip'], resolve)
+        },
+        children: [download]
+      }
+    ]
   },
   {
     path: '/seed',
@@ -69,7 +93,47 @@ export default new Router({
     path: '/person',
     component: resolve => {
       require(['../views/person'], resolve)
-    }
+    },
+    children: [
+      login,
+      {
+        path: 'onlinePlay',
+        component: resolve => {
+          require(['../views/person/onlinePlay'], resolve)
+        },
+        children: [download]
+      },
+      {
+        path: 'myCollection',
+        component: resolve => {
+          require(['../views/person/myCollection'], resolve)
+        }
+      },
+      {
+        path: 'feedback',
+        component: resolve => {
+          require(['../views/person/feedback'], resolve)
+        }
+      },
+      {
+        path: 'appLock',
+        component: resolve => {
+          require(['../views/person/appLock'], resolve)
+        }
+      },
+      {
+        path: 'openVip',
+        component: resolve => {
+          require(['../views/person/openVip'], resolve)
+        }
+      },
+      {
+        path: 'activeVip',
+        component: resolve => {
+          require(['../views/person/activeVip'], resolve)
+        }
+      }
+    ]
   }
   ]
 })
